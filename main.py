@@ -43,26 +43,26 @@ def process_speed_profile(data, segment_size=200):
             step_duration = step['duration']['value']
             step_speed = (step_distance / step_duration) * 3.6 if step_duration > 0 else 0
             
-        while step_distance > 0 and total_distance < actual_route_length * 1000:
-            segment_index = int(total_distance // segment_size)
-    
-            # ✅ Fix: Ensure segment_index does not exceed segment_speeds list size
-            if segment_index >= len(segment_speeds):
-            segment_speeds.append([])  # Extend the list dynamically
-    
-            remaining_segment_distance = segment_size - (total_distance % segment_size)
-            fill_distance = min(step_distance, remaining_segment_distance)
-    
-            proportion = fill_distance / step_distance
-            interpolated_speed = step_speed * proportion
-            segment_speeds[segment_index].append(interpolated_speed)
-    
-            total_distance += fill_distance
-            step_distance -= fill_distance
-    
+            while step_distance > 0 and total_distance < actual_route_length * 1000:
+                segment_index = int(total_distance // segment_size)
+
+                # ✅ Fix: Ensure segment_index does not exceed list size
+                if segment_index >= len(segment_speeds):
+                    segment_speeds.append([])  # Extend dynamically
+                
+                remaining_segment_distance = segment_size - (total_distance % segment_size)
+                fill_distance = min(step_distance, remaining_segment_distance)
+                
+                proportion = fill_distance / step_distance
+                interpolated_speed = step_speed * proportion
+                segment_speeds[segment_index].append(interpolated_speed)
+                
+                total_distance += fill_distance
+                step_distance -= fill_distance
+
     # Assign average speed to each segment and add small variation to prevent identical values
     last_speed = 0
-    for i in range(segment_count):
+    for i in range(len(segment_speeds)):  # Use dynamic length
         if segment_speeds[i]:
             avg_speed = sum(segment_speeds[i]) / len(segment_speeds[i])
             variation = random.uniform(-0.5, 0.5)  # Add slight random fluctuation
@@ -73,7 +73,7 @@ def process_speed_profile(data, segment_size=200):
         
         speed_profile.append([i * segment_size, segment_speed])
     
-    return speed_profile, actual_route_length, segment_count
+    return speed_profile, actual_route_length, len(segment_speeds)
 
 def main():
     routes = [('28.6439256293521, 77.33059588188844', '28.513868201823577, 77.24377959376827')]  # Example route
