@@ -20,32 +20,43 @@ def fetch_route_data(origin, destination):
     response = requests.get('https://maps.googleapis.com/maps/api/directions/json', params=params)
     return response.json()
 
-def process_speed_profile(data):
-    """Extract travel speed profile every 200 meters."""
+def process_speed_profile(data, route_length=25000, segment_size=200):
+    """Ensure exactly 125 segments of 200m each over the full route."""
     speed_profile = []
     total_distance = 0  # Track cumulative distance
-    segment_distance = 200  # 200m segments
     segment_time = 0  # Time for each 200m segment
+    segment_count = route_length // segment_size  # 125 segments for 25km
+    segment_speeds = [None] * segment_count  # Pre-allocate 125 slots
     
     for leg in data['routes'][0]['legs']:
         for step in leg['steps']:
-            distance = step['distance']['value']  # in meters
-            duration = step['duration']['value']  # in seconds
+            step_distance = step['distance']['value']  # in meters
+            step_duration = step['duration']['value']  # in seconds
+            step_speed = (step_distance / step_duration) * 3.6 if step_duration > 0 else 0  # km/h
             
-            while distance > 0:
-                if total_distance + distance < segment_distance:
-                    segment_time += duration
-                    total_distance += distance
-                    break
+            while step_distance > 0 and total_distance < route_length:
+                segment_index = total_distance // segment_size
+                remaining_segment_distance = segment_size - (total_distance % segment_size)
+                
+                if step_distance >= remaining_segment_distance:
+                    # Fill the current segment with interpolated speed
+                    segment_speeds[segment_index] = step_speed
+                    total_distance += remaining_segment_distance
+                    step_distance -= remaining_segment_distance
+                    step_duration -= (remaining_segment_distance / step_speed) * 3600 if step_speed > 0 else 0
                 else:
-                    ratio = (segment_distance - total_distance) / distance
-                    segment_time += ratio * duration
-                    avg_speed = (segment_distance / segment_time) * 3.6  # Convert to km/h
-                    speed_profile.append([segment_distance, avg_speed])
-                    distance -= (segment_distance - total_distance)
-                    duration -= (ratio * duration)
-                    total_distance = 0
-                    segment_time = 0
+                    total_distance += step_distance
+                    step_distance = 0
+    
+    # Assign default speed for missing segments (use last known speed or 0)
+    last_speed = 0
+    for i in range(segment_count):
+        if segment_speeds[i] is None:
+            segment_speeds[i] = last_speed
+        else:
+            last_speed = segment_speeds[i]
+        speed_profile.append([i * segment_size, segment_speeds[i]])
+    
     return speed_profile
 
 def main():
