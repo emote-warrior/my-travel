@@ -20,13 +20,15 @@ def fetch_route_data(origin, destination):
     response = requests.get('https://maps.googleapis.com/maps/api/directions/json', params=params)
     return response.json()
 
-def process_speed_profile(data, route_length=25000, segment_size=200):
-    """Ensure exactly 125 segments of 200m each over the full route."""
+def process_speed_profile(data, segment_size=200):
+    """Ensure same number of segments each time for the entire route with 200m segments."""
+    
+    actual_route_length = data['routes'][0]['legs'][0]['distance']['value']  # Get actual distance
+    segment_count = actual_route_length // segment_size  # Consistent segmentation
+    
     speed_profile = []
     total_distance = 0  # Track cumulative distance
-    segment_time = 0  # Time for each 200m segment
-    segment_count = route_length // segment_size  # 125 segments for 25km
-    segment_speeds = [None] * segment_count  # Pre-allocate 125 slots
+    segment_speeds = [None] * segment_count  # Pre-allocate slots for consistency
     
     for leg in data['routes'][0]['legs']:
         for step in leg['steps']:
@@ -34,7 +36,7 @@ def process_speed_profile(data, route_length=25000, segment_size=200):
             step_duration = step['duration']['value']  # in seconds
             step_speed = (step_distance / step_duration) * 3.6 if step_duration > 0 else 0  # km/h
             
-            while step_distance > 0 and total_distance < route_length:
+            while step_distance > 0 and total_distance < actual_route_length:
                 segment_index = total_distance // segment_size
                 remaining_segment_distance = segment_size - (total_distance % segment_size)
                 
@@ -60,27 +62,27 @@ def process_speed_profile(data, route_length=25000, segment_size=200):
     return speed_profile
 
 def main():
-    routes = [('28.6439256293521, 77.33059588188844', '28.513868201823577, 77.24377959376827')]  # Example route
+    origin = "28.6439256293521, 77.33059588188844"
+    destination = "28.513868201823577, 77.24377959376827"
     
-    for i, (origin, destination) in enumerate(routes, start=1):
-        data = fetch_route_data(origin, destination)
-        speed_data = process_speed_profile(data)
-        
-        # Convert to DataFrame
-        df = pd.DataFrame(speed_data, columns=['Distance (m)', 'Speed (km/h)'])
-        
-        # Save to Excel with formatting
-        timestamp = datetime.now().strftime('%d-%m-%Y %H-%M')
-        filename = f"speed_profile_{timestamp}.xlsx"
-        with pd.ExcelWriter(filename, engine='openpyxl') as writer:
-            df.to_excel(writer, sheet_name='Speed Profile', index=False)
-            workbook = writer.book
-            worksheet = writer.sheets['Speed Profile']
-            for col in worksheet.columns:
-                max_length = max(len(str(cell.value)) for cell in col)
-                worksheet.column_dimensions[col[0].column_letter].width = max_length + 2
-        
-        print(f"Speed profile saved to {filename}")
+    data = fetch_route_data(origin, destination)
+    speed_data = process_speed_profile(data)
+    
+    # Convert to DataFrame
+    df = pd.DataFrame(speed_data, columns=['Distance (m)', 'Speed (km/h)'])
+    
+    # Save to Excel with formatting
+    timestamp = datetime.now().strftime('%d-%m-%Y %H-%M')
+    filename = f"speed_profile_{timestamp}.xlsx"
+    with pd.ExcelWriter(filename, engine='openpyxl') as writer:
+        df.to_excel(writer, sheet_name='Speed Profile', index=False)
+        workbook = writer.book
+        worksheet = writer.sheets['Speed Profile']
+        for col in worksheet.columns:
+            max_length = max(len(str(cell.value)) for cell in col)
+            worksheet.column_dimensions[col[0].column_letter].width = max_length + 2
+    
+    print(f"Speed profile saved to {filename}")
 
 if __name__ == "__main__":
     main()
