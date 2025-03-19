@@ -49,7 +49,7 @@ def process_speed_profile(data):
     return speed_profile
 
 def main():
-    routes = [('28.5759808,77.2186263', '28.5827828,77.256016')]  # Example route
+    routes = [('28.6439256293521, 77.33059588188844', '28.513868201823577, 77.24377959376827')]  # Example route
     
     for i, (origin, destination) in enumerate(routes, start=1):
         data = fetch_route_data(origin, destination)
