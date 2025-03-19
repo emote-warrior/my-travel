@@ -2,17 +2,18 @@ import os
 import requests
 import pandas as pd
 from datetime import datetime
+import random
 
 # Google API Key
 API_KEY = os.getenv('GOOGLE_API_KEY')
 
 def fetch_route_data(origin, destination):
-    """Fetch detailed route data including steps."""
+    """Fetch detailed route data including steps, forcing recalculation by using a timestamp."""
     params = {
         'origin': origin,
         'destination': destination,
         'key': API_KEY,
-        'departure_time': 'now',
+        'departure_time': int(datetime.now().timestamp()),  # Forces Google to recalculate traffic
         'traffic_model': 'best_guess',
         'alternatives': 'false',
         'steps': 'true'
@@ -62,8 +63,11 @@ def process_speed_profile(data, segment_size=200):
     return speed_profile
 
 def main():
-    origin = "28.6439256293521, 77.33059588188844"
-    destination = "28.513868201823577, 77.24377959376827"
+    # Add a tiny random offset to prevent caching issues
+    lat_offset = random.uniform(-0.0001, 0.0001)  # Tiny shift (~10m)
+    lng_offset = random.uniform(-0.0001, 0.0001)
+    origin = f"{28.6439256293521 + lat_offset}, {77.33059588188844 + lng_offset}"
+    destination = f"{28.513868201823577 + lat_offset}, {77.24377959376827 + lng_offset}"
     
     data = fetch_route_data(origin, destination)
     speed_data = process_speed_profile(data)
