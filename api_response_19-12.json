@@ -11,11 +11,7 @@
             ]
         },
         {
-            "geocoder_status": "OK",
-            "place_id": "ChIJ66k6_HThDDkRgSD8m_XsFG4",
-            "types": [
-                "street_address"
-            ]
+            "geocoder_status": "UNKNOWN_ERROR"
         }
     ],
     "routes": [
@@ -43,9 +39,8 @@
                     },
                     "duration_in_traffic": {
                         "text": "34 mins",
-                        "value": 2032
+                        "value": 2025
                     },
-                    "end_address": "Y9, Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi 110062, India",
                     "end_location": {
                         "lat": 28.5138429,
                         "lng": 77.2437757
