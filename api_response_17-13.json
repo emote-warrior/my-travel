@@ -35,15 +35,15 @@
                 {
                     "distance": {
                         "text": "25.1 km",
-                        "value": 25087
+                        "value": 25088
                     },
                     "duration": {
                         "text": "46 mins",
-                        "value": 2767
+                        "value": 2773
                     },
                     "duration_in_traffic": {
-                        "text": "38 mins",
-                        "value": 2265
+                        "text": "39 mins",
+                        "value": 2335
                     },
                     "end_address": "Y9, Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi 110062, India",
                     "end_location": {
@@ -429,7 +429,7 @@
                             "html_instructions": "Take the ramp to <b>Baba Banda Singh Bahadur Setu</b>",
                             "maneuver": "ramp-left",
                             "polyline": {
-                                "points": "armmDouqvMDUJ[DIPa@Pc@JURe@BGBI@EBG?C@G?C@M?M@K?MAKCOEOEKIMIKMKKGIEIGICGAMAMAA?Q?I?C@MBKDKHQLGFMPCJCJERCV?N?N@XDR@DBNBNKNVp@Vn@b@bAj@rARj@Xr@Vp@`@pANb@Ln@F^J^RbA"
+                                "points": "armmDouqvMDUJ[DIPa@Pc@JURe@BGBI@EBG?C@G?C@M?M@K?MAKCOEOEKIMIKMKKGIEIGICGAMAMAA?Q?I?C@MBKDKHQLGFMPCJCJERCV?N?N@XDR@DBNBNKNVp@Vn@l@tA`@`ARj@Xr@Vp@`@pANb@Ln@H`@H`@R~@"
                             },
                             "start_location": {
                                 "lat": 28.5828896,
@@ -444,15 +444,15 @@
                             },
                             "duration": {
                                 "text": "3 mins",
-                                "value": 151
+                                "value": 152
                             },
                             "end_location": {
-                                "lat": 28.5870214,
-                                "lng": 77.2434425
+                                "lat": 28.5870327,
+                                "lng": 77.2434364
                             },
                             "html_instructions": "Continue onto <b>Baba Banda Singh Bahadur Setu</b>",
                             "polyline": {
-                                "points": "ammmDudqvMB^P|ABh@@`@@h@?V?dAApA?d@?V?\\?\\?p@G`ACv@?@Cr@Ej@CXEZIh@On@Kd@c@lAKVCHQ\\U^SZOVw@fAA@IJKNABgArA}@fA]b@a@r@u@jA[d@GJy@rA_@j@e@h@aBrBCB?@WX]b@SVc@j@MRMZQ`@Qf@?DMf@G^E^C^AVAN?j@@TDl@D`@@BFb@@DH^Lj@DTBPBFBN?BRnA@@Dd@BHB\\BRBj@?N?PA^C\\?@CTEZG\\AHKb@YbAYjAOl@Ih@C\\CL?RAj@?X@V@VB`@"
+                                "points": "ammmDudqvMDb@Fp@Fl@Bb@?b@@b@?\\CbAC|A?R?\\AZA`@Cv@A|@?p@At@Ej@EVEXKf@Qp@Kb@a@lAKZOXKRQZQZ_A|AKNKNe@p@s@x@m@t@UZi@z@w@jA[b@ADMP]n@u@dAa@f@aBjB[`@_@d@STc@j@QVQXIRIPIRELIVI\\Id@CRC`@CVAT?P?T?L@NBVH~@LbANx@Nn@DTRdAFb@Fh@@b@@h@Ab@Ah@CPEZE^Kf@SfAWhAWvAC^ALAT?h@?V@V@XDb@"
                             },
                             "start_location": {
                                 "lat": 28.582091,
@@ -463,11 +463,11 @@
                         {
                             "distance": {
                                 "text": "3.0 km",
-                                "value": 3031
+                                "value": 3032
                             },
                             "duration": {
                                 "text": "5 mins",
-                                "value": 282
+                                "value": 283
                             },
                             "end_location": {
                                 "lat": 28.5623349,
@@ -476,11 +476,11 @@
                             "html_instructions": "Exit onto <b>Lala Lajpat Rai Rd</b><div style=\"font-size:0.9em\">Pass by Lajpat Nagar Metro Station (on the left in 2 km)</div>",
                             "maneuver": "ramp-left",
                             "polyline": {
-                                "points": "{knmDormvMD?B@DFBFBJ@JDN?@JXJTHN\\`@`@h@hAnAXXXZNNTTHHHFLHLFLHJDVLRHJDND^Nd@\\N@H@LBNDRDh@TVLTJd@Tb@TbAf@DBFBVN\\PLHPJ~@f@b@Rf@XpAr@VLVNPHNFPHb@LZHl@Lf@F`@@V@X?j@@R?T@XAJ?\\A\\?D?dAAd@?DAP@R?b@?jFCj@?nBA|@Cv@@`@@N?J@JBNBHBPFRDPF\\LNHlAj@jAj@jB~@PJrAv@zAv@RLn@Zv@`@`@RtAj@XH`Ab@`@N`@P\\P`@P~@`@@?fB|@r@^b@TnAh@BBRFPD\\HTD^FTBXDP@v@FdBPf@FZD`@FNBPDB@RFNDPFl@VHDNF|BdAB@dChAx@^vAl@vAj@"
+                                "points": "}knmDormvMH@B@BDBFBJ@JDN?@JXJTHN\\`@`@h@hAnAXXXZNNTTHHHFLHLFLHJDVLRHJDND^Nd@\\N@H@LBNDRDh@TVLTJd@Tb@TbAf@DBFBVN\\PLHPJ~@f@b@Rf@XpAr@VLVNPHNFPHb@LZHl@Lf@F`@@V@X?j@@R?T@XAJ?\\A\\?D?dAAd@?DAP@R?b@?jFCj@?nBA|@Cv@@`@@N?J@JBNBHBPFRDPF\\LNHlAj@jAj@jB~@PJrAv@zAv@RLn@Zv@`@`@RtAj@XH`Ab@`@N`@P\\P`@P~@`@@?fB|@r@^b@TnAh@BBRFPD\\HTD^FTBXDP@v@FdBPf@FZD`@FNBPDB@RFNDPFl@VHDNF|BdAB@dChAx@^vAl@vAj@"
                             },
                             "start_location": {
-                                "lat": 28.5870214,
-                                "lng": 77.2434425
+                                "lat": 28.5870327,
+                                "lng": 77.2434364
                             },
                             "travel_mode": "DRIVING"
                         },
@@ -515,7 +515,7 @@
                             },
                             "duration": {
                                 "text": "3 mins",
-                                "value": 204
+                                "value": 208
                             },
                             "end_location": {
                                 "lat": 28.5420983,
@@ -632,7 +632,7 @@
                 }
             ],
             "overview_polyline": {
-                "points": "ooymDgs~vMDHYx@gAbDITh@l@nB|AjBfAj@T`@HdAZ`ARfBVn@HhB@zCO|AShB[p@O~@]jM_FbG_Cv@YxAq@vBy@tCiAjBgArBk@n@nCfCpLl@rBVnALx@XnAfAhFrBvIXrA@hAXlAXh@BHp@hC?x@@PVxApDlOv@jD|BxJp@rCZhA\\~ATlARj@l@fCj@lC`AnElCrLnC|KbJz_@bG`WvFhVnB`IfApEzAjGj@lCb@vA\\jAX`ATn@hAnCd@`AtBlD|CjEvBjCx@v@DHXVf@X~A`AzA|A`BjAf@b@~I`IjHlG~@|@?LFXl@x@nBjCj@z@`@r@pA~BzAjDv@vB~@rCpExMd@xA~@fCP\\^f@HFXv@hAdD`@pA\\nArApDd@|@vAlCtAnD|HjUhCfH~@nCdBnFhBxGf@rAl@`AnAv@\\Nx@VRBh@DtCq@xA[ZCF@HBv@W|D{@rDaAvAa@~@KjAWnH_BbCi@rIsBbGwAzAe@p@Wf@Wd@_@TWd@e@\\a@\\o@lAoC~C_GnA_CnBkDPi@t@kBf@mAFYBk@AYI_@OYWWi@Ye@E[?QDWNYTQ\\I^Cf@@h@Nx@KNVp@z@rB~@~Bp@dBp@tBTnA^bBT|BFlCA|D?dCOnDIdAOdA[tAo@dB_AbBsAlBsCnD_AvAqApBaA~AeAtA}BrCq@z@q@~@_@|@Ql@UfAI~@Cf@@`AJnAHf@^fBj@nDFp@Bz@EpASxAoA`FMfAC`@AdABn@B`@D?HHNn@JZTd@~@jAbBhB~@`An@b@dAf@ZJ^Nd@\\XB\\H|@Zl@XrCvAjAn@pH|D`@P~@VtATx@BnBB`BClLEpGChAF~@Tn@T|At@vDjBdBbAvEbCrElBbCdA`A`@zC|ArB~@VJdB\\xBRjEf@x@RxAj@vGxCpClAvAj@RRbBv@nAp@vC`Bx@d@nAl@~@\\lCz@`Bj@|FhB|Ar@vC~@lBp@vFlB`APjAHpAAzAGnCKtDMjDQjBGhAG~AQd@IbA]pBu@bBu@|CkAbIsCxEgBxGqCfAc@bAUj@I|BQjB?lFDxDB`NHzMDzEArFJtIPV@d@JnBb@pCz@nDdAzHfCjEtA~@XzAl@nAb@fA\\nBn@`Bl@jCdAhFhBxC`A|Ab@pBn@|@Rr@JrANt@BrABTIXIXOf@{Ch@uD`@yC\\wBd@}BjA{GViC?uALmANcAn@{Eh@gDdAwGN}A~@wGJcAP{Cj@_FD]F_B?sB@m@q@EkBKgAI_AGNiC"
+                "points": "ooymDgs~vMDHYx@gAbDITh@l@nB|AjBfAj@T`@HdAZ`ARfBVn@HhB@zCO|AShB[p@O~@]jM_FbG_Cv@YxAq@vBy@tCiAjBgArBk@n@nCfCpLl@rBVnALx@XnAfAhFrBvIXrA@hAXlAXh@BHp@hC?x@@PVxApDlOv@jD|BxJp@rCZhA\\~ATlARj@l@fCj@lC`AnElCrLnC|KbJz_@bG`WvFhVnB`IfApEzAjGj@lCb@vA\\jAX`ATn@hAnCd@`AtBlD|CjEvBjCx@v@DHXVf@X~A`AzA|A`BjAf@b@~I`IjHlG~@|@?LFXl@x@nBjCj@z@`@r@pA~BzAjDv@vB~@rCpExMd@xA~@fCP\\^f@HFXv@hAdD`@pA\\nArApDd@|@vAlCtAnD|HjUhCfH~@nCdBnFhBxGf@rAl@`AnAv@\\Nx@VRBh@DtCq@xA[ZCF@HBv@W|D{@rDaAvAa@~@KjAWnH_BbCi@rIsBbGwAzAe@p@Wf@Wd@_@TWd@e@\\a@\\o@lAoC~C_GnA_CnBkDPi@t@kBf@mAFYBk@AYI_@OYWWi@Ye@E[?QDWNYTQ\\I^Cf@@h@Nx@KNVp@dAdCfBrEp@tBVpA\\`BLtAJpA@fAG~DKlIKbAQ`A]tAm@hB_AdBkAlBq@`AaBnB_AvAcBfCsAtBcCrCsBhCc@p@Sd@c@vAMx@Gx@AjA\\jDx@dENlABlAClAIl@QfAk@pC[vBCb@?`ABp@Db@H@FFNn@JZTd@~@jAbBhB~@`An@b@dAf@ZJ^Nd@\\XB\\H|@Zl@XrCvAhFpCrCzA`@P~@VtATx@BnBBxEGtHApGChAF~@Tn@T|At@vDjBdBbAvEbCrElBbCdA`A`@zC|ArB~@VJdB\\xBRjEf@x@RxAj@vGxCpClAvAj@RRbBv@nAp@vC`Bx@d@nAl@~@\\lCz@`Bj@|FhB|Ar@vC~@lBp@hC|@lBn@`APjAHpAAzAGnCK`J_@jBGhAG~AQd@IbA]pBu@bBu@|CkAbIsCxEgBxGqCfAc@bAUj@I|BQjB?lFDzSLzMDzEArFJtIPV@d@JnBb@pCz@nDdAfO|E~@XzAl@nAb@vDlAzChApAh@rBt@tBr@xC`A|Ab@pBn@|@Rr@JrANt@BrABTIXIXOf@{Ch@uD`@yC\\wBd@}BjA{GViC?uALmANcAn@{Eh@gDdAwGN}A~@wGJcAP{Cj@_FD]F_B?sB@m@q@EkBKgAI_AGNiC"
             },
             "summary": "Gurjar Samrat Mihir Bhoj Marg",
             "warnings": [],
