@@ -35,15 +35,15 @@
                 {
                     "distance": {
                         "text": "25.1 km",
-                        "value": 25108
+                        "value": 25096
                     },
                     "duration": {
-                        "text": "46 mins",
-                        "value": 2731
+                        "text": "45 mins",
+                        "value": 2697
                     },
                     "duration_in_traffic": {
-                        "text": "52 mins",
-                        "value": 3105
+                        "text": "48 mins",
+                        "value": 2881
                     },
                     "end_address": "Y9, Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi 110062, India",
                     "end_location": {
@@ -223,21 +223,21 @@
                         },
                         {
                             "distance": {
-                                "text": "2.1 km",
-                                "value": 2068
+                                "text": "2.0 km",
+                                "value": 2035
                             },
                             "duration": {
                                 "text": "3 mins",
-                                "value": 170
+                                "value": 166
                             },
                             "end_location": {
-                                "lat": 28.5924156,
-                                "lng": 77.2577459
+                                "lat": 28.5926799,
+                                "lng": 77.25759719999999
                             },
                             "html_instructions": "Exit onto <b>NH 44</b>",
                             "maneuver": "ramp-left",
                             "polyline": {
-                                "points": "{uqmDavrvMH@@@B@B@B@BBBDBBBD@BHPBHFLBHDHBHDJDF@FBF@D@@@B@@@@@@@@BBDBbAnCN`@P\\R^Xd@f@`AR`@@BZv@Vr@DHZx@x@fCbDnJtA~DHRhCfH~@nCv@`Cl@lBh@lB~@jDVv@NZT`@RX@B@@@@VP@@@@PJB@VNB@@@ZLx@VRBh@DtCq@rA[D?HALAB?@?@?@?@@B?DBv@W|D{@pDaA@?z@UZKJI@A@A@A@ABAHCPE"
+                                "points": "{uqmDavrvMH@@@B@B@B@BBBDBBBD@BHPBHFLBHDHBHDJDF@FBF@D@@@B@@@@@@@@BBDBbAnCN`@P\\R^Xd@f@`AR`@@BZv@Vr@DHZx@x@fCbDnJtA~DHRhCfH~@nCv@`Cl@lBh@lB~@jDVv@NZT`@RX@B@@@@VP@@@@PJB@VNB@@@ZLx@VRBh@DtCq@rA[D?HALAB?@?@?@?@@B?DBv@W|D{@pDaA@?z@UZK"
                             },
                             "start_location": {
                                 "lat": 28.6039768,
@@ -248,24 +248,24 @@
                         {
                             "distance": {
                                 "text": "0.8 km",
-                                "value": 762
+                                "value": 783
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 89
+                                "value": 64
                             },
                             "end_location": {
                                 "lat": 28.5859438,
                                 "lng": 77.2598909
                             },
-                            "html_instructions": "Turn <b>left</b>",
-                            "maneuver": "turn-left",
+                            "html_instructions": "Slight <b>right</b>",
+                            "maneuver": "turn-slight-right",
                             "polyline": {
-                                "points": "smomD}kpvMDUFMBCFERIzA[XG?Ab@I^IPENEb@KvEgAtEoAZGt@Gb@IhAS@?|Cy@JC`@Kl@M\\IVER?P@ZH"
+                                "points": "goomD_kpvMXCd@GFAbAU~D}@tA[PCFADARE@?ZG^KNCZIDA`@I^KTETGVGfBe@~A_@bDw@^I\\I`@Kb@Kv@Y\\KRK\\Q"
                             },
                             "start_location": {
-                                "lat": 28.5924156,
-                                "lng": 77.2577459
+                                "lat": 28.5926799,
+                                "lng": 77.25759719999999
                             },
                             "travel_mode": "DRIVING"
                         },
@@ -276,14 +276,14 @@
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 68
+                                "value": 63
                             },
                             "end_location": {
                                 "lat": 28.5828896,
                                 "lng": 77.2643982
                             },
-                            "html_instructions": "Turn <b>left</b> onto <b>NH 44</b>",
-                            "maneuver": "turn-left",
+                            "html_instructions": "Merge onto <b>NH 44</b>",
+                            "maneuver": "merge",
                             "polyline": {
                                 "points": "cenmDiypvMHE\\YFENSDCXWJMNOLQP_@JOlAoC~C_GTc@x@{At@kAx@_BJS"
                             },
@@ -309,7 +309,7 @@
                             "html_instructions": "Take the ramp to <b>Baba Banda Singh Bahadur Setu</b>",
                             "maneuver": "ramp-left",
                             "polyline": {
-                                "points": "armmDouqvMDUJ[DIPa@Pc@JUXa@BIBG@GBK@I@O?K?QAKAICQEMGMIMIKMKKGIEIGICGAKAKAC?QASBQBKFQHQLEDMRMXEPALAL?PBXDR?DFR@F@F?TVr@Vn@j@tA`@~@Tl@p@dBb@nALd@VpAH`@R`A"
+                                "points": "armmDouqvMDUJ[DIPa@Pc@JUXa@BIBG@GBK@I@O?K?QAKAICQEMGMIMCCEGMKKGIEIGICGAKAKAC?QASBQBKFQHQLEDMRMXEPALAL?PBXDR?DFR@F@F?TVr@Vn@j@tA`@~@Tl@p@dBPf@Pf@Ld@VpAH`@R`A"
                             },
                             "start_location": {
                                 "lat": 28.5828896,
@@ -332,7 +332,7 @@
                             },
                             "html_instructions": "Continue onto <b>Baba Banda Singh Bahadur Setu</b>",
                             "polyline": {
-                                "points": "cmmmDodqvMF^Fn@Fl@Bb@?b@@b@?\\CbAC|A?R?\\AZA`@Cv@A|@?p@At@Ej@EVEXKf@Qp@Kb@a@lAKZOXKRQZQZ_A|AKNKNe@p@s@x@m@t@UZi@z@w@jA[b@ADMP]n@u@dAa@f@uA~AKJ[`@_@d@STc@j@QVQXIRIPIRELIVI\\Id@CRC`@CVAT?P?T?L@NBVH~@LbANx@Nn@DTRdAFb@Fh@?H@X@h@Ab@Ah@CPEZE^Kf@SfAWhAWvAC^ALAT?h@?V@V@XDb@"
+                                "points": "cmmmDodqvMF^Fn@Fl@Bb@?b@@V?J?\\CbAC|A?R?\\AZA`@Cv@A|@?p@At@Ej@EVEXKf@Qp@Kb@a@lAKZOXKRQZQZ_A|AKNKNe@p@s@x@m@t@UZi@z@w@jA[b@ADMP]n@u@dAa@f@c@d@q@x@KJ[`@_@d@STc@j@QVQXIRIPIRELIVI\\Id@CRC`@CVAT?P?T?L@NBVH~@LbANx@Nn@DTRdAFb@Fh@?H@X@h@Ab@Ah@CPEZE^Kf@SfAWhAWvAC^ALAT?h@?V@V@XDb@"
                             },
                             "start_location": {
                                 "lat": 28.5821012,
@@ -512,7 +512,7 @@
                 }
             ],
             "overview_polyline": {
-                "points": "ooymDgs~vMDHYx@gAbDITh@l@nB|AjBfAj@T`@HdAZ`ARfBVn@HhB@zCO|AShB[p@O~@]jM_FbG_Cv@YxAq@vBy@tCiAjBgArBk@n@nCfCpLl@rBVnALx@XnAfAhFrBvIXrA@hAXlAb@jCBl@CRd@jB`@fBpAfGr@~Cz@fDp@~CdBjHbCbKhCjL|BjKbAnEfDhN~EnS~B~JpAlFtSv|@dArD`BjFVj@bAvBn@hAZj@d@v@bBdCzArBbBnB`AbAjBdBjDlCxHnGzGlGfC|BlCvClBfC`AxAhBfDhAhCbAnCb@rA|@hC~CnJ~BvGr@tB\\x@ZfAH@DBFBNRj@vATf@LJrApDd@|@vAlCtAnD|HjUhCfH~@nCdBnFhBxGf@rAl@`AnAv@\\Nx@VRBh@DtCq@xA[ZCF@HBv@W|D{@rDaAvAa@PO`@MDUFMJIhCo@dB_@zFsApFwAxAQjASxFwAt@Od@@ZHHEd@_@TWd@e@\\a@\\o@lAoC~C_GnA_CnBkDPi@t@kBd@w@FQHm@Cs@I_@Q[WWUMg@OOAe@@]Jc@VSXSj@CZBj@Nt@@\\n@bBlAtCfArCp@tB`@rBZ`BN|ABfA@`AGtDGrCAnBG`BKp@]xAm@pB[t@oBhDW^yAjBcApAaBfCiAjBwAlBaBjBsBhCc@p@Sd@c@vAMx@Gx@AjA\\jDx@dENlA@b@?lAEz@Kz@_@nBo@`DEl@A~@@n@F|@LBFLDVDPVn@f@p@jBxBbAdAv@p@~@d@nAd@d@\\N@VDb@J`Ab@bD~AfEzBhDjB`@Pt@VhAVhAHpBBhFCnA?vGClDEtBDv@RrAd@vGbDrFxCxAt@nBt@bDvAjEpBvAt@rAl@d@Lr@N`BR|CXbALfARb@L~@^zCtA~DhBnDxARRVJxBfAvC`BjCxArAh@jFbBlA^~DpAdAb@VNzBr@t@Vv@VdC|@pBn@ZLj@Jr@JdABfBEvCMjHWfEQzBOrASjBo@lDyA|CkA`EwAnFqBvHyClAi@fAc@bAUj@IdBMbACrFBtMJzMD~FBzEAhQ\\l@F~Bh@nGlBhNnEnCz@~Bz@bDdAbEzAvBz@zBx@xFjB|Ab@pBn@|@RfCZhCFf@O`@S~@}Fr@mF\\wBd@}BjA{GViC?uALmA~@_HlAwH`@gCN}A~@wGJcAP{Cj@_FD]F_B?sB@m@q@EkBKgAI_AGNiC"
+                "points": "ooymDgs~vMDHYx@gAbDITh@l@nB|AjBfAj@T`@HdAZ`ARfBVn@HhB@zCO|AShB[p@O~@]jM_FbG_Cv@YxAq@vBy@tCiAjBgArBk@n@nCfCpLl@rBVnALx@XnAfAhFrBvIXrA@hAXlAb@jCBl@CRd@jB`@fBpAfGr@~Cz@fDp@~CdBjHbCbKhCjL|BjKbAnEfDhN~EnS~B~JpAlFtSv|@dArD`BjFVj@bAvBn@hAZj@d@v@bBdCzArBbBnB`AbAjBdBjDlCxHnGzGlGfC|BlCvClBfC`AxAhBfDhAhCbAnCb@rA|@hC~CnJ~BvGr@tB\\x@ZfAH@DBFBNRj@vATf@LJrApDd@|@vAlCtAnD|HjUhCfH~@nCdBnFhBxGf@rAl@`AnAv@\\Nx@VRBh@DtCq@xA[ZCF@HBv@W|D{@rDaAvAa@~@KjAWnH_BbCi@rIsBbGwAzAe@p@Wf@Wd@_@TWd@e@\\a@\\o@lAoC~C_GnA_CnBkDPi@t@kBd@w@FQHm@Cs@I_@Q[IKYSe@Sm@Ee@F]PWR[l@G^A^Hl@FXBN?TVr@bAdCv@lBbAlC^lA|@tEN|ABfA@b@C`BCnCIrDAfBKbAQ`A]tAm@hB[l@oBdDq@`AaBnBsCfEOVsAtBcCrCsBhCc@p@Sd@c@vAMx@Gx@AjA\\jDx@dENlA@b@?lAEz@Kz@_@nBo@`DEl@A~@@n@F|@LBFLDVDPVn@f@p@jBxBbAdAv@p@~@d@nAd@d@\\N@VDb@J`Ab@bD~AfEzBhDjB`@Pt@VhAVhAHpBBhFCnA?vGClDEtBDv@RrAd@vGbDrFxCxAt@nBt@bDvAjEpBvAt@rAl@d@Lr@N`BR|CXbALfARb@L~@^zCtA~DhBnDxARRVJxBfAvC`BjCxArAh@jFbBlA^~DpAdAb@VNzBr@t@Vv@VdC|@pBn@ZLj@Jr@JdABfBEvCMjHWfEQzBOrASjBo@lDyA|CkA`EwAnFqBvHyClAi@fAc@bAUj@IdBMbACrFBtMJzMD~FBzEAhQ\\l@F~Bh@nGlBhNnEnCz@~Bz@bDdAbEzAvBz@zBx@xFjB|Ab@pBn@|@RfCZhCFf@O`@S~@}Fr@mF\\wBd@}BjA{GViC?uALmA~@_HlAwH`@gCN}A~@wGJcAP{Cj@_FD]F_B?sB@m@q@EkBKgAI_AGNiC"
             },
             "summary": "NE 3",
             "warnings": [],
