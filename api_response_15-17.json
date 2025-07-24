@@ -27,7 +27,7 @@
                 },
                 "southwest": {
                     "lat": 28.5124524,
-                    "lng": 77.2282477
+                    "lng": 77.2282527
                 }
             },
             "copyrights": "Powered by Google, \u00a92025 Google",
@@ -35,15 +35,15 @@
                 {
                     "distance": {
                         "text": "25.0 km",
-                        "value": 25020
+                        "value": 25038
                     },
                     "duration": {
                         "text": "46 mins",
-                        "value": 2775
+                        "value": 2734
                     },
                     "duration_in_traffic": {
-                        "text": "53 mins",
-                        "value": 3159
+                        "text": "51 mins",
+                        "value": 3051
                     },
                     "end_address": "Y9, Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi 110062, India",
                     "end_location": {
@@ -200,20 +200,20 @@
                         },
                         {
                             "distance": {
-                                "text": "6.0 km",
-                                "value": 6021
+                                "text": "7.5 km",
+                                "value": 7529
                             },
                             "duration": {
-                                "text": "6 mins",
-                                "value": 372
+                                "text": "8 mins",
+                                "value": 479
                             },
                             "end_location": {
-                                "lat": 28.6039768,
-                                "lng": 77.269606
+                                "lat": 28.598316,
+                                "lng": 77.2557868
                             },
                             "html_instructions": "Take the ramp onto <b>NE 3</b>",
                             "polyline": {
-                                "points": "yqvmDuc}vMb@jCD`@AJCRd@jBTbAJb@l@pCb@tBVlAZpAb@|ABJFZJ`@XrAJf@DLDT@DJf@J\\?BJ`@Lh@Nh@`@dB`@bBJ`@R|@`A~DPz@`@jB`@hBr@xCH`@H`@R~@H^H\\@Fn@tCNj@FXDPH^Lf@BLFXHZFVFV`@zADTn@hCVbAVdAJd@Jd@pAlFpAlF\\xA\\xAn@nCZxA^xARz@Pp@J`@J`@FZDNHZFXFTVhAbBjHFV@@HZvAfGhAzEH\\Jd@d@pBJd@lBdIT`AdCpKPp@XbA^pADLDNX`AV~@Vt@Vr@N^FJbAvBn@hAJRNVNVT^PVNV\\f@b@l@l@z@X\\?@RVr@z@n@r@TTj@l@JLVT^Zf@d@ZVp@f@j@b@p@h@n@h@dA|@x@p@hCtBbB`Bd@b@z@v@tAnAz@r@jAhAbAdAhApAjAxA`@l@X`@f@v@z@|Al@hATf@r@`BPd@P`@Z|@BHBHPf@?@L^LZBJJVBH@BNb@FR@BHVDFNd@Pf@lAvDNd@Nb@Nb@Nb@^fAPd@l@`Br@tB\\x@ZfA"
+                                "points": "yqvmDuc}vMb@jCD`@AJCRd@jBTbAJb@l@pCb@tBVlAZpAb@|ABJFZJ`@XrAJf@DLDT@DJf@J\\?BJ`@Lh@Nh@`@dB`@bBJ`@R|@`A~DPz@`@jB`@hBr@xCH`@H`@R~@H^H\\@Fn@tCNj@FXDPH^Lf@BLFXHZFVFV`@zADTn@hCVbAVdAJd@Jd@pAlFpAlF\\xA\\xAn@nCZxA^xARz@Pp@J`@J`@FZDNHZFXFTVhAbBjHFV@@HZvAfGhAzEH\\Jd@d@pBJd@lBdIT`AdCpKPp@XbA^pADLDNX`AV~@Vt@Vr@N^FJbAvBn@hAJRNVNVT^PVNV\\f@b@l@l@z@X\\?@RVr@z@n@r@TTj@l@JLVT^Zf@d@ZVp@f@j@b@p@h@n@h@dA|@x@p@hCtBbB`Bd@b@z@v@tAnAz@r@jAhAbAdAhApAjAxA`@l@X`@f@v@z@|Al@hATf@r@`BPd@P`@Z|@BHBHPf@?@L^LZBJJVBH@BNb@FR@BHVDFNd@Pf@lAvDNd@Nb@Nb@Nb@^fAPd@l@`Br@tB\\x@ZfArC~HLZ@BLXJTR^LRLPHNJR?@@@JTLZf@lAj@jBJZ^jAFLb@tAHVJXPd@N`@BLj@~A?@Nb@Tn@BFFL?Bp@fBL\\b@rA^fAd@rAJXj@xAj@rAl@dBn@pBFPFPDL@@L`@Nd@b@vAb@`BLh@X~@BH@J?F@J?B?BA@?BAPALAFGpAAx@AZ"
                             },
                             "start_location": {
                                 "lat": 28.6289318,
@@ -223,25 +223,49 @@
                         },
                         {
                             "distance": {
-                                "text": "2.0 km",
-                                "value": 2035
+                                "text": "0.4 km",
+                                "value": 354
                             },
                             "duration": {
-                                "text": "3 mins",
-                                "value": 167
+                                "text": "1 min",
+                                "value": 44
+                            },
+                            "end_location": {
+                                "lat": 28.5952487,
+                                "lng": 77.2566829
+                            },
+                            "html_instructions": "Turn <b>left</b>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "orpmDu_pvMxBc@~@WtAYPCd@KtCq@rA[D?HALAB?@?@?@?@@B?DB"
+                            },
+                            "start_location": {
+                                "lat": 28.598316,
+                                "lng": 77.2557868
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.3 km",
+                                "value": 299
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 32
                             },
                             "end_location": {
                                 "lat": 28.5926799,
                                 "lng": 77.25759719999999
                             },
-                            "html_instructions": "Exit onto <b>NH 44</b>",
-                            "maneuver": "ramp-left",
+                            "html_instructions": "Merge onto <b>NH 44</b>",
+                            "maneuver": "merge",
                             "polyline": {
-                                "points": "{uqmDavrvMH@@@B@B@B@BBBDBBBD@BHPBHFLBHDHBHDJDF@FBF@D@@@B@@@@@@@@BBDBbAnCN`@P\\R^Xd@f@`AR`@@BZv@Vr@DHZx@x@fCbDnJtA~DHRjCpH|@dCv@`Cl@lBh@lB~@jDVv@NZT`@RX@B@@@@VP@@@@PJB@VNB@@@ZLx@VRBh@DtCq@rA[D?HALAB?@?@?@?@@B?DBv@W|D{@pDaA@?z@UZK"
+                                "points": "i_pmDgepvMv@W|D{@pDaA@?z@UZK"
                             },
                             "start_location": {
-                                "lat": 28.6039768,
-                                "lng": 77.269606
+                                "lat": 28.5952487,
+                                "lng": 77.2566829
                             },
                             "travel_mode": "DRIVING"
                         },
@@ -413,20 +437,20 @@
                         },
                         {
                             "distance": {
-                                "text": "2.1 km",
-                                "value": 2055
+                                "text": "1.6 km",
+                                "value": 1631
                             },
                             "duration": {
-                                "text": "5 mins",
-                                "value": 307
+                                "text": "4 mins",
+                                "value": 253
                             },
                             "end_location": {
-                                "lat": 28.5239877,
-                                "lng": 77.2299484
+                                "lat": 28.5275626,
+                                "lng": 77.2314554
                             },
                             "html_instructions": "Continue onto <b>Lal Bahadur Shastri Marg</b><div style=\"font-size:0.9em\">Pass by Indraprastha Gas Limited CNG Station (on the left in 1.2 km)</div>",
                             "polyline": {
-                                "points": "asemDoikvMfAc@`A]RCVEvAML?HALAT?T?d@?X?j@?fCBd@@R?\\@^?n@?jA@rEBL@|A@`D@jD?n@@dCBxB?T?dEA~BDrBDbILPBJ?J@H@JBNDXHzAb@xBf@PHbAXx@Vf@PH@z@V`DdAt@Vf@PvAb@b@NRFz@X"
+                                "points": "asemDoikvMfAc@`A]RCVEvAML?HALAT?T?d@?X?j@?fCBd@@R?\\@^?n@?jA@rEBL@|A@`D@jD?n@@dCBxB?T?dEA~BDrBDbILPBJ?J@H@JBNDXHzAb@xBf@"
                             },
                             "start_location": {
                                 "lat": 28.5420861,
@@ -436,73 +460,72 @@
                         },
                         {
                             "distance": {
-                                "text": "0.5 km",
-                                "value": 519
+                                "text": "0.4 km",
+                                "value": 429
                             },
                             "duration": {
-                                "text": "2 mins",
-                                "value": 149
+                                "text": "1 min",
+                                "value": 79
                             },
                             "end_location": {
-                                "lat": 28.523058,
-                                "lng": 77.23508629999999
+                                "lat": 28.526245,
+                                "lng": 77.2355808
                             },
-                            "html_instructions": "Turn <b>left</b> onto <b>Raja Ram Marg</b><div style=\"font-size:0.9em\">Pass by Mehta Hospital (on the right)</div>",
+                            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Pass by LABOUR OFFICE (on the left)</div>",
                             "maneuver": "turn-left",
                             "polyline": {
-                                "points": "}abmDe~jvMDO@CPq@FWJa@^uANq@Ja@^uAJa@@EBWDe@@]BgDBwA@g@@sADsABo@"
+                                "points": "gxbmDsgkvMBUvDuPJg@Na@h@uCDK"
                             },
                             "start_location": {
-                                "lat": 28.5239877,
-                                "lng": 77.2299484
+                                "lat": 28.5275626,
+                                "lng": 77.2314554
                             },
                             "travel_mode": "DRIVING"
                         },
                         {
                             "distance": {
-                                "text": "0.5 km",
-                                "value": 524
+                                "text": "1.3 km",
+                                "value": 1274
                             },
                             "duration": {
-                                "text": "2 mins",
-                                "value": 117
+                                "text": "4 mins",
+                                "value": 263
                             },
                             "end_location": {
-                                "lat": 28.5184219,
-                                "lng": 77.2348719
+                                "lat": 28.5173195,
+                                "lng": 77.2379425
                             },
-                            "html_instructions": "Turn <b>right</b> onto <b>Dakshinpuri Rd</b>/<wbr/><b>Durbal Ji Nath Marg</b>",
-                            "maneuver": "turn-right",
+                            "html_instructions": "Continue onto <b>Maharishi Balmiki Rd</b><div style=\"font-size:0.9em\">Pass by Government Sarvodaya Co Education Vidyalaya (on the left in 900m)</div>",
                             "polyline": {
-                                "points": "c|amDi~kvM@MJ?V@xBFF?^@f@@hCFvA@lCBrA@r@@~@?b@@^Dr@P"
+                                "points": "_pbmDkalvMFU@EBGDGDIHMJKHMLK\\[FGpCcCDEBCtC}BLMjEaE~@y@LInB{BjB_Bx@u@`@a@TQVE`@@F?^@r@B`@FPDTHJDJFJF@@NJHHXX`@b@x@z@HHpArAJLd@d@\\^JLd@d@@@jBpB"
                             },
                             "start_location": {
-                                "lat": 28.523058,
-                                "lng": 77.23508629999999
+                                "lat": 28.526245,
+                                "lng": 77.2355808
                             },
                             "travel_mode": "DRIVING"
                         },
                         {
                             "distance": {
-                                "text": "0.4 km",
-                                "value": 395
+                                "text": "51 m",
+                                "value": 51
                             },
                             "duration": {
-                                "text": "2 mins",
-                                "value": 91
+                                "text": "1 min",
+                                "value": 12
                             },
                             "end_location": {
                                 "lat": 28.5170079,
                                 "lng": 77.2383231
                             },
-                            "html_instructions": "Turn <b>left</b>",
+                            "html_instructions": "Turn <b>left</b> after P.V.C &amp; Aluminum Doors (on the left)",
                             "maneuver": "turn-left",
                             "polyline": {
-                                "points": "c_amD}|kvMBo@@g@?i@?G?aA@i@?]?U@c@?CBIHObA{AZc@T[V]V[V_@DCDGFITYX_@"
+                                "points": "gx`mDcplvMDGFITYX_@"
                             },
                             "start_location": {
-                                "lat": 28.5184219,
-                                "lng": 77.2348719
+                                "lat": 28.5173195,
+                                "lng": 77.2379425
                             },
                             "travel_mode": "DRIVING"
                         },
@@ -608,7 +631,7 @@
                 }
             ],
             "overview_polyline": {
-                "points": "ooymDgs~vMDHYx@gAbDITh@l@nB|AjBfAj@T`@HdAZ`ARfBVn@HhB@zCO|AShB[p@O~@]jM_FbG_Cv@YxAq@vBy@tCiAjBgArBk@n@nCfCpLl@rBVnALx@XnAfAhFrBvIXrA@hAXlAb@jCBl@CRd@jB`@fBpAfGr@~Cz@fDp@~CdBjHbCbKhCjL|BjKbAnEfDhN~EnS~B~JpAlFtSv|@dArD`BjFVj@bAvBn@hAZj@d@v@bBdCzArBbBnB`AbAjBdBjDlCxHnGzGlGfC|BlCvClBfC`AxAhBfDhAhCbAnCb@rA|@hC~CnJpAtD`BvE\\x@ZfAJBFBNNh@pAXp@HHDBbAnC`@~@hBhDz@xBnIpVtCdItBfGnD~Ld@|@T\\\\Vn@^zAh@|@HhFmA`@CD?D@DBv@W|D{@pDaA|@Ut@Ol@IjJsBnBa@nG}A`IkBdAWtAe@p@]f@_@VY^[Z]^q@xA_DtDcHnBgDdAsBPq@Vk@\\y@\\k@Je@?y@E[M[a@e@i@Yc@Ee@@]Jc@VSXSj@CZBj@DXHZ@\\|BxFfArCb@nAd@vB\\bBNnAJpA@dBGtDGrCAnBG`BKp@]xAm@pB[t@oBhDW^yAjBcApAaBfCiAjBwAlBuA~A{AhBu@bA[l@c@jASbAGt@EtANtB\\|BTdAZhBFr@BbAClA[tBk@pC[vBCdBBp@Db@H@FFFRRv@Td@~@jA|BdCx@v@t@`@fAb@^Nd@\\XB\\H|@Z~GvDbG~C|@`@bBb@x@JpB@vAAxE?fDCrFAdD?bAJt@NfEnB|BjAnDnB|C~AnBt@bBr@`DvA`ErBrAl@d@Lr@Nt@JhE`@tBXx@TxAl@`CfAdChAr@d@nDxAx@`@lB~@~A~@tBnApAn@z@^vBr@~Af@jExAlBd@dAb@VNzBr@t@Vv@VdC|@pBn@ZLj@Jr@JvABtAEvCMjHWfEQzBOrASjBo@lDyA|CkA`EwAnFqBxHsCvEiBj@IdBMbACrFBtMJzMD~FBzEAhQ\\l@FdCr@jCp@|Bp@nGpBxE|AnA`@FSdAaEfAkED]FcAJ{JHcC@MJ?pCHf@@vKNjFD^Dr@PDwA@}C@{ALY~A_C|AuBh@o@X_@vBzBX\\fA`ARJj@DlDd@n@LzATnBN`@gCN}AbAiHRuCZwCZyCBo@@sBBaByCQkCQNiC"
+                "points": "ooymDgs~vMDHYx@gAbDITh@l@nB|AjBfAj@T`@HdAZ`ARfBVn@HhB@zCO|AShB[p@O~@]jM_FbG_Cv@YxAq@vBy@tCiAjBgArBk@n@nCfCpLl@rBVnALx@XnAfAhFrBvIXrA@hAXlAb@jCBl@CRd@jB`@fBpAfGr@~Cz@fDp@~CdBjHbCbKhCjL|BjKbAnEfDhN~EnS~B~JpAlFtSv|@dArD`BjFVj@bAvBn@hAZj@d@v@bBdCzArBbBnB`AbAjBdBjDlCxHnGzGlGfC|BlCvClBfC`AxAhBfDhAhCbAnCb@rA|@hC~CnJpAtD`BvE\\x@ZfA`DzIN\\z@zAVf@Xp@f@lAj@jBj@fBj@bBv@xB`B|E~@dCbAzCp@lBvAlDlBzFd@vAnBbHFh@OfCCtAxD{@fB]zD}@xA[VCF?LDv@W|D{@rDaAvAa@~@K`JqBpBa@vD{@jKgC~@UzAe@p@Wf@Wd@_@TWd@e@\\a@\\o@lAoC~C_GnA_CnBkDPi@Pe@b@eAd@w@Le@Bw@Mu@[g@m@a@i@IUAe@F]PWR[l@G^A^Hl@Jh@?TVr@bAdCzBzF^lA`@rBZ`BN|ADjBG~DKlIKbAQ`A]tAm@hB_AdBkAlBq@`AaBnB_AvAcBfCsAtBeAlAyBlCw@`Ac@p@c@fASt@Mx@I`BDjAVbC^hBXzANlA@pBEz@Kz@oApGEl@A~@@n@F|@LBFLJh@Vn@f@p@dCrChAjAr@b@bAb@n@Td@\\N@VDb@J`Ab@fDjBhKpFf@Tv@Rt@Nt@D`D?tEAnA?xFClFC|@DhANn@T|At@vDjBdBbAvEbCrElBbCdA`A`@zC|ArB~@VJdB\\xBRjEf@x@RxAj@vGxCr@d@vAl@pBz@~At@nAp@xCfBx@d@nAj@tAf@jCz@`Cv@|Ah@lBd@|Ar@pExA~Bx@rBp@v@X`APjAHpAAfDMdHYtDQ`BE|@GxASXGzAk@xAi@|D_BvDyAbCw@xBy@jHoCtEiB`A]RCnBSz@C`C?~EFnJDxLDdIDdEA~BDvLRr@Ft@RtEjAzDkQZiAn@aDRk@d@q@dEsDlDuCjG{F|BeC|EiEVE`@@f@@tAJf@Nd@VXTz@|@`DfDtBxBlBrBLQn@y@xB|BxAxAXNjAHnDl@hBVnBNTsAL_ALqA~@wGJcAP{Cj@_FD]F_B?sB@m@q@EkBKgAI_AGNiC"
             },
             "summary": "NE 3",
             "warnings": [],
