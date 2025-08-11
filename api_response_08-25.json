@@ -26,7 +26,7 @@
                     "lng": 77.33162250000001
                 },
                 "southwest": {
-                    "lat": 28.5124524,
+                    "lat": 28.5124504,
                     "lng": 77.2268845
                 }
             },
@@ -34,16 +34,16 @@
             "legs": [
                 {
                     "distance": {
-                        "text": "25.1 km",
-                        "value": 25102
+                        "text": "25.2 km",
+                        "value": 25224
                     },
                     "duration": {
                         "text": "44 mins",
-                        "value": 2655
+                        "value": 2656
                     },
                     "duration_in_traffic": {
-                        "text": "47 mins",
-                        "value": 2836
+                        "text": "53 mins",
+                        "value": 3153
                     },
                     "end_address": "Y9, Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi 110062, India",
                     "end_location": {
@@ -86,7 +86,7 @@
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 43
+                                "value": 44
                             },
                             "end_location": {
                                 "lat": 28.6444251,
@@ -200,20 +200,20 @@
                         },
                         {
                             "distance": {
-                                "text": "6.0 km",
-                                "value": 6021
+                                "text": "7.5 km",
+                                "value": 7529
                             },
                             "duration": {
-                                "text": "6 mins",
-                                "value": 372
+                                "text": "8 mins",
+                                "value": 475
                             },
                             "end_location": {
-                                "lat": 28.6039768,
-                                "lng": 77.269606
+                                "lat": 28.598316,
+                                "lng": 77.2557868
                             },
                             "html_instructions": "Take the ramp onto <b>NE 3</b>",
                             "polyline": {
-                                "points": "yqvmDuc}vMb@jCD`@AJCRd@jBTbAJb@l@pCb@tBVlAZpAb@|ABJFZJ`@XrAJf@DLDT@DJf@J\\?BJ`@Lh@Nh@`@dB`@bBJ`@R|@`A~DPz@`@jB`@hBr@xCH`@H`@R~@H^H\\@Fn@tCNj@FXDPH^Lf@BLFXHZFVFV`@zADTn@hCVbAVdAJd@Jd@pAlFpAlF\\xA\\xAn@nCZxA^xARz@Pp@J`@J`@FZDNHZFXFTVhAbBjHFV@@HZvAfGhAzEH\\Jd@d@pBJd@lBdIT`AdCpKPp@XbA^pADLDNX`AV~@Vt@Vr@N^FJbAvBn@hAJRNVNVT^PVNV\\f@b@l@l@z@X\\?@RVr@z@n@r@TTj@l@JLVT^Zf@d@ZVp@f@j@b@p@h@n@h@dA|@x@p@hCtBbB`Bd@b@z@v@tAnAz@r@jAhAbAdAhApAjAxA`@l@X`@f@v@LVl@dAl@hATf@r@`BPd@P`@Z|@BHBHPf@?@L^LZBJJVBH@BNb@FR@BHVDFNd@Pf@lAvDNd@Nb@Nb@Nb@^fA@@Nb@l@`Br@tB\\x@ZfA"
+                                "points": "yqvmDuc}vMb@jCD`@AJCRd@jBTbAJb@l@pCb@tBVlAZpAb@|ABJFZJ`@XrAJf@DLDT@DJf@J\\?BJ`@Lh@Nh@`@dB`@bBJ`@R|@`A~DPz@`@jB`@hBr@xCH`@H`@R~@H^H\\@Fn@tCNj@FXDPH^Lf@BLFXHZFVFV`@zADTn@hCVbAVdAJd@Jd@pAlFpAlF\\xA\\xAn@nCZxA^xARz@Pp@J`@J`@FZDNHZFXFTVhAbBjHFV@@HZvAfGhAzEH\\Jd@d@pBJd@lBdIT`AdCpKPp@XbA^pADLDNX`AV~@Vt@Vr@N^FJbAvBn@hAJRNVNVT^PVNV\\f@b@l@l@z@X\\?@RVr@z@n@r@TTj@l@JLVT^Zf@d@ZVp@f@j@b@p@h@n@h@dA|@x@p@hCtBbB`Bd@b@z@v@tAnAz@r@jAhAbAdAhApAjAxA`@l@X`@f@v@LVl@dAl@hATf@r@`BPd@P`@Z|@BHBHPf@?@L^LZBJJVBH@BNb@FR@BHVDFNd@Pf@lAvDNd@Nb@Nb@Nb@^fA@@Nb@l@`Br@tB\\x@ZfArAtD~@hCLZ@BLXJTR^LRLPHNJR?@@@JTLZf@lAj@jBJZ^jAFL`@rA@@HVJXHRFPN`@BLj@~A?@Nb@Tn@BFFL?Bp@fBHTBFb@rAVv@FNd@rAJXj@xAj@rAl@dBn@pBFPFPDL@@L`@Nd@b@vAb@`BLh@X~@BH@J?F@J?B?BA@?BAPALAFGpAAx@AZ"
                             },
                             "start_location": {
                                 "lat": 28.6289318,
@@ -223,25 +223,49 @@
                         },
                         {
                             "distance": {
-                                "text": "2.0 km",
-                                "value": 2035
+                                "text": "0.4 km",
+                                "value": 354
                             },
                             "duration": {
-                                "text": "3 mins",
-                                "value": 167
+                                "text": "1 min",
+                                "value": 44
+                            },
+                            "end_location": {
+                                "lat": 28.5952487,
+                                "lng": 77.2566829
+                            },
+                            "html_instructions": "Turn <b>left</b>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "orpmDu_pvMxBc@~@WtAYPCd@KtCq@rA[D?HALAB?@?@?@?@@B?DB"
+                            },
+                            "start_location": {
+                                "lat": 28.598316,
+                                "lng": 77.2557868
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.3 km",
+                                "value": 299
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 30
                             },
                             "end_location": {
                                 "lat": 28.5926799,
                                 "lng": 77.25759719999999
                             },
-                            "html_instructions": "Exit onto <b>NH 44</b>",
-                            "maneuver": "ramp-left",
+                            "html_instructions": "Merge onto <b>NH 44</b>",
+                            "maneuver": "merge",
                             "polyline": {
-                                "points": "{uqmDavrvMH@@@B@B@B@BBBDBBBD@BHPBHFLBHDHBHDJDF@FBF@D@@@B@@@@@@@@BBDBbAnCN`@P\\R^Xd@f@`AR`@@BZv@Vr@DHZx@x@fCbDnJtA~DHRjCpH|@dCv@`Cl@lBh@lB~@jDVv@NZT`@RX@B@@@@VP@@@@PJB@VNB@@@ZLx@VRBh@DtCq@rA[D?HALAB?@?@?@?@@B?DBv@W|D{@pDaA@?z@UZK"
+                                "points": "i_pmDgepvMv@W|D{@pDaA@?z@UZK"
                             },
                             "start_location": {
-                                "lat": 28.6039768,
-                                "lng": 77.269606
+                                "lat": 28.5952487,
+                                "lng": 77.2566829
                             },
                             "travel_mode": "DRIVING"
                         },
@@ -252,7 +276,7 @@
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 65
+                                "value": 64
                             },
                             "end_location": {
                                 "lat": 28.5859438,
@@ -276,7 +300,7 @@
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 63
+                                "value": 62
                             },
                             "end_location": {
                                 "lat": 28.5828896,
@@ -324,7 +348,7 @@
                             },
                             "duration": {
                                 "text": "2 mins",
-                                "value": 147
+                                "value": 145
                             },
                             "end_location": {
                                 "lat": 28.5870327,
@@ -347,7 +371,7 @@
                             },
                             "duration": {
                                 "text": "5 mins",
-                                "value": 285
+                                "value": 281
                             },
                             "end_location": {
                                 "lat": 28.5623629,
@@ -395,7 +419,7 @@
                             },
                             "duration": {
                                 "text": "3 mins",
-                                "value": 201
+                                "value": 202
                             },
                             "end_location": {
                                 "lat": 28.5420861,
@@ -418,7 +442,7 @@
                             },
                             "duration": {
                                 "text": "7 mins",
-                                "value": 437
+                                "value": 433
                             },
                             "end_location": {
                                 "lat": 28.5160395,
@@ -437,20 +461,20 @@
                         {
                             "distance": {
                                 "text": "1.6 km",
-                                "value": 1644
+                                "value": 1640
                             },
                             "duration": {
                                 "text": "6 mins",
-                                "value": 345
+                                "value": 347
                             },
                             "end_location": {
-                                "lat": 28.5124524,
-                                "lng": 77.2429113
+                                "lat": 28.5124504,
+                                "lng": 77.24286889999999
                             },
                             "html_instructions": "Turn <b>left</b> onto <b>Mehrauli - Badarpur Rd</b><div style=\"font-size:0.9em\">Pass by the park (on the left in 800m)</div>",
                             "maneuver": "turn-left",
                             "polyline": {
-                                "points": "gp`mD_kjvMHGJAHAFCFCLEREJg@^oBJy@Fm@NqAJoANmA\\wBd@}BDUdAeGViC?uAHw@BUB[Jg@XaCTyAPkAV{A\\wBDWTsAJs@@KLqA~@wGBQFq@JcBDw@T_BT_CDY?CBk@Bs@A_A@s@@m@"
+                                "points": "gp`mD_kjvMHGJAHAFCFCLEREJg@^oBJy@Fm@NqAJoANmA\\wBd@}BDUdAeGViC?uAHw@BUB[Jg@XaCTyAPkAV{A\\wBDWTsAJs@@KLqA~@wGBQFq@JcBDw@T_BT_CDY?CBk@Bs@A_A@s@@e@"
                             },
                             "start_location": {
                                 "lat": 28.5160395,
@@ -474,11 +498,11 @@
                             "html_instructions": "Turn <b>left</b>",
                             "maneuver": "turn-left",
                             "polyline": {
-                                "points": "yy_mDeomvMq@EgBKC?_@Cg@E_AG"
+                                "points": "yy_mD}nmvMq@GgBQC?_@Cg@E_AG"
                             },
                             "start_location": {
-                                "lat": 28.5124524,
-                                "lng": 77.2429113
+                                "lat": 28.5124504,
+                                "lng": 77.24286889999999
                             },
                             "travel_mode": "DRIVING"
                         },
@@ -489,7 +513,7 @@
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 40
+                                "value": 39
                             },
                             "end_location": {
                                 "lat": 28.5138429,
@@ -512,7 +536,7 @@
                 }
             ],
             "overview_polyline": {
-                "points": "ooymDgs~vMDHYx@gAbDITh@l@nB|AjBfAj@T`@HdAZ`ARfBVn@HhB@zCO|AShB[p@O~@]jM_FbG_Cv@YxAq@vBy@tCiAjBgArBk@n@nCfCpLl@rBVnALx@XnAfAhFrBvIXrA@hAXlAb@jCBl@CRd@jB`@fBpAfGr@~Cz@fDp@~CdBjHbCbKhCjL|BjKbAnEfDhN~EnS~B~JpAlFtSv|@dArD`BjFVj@bAvBn@hAZj@d@v@bBdCzArBbBnB`AbAjBdBjDlCxHnGzGlGfC|BlCvClBfC`AxA~BnEdAfCl@~AX|@hAdD`DrJrDlK\\x@ZfAJBNHf@fA^~@FHDDDBbAnC`@~@l@dAz@bB\\z@\\|@tA`EnKtZtBfGvAzEvAbFd@|@X`@l@`@`@TtAd@|@HhFmANARAH@DBv@W|D{@pDaA|@Ut@Ol@IbGsAtBc@p@M~D_AfOqDtAe@p@]f@_@VY^[Z]^q@xA_DtDcHnBgDdAsBPq@t@eB\\k@DOFq@A]E[M[MQSSUMg@OOAe@@]Jc@VSXMXG^ATBb@DXHZ@\\|BxFfArCp@tB|@tER`C@dBG`DIvGEpAGf@Q`A]tAa@lA[t@gB|Cm@~@oChDaBfCiAjBaBvBsBbCiB~Bo@rAOd@SbAMbB@dALvA\\|BTdAZhBFr@BbAClAIl@QfAk@pC[vBCb@?`ABp@Db@H@FFNn@JZTd@~@jAbBhB~@`An@b@dAf@ZJ^Nd@\\XB\\H|@Zx@`@dFtCbG~CzAn@dATx@JbD@tEApECnJCh@@bAJt@Nl@VvGbDrFxCxAt@nBt@bDvAjEpBvAt@rAl@d@Lr@N`BR|CXbALfARb@L~@^zCtAdChAr@d@nDxAfD`BxCfBlCvApBt@xBr@`Bj@pC~@lBd@dAb@VNzBr@t@VzBv@|Bv@t@TZLj@Jr@JvABhDK~GWjDQjBGhAG~AQd@IbA]pBu@bBu@|CkAbIsCxEgBlEaBlAg@hCaAj@I|BQjB?lFDxDB`NHzMDzEArFJtIPV@d@J`G~AnDdAzHfCjEtAzCfAvC`AnBn@`Bl@jCdAhFhBxC`A|Ab@pBn@|@Rr@JrANt@BrABTIXI`@Kj@wCRgBZaDl@eEj@sCdAeGViC?uAHw@Fq@d@iD|AyJh@kDLqA~@wGJcAP{Cj@_FD]F_B?sB@m@q@EkBKgAI_AGNiC"
+                "points": "ooymDgs~vMDHYx@gAbDITh@l@nB|AjBfAj@T`@HdAZ`ARfBVn@HhB@zCO|AShB[p@O~@]jM_FbG_Cv@YxAq@vBy@tCiAjBgArBk@n@nCfCpLl@rBVnALx@XnAfAhFrBvIXrA@hAXlAb@jCBl@CRd@jB`@fBpAfGr@~Cz@fDp@~CdBjHbCbKhCjL|BjKbAnEfDhN~EnS~B~JpAlFtSv|@dArD`BjFVj@bAvBn@hAZj@d@v@bBdCzArBbBnB`AbAjBdBjDlCxHnGzGlGfC|BlCvClBfC`AxA~BnEdAfCl@~AX|@hAdD`DrJrDlK\\x@ZfArC~Hh@nArAbCt@hBv@fCjAnDfBhFpBrFhBnFpClHhCdInAtEBb@CZM`DAZxBc@tCq@`H}Af@CD@DBv@W|D{@pDaA|@Ut@Ol@IjJsBnBa@nG}A`IkBdAWtAe@p@]f@_@VY^[Z]^q@xA_DtDcHnBgDdAsBPq@Vk@\\y@\\k@Je@?y@E[M[a@e@i@Yc@Ee@@]Jc@VSXMXG^@x@Nt@@\\n@bBbBbEbAlC^lA`@rBZ`BN|AD~AClBCnCGrCApAEpAYhB_AbD[t@]n@}AhCYb@kAvAcApAi@z@uAtBk@`Au@dAwBfC{AhBu@bA[l@c@jASbAGt@EtANtB\\|BTdAZhBFr@BbAClA[tBk@pC[vBCdBBp@Db@H@FFFRRv@Td@~@jA|BdCx@v@t@`@fAb@^Nd@\\XB\\H|@Z~GvDbG~C|@`@bBb@x@JpB@vAAxE?fDCrFAdD?bAJt@NfEnB|BjAnDnB|C~AnBt@bBr@`DvA`ErBrAl@d@Lr@Nt@JhE`@tBXx@TxAl@`CfAdChAr@d@nDxAx@`@lB~@~A~@tBnApAn@z@^vBr@~Af@jExAlBd@dAb@VNzBr@t@Vv@VdC|@pBn@ZLj@Jr@JvABtAEvCMjHWfEQzBOrASjBo@lDyA|CkA`EwAnFqBxHsCvEiBj@IdBMbACrFBtMJzMD~FBzEAhQ\\l@FdCr@jCp@|Bp@nGpBxE|AjC|@bCx@bDdAbEzAvBz@zBx@xFjB|Ab@pBn@|@RfCZhCFf@Oh@Oj@wCRgBZaDl@eEj@sCdAeGViC?uAHw@Fq@d@iDf@eDpA_IL_ALqA~@wGJcAP{Cj@_FD]F_B?sB@e@q@GkBQgAI_AGNiC"
             },
             "summary": "NE 3",
             "warnings": [],
