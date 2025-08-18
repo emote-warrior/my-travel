@@ -12,9 +12,10 @@
         },
         {
             "geocoder_status": "OK",
-            "place_id": "ChIJ66k6_HThDDkRgSD8m_XsFG4",
+            "place_id": "ChIJ9UlV-6HhDDkRL6-6ef4gsic",
             "types": [
-                "street_address"
+                "establishment",
+                "point_of_interest"
             ]
         }
     ],
@@ -42,10 +43,10 @@
                         "value": 2735
                     },
                     "duration_in_traffic": {
-                        "text": "53 mins",
-                        "value": 3169
+                        "text": "51 mins",
+                        "value": 3086
                     },
-                    "end_address": "Y9, Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi 110062, India",
+                    "end_address": "41, Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi 110062, India",
                     "end_location": {
                         "lat": 28.5138429,
                         "lng": 77.2437757
