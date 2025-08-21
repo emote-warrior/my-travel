@@ -35,16 +35,16 @@
             "legs": [
                 {
                     "distance": {
-                        "text": "24.9 km",
-                        "value": 24947
+                        "text": "25.0 km",
+                        "value": 25016
                     },
                     "duration": {
                         "text": "46 mins",
-                        "value": 2752
+                        "value": 2744
                     },
                     "duration_in_traffic": {
-                        "text": "56 mins",
-                        "value": 3362
+                        "text": "1 hour 2 mins",
+                        "value": 3737
                     },
                     "end_address": "41, Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi 110062, India",
                     "end_location": {
@@ -357,7 +357,7 @@
                             "html_instructions": "Exit onto <b>Lala Lajpat Rai Rd</b><div style=\"font-size:0.9em\">Pass by Lajpat Nagar Metro Station (on the left in 2 km)</div>",
                             "maneuver": "ramp-left",
                             "polyline": {
-                                "points": "}knmDormvMH@B@BDBFBJ@JDN?@JXJTHN\\`@`@h@hAnAXXXZNNTTHHHFLHLFLHJDVLRHJDND^Nd@\\N@H@LBNDRDh@TVL`@RdCvA~A|@bD`B~A|@d@RVLNFLDh@LZFXF^BT@zA?V?X?R?PAX?\\?R?v@?T?T?R?T?x@?lBCjC?fBA^AzA?H?^@\\Bd@Fb@FPF\\LNHlAj@jAj@jB~@PJrAv@zAv@RLn@Zv@`@`@RtAj@XH`Ab@`@N`@P\\P`@P~@`@@?fB|@r@^b@TnAh@BBRFPD\\HTD^FTBXDP@v@FdBPf@FZD`@FNBPDB@RFNDPFl@VHDNF|BdAB@dChAr@d@vAl@vAj@"
+                                "points": "}knmDormvMH@B@BDBFBJ@JDN?@JXJTHN\\`@`@h@hAnAXXXZNNTTHHHFLHLFLHJDVLRHJDND^Nd@\\N@H@LBNDRDb@P\\P`@RdCvA~A|@bD`B~A|@d@RVLNFLDh@LZFXF^BT@zA?V?X?R?PAX?\\?R?v@?T?T?R?T?x@?lBCjC?fBA^AzA?H?^@\\Bd@Fb@FPF\\LNHlAj@jAj@jB~@PJrAv@zAv@RLn@Zv@`@`@RtAj@XH`Ab@`@N`@P\\P`@P~@`@@?fB|@r@^b@TnAh@BBRFPD\\HTD^FTBXDP@v@FdBPf@FZD`@FNBPDB@RFNDPFl@VHDNF|BdAB@dChAr@d@vAl@vAj@"
                             },
                             "start_location": {
                                 "lat": 28.5870327,
@@ -461,21 +461,21 @@
                         },
                         {
                             "distance": {
-                                "text": "1.0 km",
-                                "value": 991
+                                "text": "0.5 km",
+                                "value": 524
                             },
                             "duration": {
-                                "text": "4 mins",
-                                "value": 244
+                                "text": "2 mins",
+                                "value": 115
                             },
                             "end_location": {
-                                "lat": 28.5143198,
-                                "lng": 77.2338334
+                                "lat": 28.5184219,
+                                "lng": 77.2348719
                             },
                             "html_instructions": "Turn <b>right</b> onto <b>Dakshinpuri Rd</b>/<wbr/><b>Durbal Ji Nath Marg</b>",
                             "maneuver": "turn-right",
                             "polyline": {
-                                "points": "c|amDi~kvM@MJ?V@xBFF?^@f@@hCFvA@lCBrA@r@@~@?b@@^Dr@PnB^rATnANrAV^DRDhBX`BVNBd@Hp@Lh@Hx@L"
+                                "points": "c|amDi~kvM@MJ?V@xBFF?^@f@@hCFvA@lCBrA@r@@~@?b@@^Dr@P"
                             },
                             "start_location": {
                                 "lat": 28.523058,
@@ -485,25 +485,73 @@
                         },
                         {
                             "distance": {
-                                "text": "0.9 km",
-                                "value": 917
+                                "text": "0.4 km",
+                                "value": 395
                             },
                             "duration": {
-                                "text": "3 mins",
-                                "value": 200
+                                "text": "2 mins",
+                                "value": 90
+                            },
+                            "end_location": {
+                                "lat": 28.5170079,
+                                "lng": 77.2383231
+                            },
+                            "html_instructions": "Turn <b>left</b>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "c_amD}|kvMBo@@g@?i@?G?aA@i@?]?U@c@?CBIHObA{AZc@T[V]V[V_@DCDGFITYX_@"
+                            },
+                            "start_location": {
+                                "lat": 28.5184219,
+                                "lng": 77.2348719
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.4 km",
+                                "value": 440
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 102
+                            },
+                            "end_location": {
+                                "lat": 28.5134742,
+                                "lng": 77.23667809999999
+                            },
+                            "html_instructions": "Turn <b>right</b> onto <b>Baba Ramdev Mandir Rd</b>/<wbr/><b>Karbala Rd</b>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "iv`mDorlvMvBzB@@VZXX`@\\DDDBRJj@D^BlC`@`@JL@zATnBN"
+                            },
+                            "start_location": {
+                                "lat": 28.5170079,
+                                "lng": 77.2383231
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.6 km",
+                                "value": 618
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 129
                             },
                             "end_location": {
                                 "lat": 28.5124504,
                                 "lng": 77.24286889999999
                             },
-                            "html_instructions": "Turn <b>left</b> onto <b>Mehrauli - Badarpur Rd</b><div style=\"font-size:0.9em\">Pass by the park (on the left)</div>",
+                            "html_instructions": "Turn <b>left</b> onto <b>Mehrauli - Badarpur Rd</b>",
                             "maneuver": "turn-left",
                             "polyline": {
-                                "points": "oe`mDmvkvMPOXUXaCTyAPkAV{A\\wBDWTsAJs@@KLqA~@wGBQFq@JcBDw@T_BT_CDY?CBk@Bs@A_A@s@@e@"
+                                "points": "e``mDghlvMTsAJs@@KLqA~@wGBQFq@JcBDw@T_BT_CDY?CBk@Bs@A_A@s@@e@"
                             },
                             "start_location": {
-                                "lat": 28.5143198,
-                                "lng": 77.2338334
+                                "lat": 28.5134742,
+                                "lng": 77.23667809999999
                             },
                             "travel_mode": "DRIVING"
                         },
@@ -561,7 +609,7 @@
                 }
             ],
             "overview_polyline": {
-                "points": "ooymDgs~vMDHYx@gAbDITh@l@nB|AjBfAj@T`@HdAZ`ARfBVn@HhB@zCO|AShB[p@O~@]jM_FbG_Cv@YxAq@vBy@tCiAjBgArBk@n@nCfCpLl@rBVnALx@XnAfAhFrBvIXrA@hAXlAb@jCBl@CRd@jB`@fBpAfGr@~Cz@fDp@~CdBjHbCbKhCjL|BjKbAnEfDhN~EnS~B~JpAlFtSv|@dArD`BjFVj@bAvBn@hAZj@d@v@bBdCzArBbBnB`AbAjBdBjDlCxHnGzGlGfC|BlCvClBfC`AxA~BnEdAfCl@~AX|@hAdD`DrJrDlK\\x@ZfAJBNHf@fA^~@FHDDDBbAnC`@~@l@dAz@bB\\z@\\|@tA`EnKtZtBfGvAzEvAbFd@|@X`@l@`@`@TtAd@|@HhFmANARAH@DBv@W|D{@pDaA|@Ut@Ol@IbGsAtBc@p@M~D_AfOqDtAe@p@]f@_@VY^[Z]^q@xA_DtDcHnBgDdAsBPq@t@eB\\k@DOFq@A]E[M[MQSSUMg@OOAe@@]Jc@VSXMXG^ATBb@DXHZ@\\|BxFfArCp@tB|@tER`C@dBG`DIvGEpAGf@Q`A]tAa@lA[t@gB|Cm@~@oChDaBfCiAjBaBvBsBbCiB~Bo@rAOd@SbAMbB@dALvA\\|BTdAZhBFr@BbAClAIl@QfAk@pC[vBCb@?`ABp@Db@H@FFNn@JZTd@~@jAbBhB~@`An@b@dAf@ZJ^Nd@\\XB\\H|@Zx@`@dFtCbG~CzAn@dATx@JbD@tEApECnJCh@@bAJt@Nl@VvGbDrFxCxAt@nBt@bDvAjEpBvAt@rAl@d@Lr@N`BR|CXbALfARb@L~@^zCtAdChAr@d@nDxAfD`BxCfBlCvApBt@xBr@`Bj@pC~@lBd@dAb@VNzBr@t@VzBv@|Bv@t@TZLj@Jr@JvABhDK~GWjDQjBGhAG~AQd@IbA]pBu@bBu@|CkAbIsCxEgBlEaBlAg@hCaAj@I|BQjB?lFDxDB`NHzMDzEArFJtIPV@d@J`G~AnDdAzHfCjEtA`@}AfAkEj@wBD]FcAF_GL_G@MJ?pCHxEJlJHbB@^Dr@PbEt@bDf@~F|@pCd@x@LPOXUXaCf@eDt@sEh@kDLqA~@wGJcAP{Cj@_FD]F_B?sB@e@q@GkBQgAI_AGNiC"
+                "points": "ooymDgs~vMDHYx@gAbDITh@l@nB|AjBfAj@T`@HdAZ`ARfBVn@HhB@zCO|AShB[p@O~@]jM_FbG_Cv@YxAq@vBy@tCiAjBgArBk@n@nCfCpLl@rBVnALx@XnAfAhFrBvIXrA@hAXlAb@jCBl@CRd@jB`@fBpAfGr@~Cz@fDp@~CdBjHbCbKhCjL|BjKbAnEfDhN~EnS~B~JpAlFtSv|@dArD`BjFVj@bAvBn@hAZj@d@v@bBdCzArBbBnB`AbAjBdBjDlCxHnGzGlGfC|BlCvClBfC`AxA~BnEdAfCl@~AX|@hAdD`DrJrDlK\\x@ZfAJBNHf@fA^~@FHDDDBbAnC`@~@l@dAz@bB\\z@\\|@tA`EnKtZtBfGvAzEvAbFd@|@X`@l@`@`@TtAd@|@HhFmANARAH@DBv@W|D{@pDaA|@Ut@Ol@IbGsAtBc@p@M~D_AfOqDtAe@p@]f@_@VY^[Z]^q@xA_DtDcHnBgDdAsBPq@t@eB\\k@DOFq@A]E[M[MQSSUMg@OOAe@@]Jc@VSXMXG^ATBb@DXHZ@\\|BxFfArCp@tB|@tER`C@dBG`DIvGEpAGf@Q`A]tAa@lA[t@gB|Cm@~@oChDaBfCiAjBaBvBsBbCiB~Bo@rAOd@SbAMbB@dALvA\\|BTdAZhBFr@BbAClAIl@QfAk@pC[vBCb@?`ABp@Db@H@FFNn@JZTd@~@jAbBhB~@`An@b@dAf@ZJ^Nd@\\XB\\Hv@V~@d@dFtCbG~CzAn@dATx@JbD@tEApECnJCh@@bAJt@Nl@VvGbDrFxCxAt@nBt@bDvAjEpBvAt@rAl@d@Lr@N`BR|CXbALfARb@L~@^zCtAdChAr@d@nDxAfD`BxCfBlCvApBt@xBr@`Bj@pC~@lBd@dAb@VNzBr@t@VzBv@|Bv@t@TZLj@Jr@JvABhDK~GWjDQjBGhAG~AQd@IbA]pBu@bBu@|CkAbIsCxEgBlEaBlAg@hCaAj@I|BQjB?lFDxDB`NHzMDzEArFJtIPV@d@J`G~AnDdAzHfCjEtA`@}AfAkEj@wBD]FcAF_GL_G@MJ?pCHxEJlJHbB@^Dr@PDwA?q@@_D@g@LYlCyDz@gA\\c@X_@vBzBX\\z@v@JHRJj@DlDd@n@LzATnBN`@gCN}AbAiHRuCZwC^iE@sBByA}D]gBMNiC"
             },
             "summary": "NE 3",
             "warnings": [],
