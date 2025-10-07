@@ -35,16 +35,16 @@
             "legs": [
                 {
                     "distance": {
-                        "text": "25.1 km",
-                        "value": 25098
+                        "text": "24.6 km",
+                        "value": 24567
                     },
                     "duration": {
-                        "text": "46 mins",
-                        "value": 2739
+                        "text": "47 mins",
+                        "value": 2813
                     },
                     "duration_in_traffic": {
-                        "text": "34 mins",
-                        "value": 2049
+                        "text": "35 mins",
+                        "value": 2120
                     },
                     "end_address": "41, Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi 110062, India",
                     "end_location": {
@@ -392,21 +392,21 @@
                         },
                         {
                             "distance": {
-                                "text": "0.6 km",
-                                "value": 559
+                                "text": "0.9 km",
+                                "value": 933
                             },
                             "duration": {
-                                "text": "1 min",
-                                "value": 63
+                                "text": "2 mins",
+                                "value": 100
                             },
                             "end_location": {
-                                "lat": 28.5828896,
-                                "lng": 77.2643982
+                                "lat": 28.580923,
+                                "lng": 77.26745790000001
                             },
                             "html_instructions": "Merge onto <b>NH 44</b>",
                             "maneuver": "merge",
                             "polyline": {
-                                "points": "cenmDiypvMHE\\YFENSDCXWJMNOLQP_@JOlAoC~C_GTc@x@{At@kAx@_BJS"
+                                "points": "cenmDiypvMHE\\YFENSDCXWJMNOLQP_@JOlAoC~C_GTc@x@{At@kAx@_BJSx@mA`@e@|@mA^k@bAyAf@{@Tc@f@iAL[H]DWF_@"
                             },
                             "start_location": {
                                 "lat": 28.5859438,
@@ -416,72 +416,169 @@
                         },
                         {
                             "distance": {
-                                "text": "0.8 km",
-                                "value": 827
+                                "text": "0.5 km",
+                                "value": 521
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 69
+                                "value": 57
                             },
                             "end_location": {
-                                "lat": 28.5821012,
-                                "lng": 77.2616774
+                                "lat": 28.5784426,
+                                "lng": 77.2694349
                             },
-                            "html_instructions": "Take the ramp to <b>Baba Banda Singh Bahadur Setu</b>",
+                            "html_instructions": "Keep <b>right</b> to stay on <b>NH 44</b>",
+                            "maneuver": "keep-right",
+                            "polyline": {
+                                "points": "wemmDshrvMLkBJkABO@OBQNcAJ[L[FMFMJS@AJSPUZe@XYTQ@?\\URMRITGTCNAT@N@JBD@JDNFBDFDBBBDHJHLHTBH?@DVBR?P?F@T"
+                            },
+                            "start_location": {
+                                "lat": 28.580923,
+                                "lng": 77.26745790000001
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.3 km",
+                                "value": 309
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 31
+                            },
+                            "end_location": {
+                                "lat": 28.5779981,
+                                "lng": 77.2666153
+                            },
+                            "html_instructions": "Slight <b>right</b>",
+                            "maneuver": "turn-slight-right",
+                            "polyline": {
+                                "points": "gvlmD}trvMMZEROd@IVI\\IV?FALAL?L?L@P?F?LBN@H@DHVBFFPHNDFPT@Bh@z@T`@@B@@JV@FBNBL"
+                            },
+                            "start_location": {
+                                "lat": 28.5784426,
+                                "lng": 77.2694349
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "3.5 km",
+                                "value": 3482
+                            },
+                            "duration": {
+                                "text": "6 mins",
+                                "value": 334
+                            },
+                            "end_location": {
+                                "lat": 28.5651155,
+                                "lng": 77.2368961
+                            },
+                            "html_instructions": "Merge onto <b>Mahatma Gandhi Rd</b>/<wbr/><b>Mahatma Gandhi Flyover</b>/<wbr/><b>Ring Rd</b><div style=\"font-size:0.9em\">Continue to follow Mahatma Gandhi Rd/<wbr/>Ring Rd</div>",
+                            "maneuver": "merge",
+                            "polyline": {
+                                "points": "oslmDkcrvMf@j@DFPTFFHJFFDH^j@DJDFb@x@DFNVDHFLFH?@DDh@`AHL?@FH`@p@HLDDPX@BRZT\\DFDFJPRZh@bA\\n@R`@T`@d@~@LPLTDJf@`ANX~@`B`@p@^l@^n@hAvBT`@Xd@DHFHLT`@r@HLHL^n@Zf@BFPZf@v@DHFHt@nA\\d@@BBDHLTVRZJL@BBBVb@JNRZVh@JZPj@Rf@NZPVHP@B@@@BLNX\\d@d@`@^h@^FDZP|@XJDTJrAh@VJZLPFbAb@pBx@`@Rl@XXR\\THHFFNNHLNPZd@FJNRFNDJJXJZFXH^BL@RDb@@l@Bn@Bz@Fv@@Z@PBx@?DDt@PtF@R?FLbCJzB?P@L?JDjAFr@@R?FLdCHnB@ZB\\FbAHrAFhAHjBDzB@f@@|@D|BAxAq@jNI~ACt@"
+                            },
+                            "start_location": {
+                                "lat": 28.5779981,
+                                "lng": 77.2666153
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.2 km",
+                                "value": 199
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 28
+                            },
+                            "end_location": {
+                                "lat": 28.5652287,
+                                "lng": 77.234876
+                            },
+                            "html_instructions": "Take the exit",
                             "maneuver": "ramp-left",
                             "polyline": {
-                                "points": "armmDouqvMDUJ[DIPa@Pc@JUXa@BIBG@GBK@I@O?K?QAKAICQEMGMIMCCEGMKKGIEIGICGAKAKAC?QASBQBKFQHOJA@EDMRABKTCLABALAL?F?HBXDR?DFR@F@F?TVr@Vn@P`@Xr@`@~@BDPf@`@dAN^@BNb@Pf@Ld@VpAH`@R`A"
+                                "points": "_cjmDsilvMH^@J?L?LKxCOzBEt@"
                             },
                             "start_location": {
-                                "lat": 28.5828896,
-                                "lng": 77.2643982
+                                "lat": 28.5651155,
+                                "lng": 77.2368961
                             },
                             "travel_mode": "DRIVING"
                         },
                         {
                             "distance": {
-                                "text": "2.0 km",
-                                "value": 1992
+                                "text": "63 m",
+                                "value": 63
                             },
                             "duration": {
-                                "text": "2 mins",
-                                "value": 145
+                                "text": "1 min",
+                                "value": 24
                             },
                             "end_location": {
-                                "lat": 28.5870327,
-                                "lng": 77.2434364
+                                "lat": 28.5652847,
+                                "lng": 77.23422970000001
                             },
-                            "html_instructions": "Continue onto <b>Baba Banda Singh Bahadur Setu</b>",
+                            "html_instructions": "Keep <b>right</b>",
+                            "maneuver": "keep-right",
                             "polyline": {
-                                "points": "cmmmDodqvMF^Fn@Fl@@L@T?b@@V?J?\\CbA?JCpA?R?\\AZA`@Cv@?\\A^?p@At@CZANEVEXKf@Qp@Kb@]fACDKZOXKRQZQZw@pAGJKNKNMRW\\s@x@m@t@UZ]f@KRIJm@~@[b@ADMP]n@o@z@EHa@f@IHYZq@x@KJ[`@_@d@STc@j@QVQXIRIPIRELIVI\\Id@CRC`@CVAT?P?T?L@NBVH~@LbANx@Nn@DTRdAFb@Fh@?H@X@h@Ab@Ah@CPEZE^Kf@SfAWhAWvAC^ALAT?h@?V@V@XDb@"
+                                "points": "ucjmD_}kvMEhAANAf@"
                             },
                             "start_location": {
-                                "lat": 28.5821012,
-                                "lng": 77.2616774
+                                "lat": 28.5652287,
+                                "lng": 77.234876
                             },
                             "travel_mode": "DRIVING"
                         },
                         {
                             "distance": {
-                                "text": "3.0 km",
-                                "value": 3032
+                                "text": "0.3 km",
+                                "value": 265
                             },
                             "duration": {
-                                "text": "5 mins",
-                                "value": 283
+                                "text": "1 min",
+                                "value": 50
+                            },
+                            "end_location": {
+                                "lat": 28.5632373,
+                                "lng": 77.23292909999999
+                            },
+                            "html_instructions": "Turn <b>left</b>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "_djmD}xkvM`@Jt@\\^RtCxAPJRJz@\\HDHF@@FHHZ"
+                            },
+                            "start_location": {
+                                "lat": 28.5652847,
+                                "lng": 77.23422970000001
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.1 km",
+                                "value": 107
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 10
                             },
                             "end_location": {
                                 "lat": 28.5623629,
                                 "lng": 77.2324805
                             },
-                            "html_instructions": "Exit onto <b>Lala Lajpat Rai Rd</b><div style=\"font-size:0.9em\">Pass by Lajpat Nagar Metro Station (on the left in 2 km)</div>",
-                            "maneuver": "ramp-left",
+                            "html_instructions": "Merge onto <b>Lala Lajpat Rai Rd</b>",
+                            "maneuver": "merge",
                             "polyline": {
-                                "points": "}knmDormvMH@B@BDBFBJ@JDN?@JXJTHN\\`@`@h@hAnAXXXZNNTTHHHFLHLFLHJDVLRHJDND^Nd@\\N@H@LBNDRDb@P\\P`@RdCvA~A|@bD`B~A|@d@RVLNFLDh@LZFXF^BT@zA?V?X?R?PAX?\\?R?v@?T?T?R?T?x@?lBCjC?fBA^AzA?H?^@\\Bd@Fb@FPF\\LNHlAj@jAj@jB~@PJrAv@zAv@RLn@Zv@`@`@RtAj@XH`Ab@`@N`@P\\P`@P~@`@@?fB|@r@^b@TnAh@BBRFPD\\HTD^FTBXDP@v@FdBPf@FZD`@FNBPDB@RFNDPFl@VHDNF|BdAB@dChAr@d@vAl@vAj@"
+                                "points": "gwimDypkvMvAl@vAj@"
                             },
                             "start_location": {
-                                "lat": 28.5870327,
-                                "lng": 77.2434364
+                                "lat": 28.5632373,
+                                "lng": 77.23292909999999
                             },
                             "travel_mode": "DRIVING"
                         },
@@ -633,9 +730,9 @@
                 }
             ],
             "overview_polyline": {
-                "points": "ooymDgs~vMDHYx@gAbDITh@l@nB|AjBfAj@T`@HdAZ`ARfBVn@HhB@zCO|AShB[p@O~@]jM_FbG_Cv@YxAq@vBy@tCiAjBgArBk@n@nCfCpLl@rBVnALx@XnAfAhFrBvIXrA@hAXlAXh@BHp@hC?x@@PVxAvC~LfAzE~B~Jp@rCp@jCNt@TlARj@l@fC^dBXlA\\bB`BpHn@pCpChL~Ij_@|FnVbGlWzE|RrApF^hBf@fBVz@\\dARj@f@rAb@`A`BxCrArBvDhFzAdB`@\\HLb@Zp@\\r@`@h@d@f@l@|@v@bBhAdAbAjD`DpGpFbCvBdAbA@ZPZ|ApBjBpCVd@b@t@nAhC`BbERj@~AxEvD~KdA~Ch@jAPVRNf@vAhA|CT~@ZhAbAnC`@~@l@dAz@bB\\z@\\|@tA`EnKtZtBfGvAzEvAbFd@|@X`@l@`@`@TtAd@|@HhFmANARAH@DBv@W|D{@pDaA|@Ut@Ol@IbGsAtBc@bCi@pNiDbCk@tAe@p@]f@_@VY^[Z]^q@xA_DtDcHnBgDdAsBPq@t@eB\\k@DOFq@A]E[M[MQSSUMg@OOAe@@]Ja@TW^Ob@CP@x@Nt@@\\n@bBpAzCdApC`@jAd@vB\\bBNnAHz@@x@@b@C`BCpBGrCCdDQ|A]xAi@jBk@nAcBtC}@pAaBnBs@bA_BbCOVmAjBkAvAyBlCw@`Ac@p@c@fASt@Mx@I`BDjAVbC^hBXzANlA@pBEz@Kz@oApGEl@A~@@n@F|@LBFLJh@Vn@f@p@dCrChAjAr@b@bAb@n@Td@\\N@VDb@J`Ab@fDjBhKpFf@Tv@Rt@Nt@D`D?tEAnA?xFClFC|@DhANn@T|At@vDjBdBbAvEbCrElBbCdA`A`@zC|ArB~@VJdB\\xBRjEf@x@RxAj@vGxCr@d@vAl@pBz@~At@nAp@xCfBx@d@nAj@tAf@jCz@`Cv@|Ah@lBd@|Ar@pExA~Bx@rBp@v@X`APjAHpAAfDMdHYtDQ`BE|@GxASXGzAk@xAi@|D_BvDyAbCw@xBy@jHoCtEiB`A]RCnBSz@C`C?~EFnJDxLDdIDdEA~BDvLRr@Ft@RtEjAtAb@fDbAvIrChCz@rC`AvCbA`Cv@nAd@dCbApBt@bGnBbBd@pBn@x@R^Dr@JjAJbABp@@HGTC\\MREJg@j@iDV_CZ}C~@gFHc@dAeGViC?uAHw@Fq@d@iD|AyJb@kBVoC~@kHRuCZwC^iE@sBByA}D]gBMNiC"
+                "points": "ooymDgs~vMDHYx@gAbDITh@l@nB|AjBfAj@T`@HdAZ`ARfBVn@HhB@zCO|AShB[p@O~@]jM_FbG_Cv@YxAq@vBy@tCiAjBgArBk@n@nCfCpLl@rBVnALx@XnAfAhFrBvIXrA@hAXlAXh@BHp@hC?x@@PVxAvC~LfAzE~B~Jp@rCp@jCNt@TlARj@l@fC^dBXlA\\bB`BpHn@pCpChL~Ij_@|FnVbGlWzE|RrApF^hBf@fBVz@\\dARj@f@rAb@`A`BxCrArBvDhFzAdB`@\\HLb@Zp@\\r@`@h@d@f@l@|@v@bBhAdAbAjD`DpGpFbCvBdAbA@ZPZ|ApBjBpCVd@b@t@nAhC`BbERj@~AxEvD~KdA~Ch@jAPVRNf@vAhA|CT~@ZhAbAnC`@~@l@dAz@bB\\z@\\|@tA`EnKtZtBfGvAzEvAbFd@|@X`@l@`@`@TtAd@|@HhFmANARAH@DBv@W|D{@pDaA|@Ut@Ol@IbGsAtBc@bCi@pNiDbCk@tAe@p@]f@_@VY^[Z]^q@xA_DtDcHnBgDdAsBx@mA`@e@|AyBjBuC|@mBL[H]Lw@XwDXuBh@sAj@_At@_AVQp@c@h@Qd@Ed@Bl@RRTRXL^DXBd@@\\Sn@m@rBCp@@t@DXJ\\Zp@rAvBPd@F\\l@r@j@p@pBlDpAzBtBdDnAxBlBrDhAtBpBlD^l@hBfD|@zAtC`FnCjEhBjCj@dA\\fAb@bAZh@RX~@bAjA~@b@VhA^|CnAfEdBnAl@v@h@j@n@bAvAd@pAVzAN|DN~CXdIXxGh@jLVpEPtDFbDFzDAxAq@jNMtCJj@?ZKxCOzBK~BCv@`@Jt@\\tDlBjBz@JHPd@nDxAx@`@lB~@~A~@tBnApAn@z@^vBr@jH`ClBd@dAb@VNzBr@t@Vv@VdC|@pBn@ZLj@Jr@JvABtAEvCMbDMfCIfEQzBOrASjBo@lDyA|CkA`EwAnFqBxHsCvEiBj@IdBMbACrFBvBBxXL~FBzEAhQ\\l@FdCr@jCp@|Bp@nGpBxE|AjC|@jExAzAd@bC|@dC~@p@XzBx@xFjB|Ab@pBn@|@RfCZhCFf@Oh@Oj@wCRgBZaDl@eEd@}BjA{GViC?uALmA~@_HnAwHJ_@Ns@RoB~@yHJcAP{Cj@_FD]F_B?sB@e@q@GkBQgAI_AGNiC"
             },
-            "summary": "Gurjar Samrat Mihir Bhoj Marg",
+            "summary": "Mahatma Gandhi Rd/Ring Rd",
             "warnings": [],
             "waypoint_order": []
         }
