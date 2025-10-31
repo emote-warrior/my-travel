@@ -35,16 +35,16 @@
             "legs": [
                 {
                     "distance": {
-                        "text": "25.9 km",
-                        "value": 25903
+                        "text": "25.8 km",
+                        "value": 25833
                     },
                     "duration": {
                         "text": "49 mins",
-                        "value": 2927
+                        "value": 2924
                     },
                     "duration_in_traffic": {
-                        "text": "56 mins",
-                        "value": 3352
+                        "text": "1 hour 0 mins",
+                        "value": 3624
                     },
                     "end_address": "41, Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi 110062, India",
                     "end_location": {
@@ -381,7 +381,7 @@
                             },
                             "html_instructions": "Continue onto <b>Josip Broz Tito Marg</b><div style=\"font-size:0.9em\">Pass by the park (on the left in 950m)</div>",
                             "polyline": {
-                                "points": "g{hmDiakvMRF`@NVHr@T|Ah@lBd@dAb@VNzBr@ZJXJ^LVHZLf@Pb@N\\L^LZJXHZJZLj@JTD\\Dl@Bh@?f@Al@Cl@Cd@Ad@C\\Cd@Af@Cb@Ap@Ep@AD?j@Eb@Aj@Cn@Et@Et@Aj@C\\C^CPCRCXEXEJCLCt@Yd@Q@?f@S`@OLEtAo@fBo@t@[`C}@~@YbA]|@]z@[p@Y|@]l@SlCcA~@]l@W^O"
+                                "points": "g{hmDiakvMRF`@NVHr@T|Ah@lBd@dAb@VNzBr@ZJXJ^LVHZLf@Pb@N\\L^LZJXHXHZJVHj@J\\Dl@Bh@?f@Al@Cl@Cd@Ad@C\\Cd@Af@Cb@Ap@Ep@AD?j@Eb@Aj@Cn@Et@Et@Aj@C\\C^CPCRCXEXEJCLCt@Yd@Q@?f@S`@OLEtAo@fBo@t@[`C}@~@YbA]|@]z@[p@Y|@]l@SlCcA~@]l@W^O"
                             },
                             "start_location": {
                                 "lat": 28.5587603,
@@ -438,21 +438,21 @@
                         },
                         {
                             "distance": {
-                                "text": "0.5 km",
-                                "value": 527
+                                "text": "1.0 km",
+                                "value": 994
                             },
                             "duration": {
-                                "text": "2 mins",
-                                "value": 120
+                                "text": "4 mins",
+                                "value": 249
                             },
                             "end_location": {
-                                "lat": 28.5184219,
-                                "lng": 77.2348719
+                                "lat": 28.5143198,
+                                "lng": 77.2338334
                             },
                             "html_instructions": "Turn <b>right</b> onto <b>Dakshinpuri Rd</b>/<wbr/><b>Durbal Ji Nath Marg</b>",
                             "maneuver": "turn-right",
                             "polyline": {
-                                "points": "e|amDi~kvM?ON@V@xBFF?^@f@@hCFvA@lCBrA@r@@~@?b@@^Dr@P"
+                                "points": "e|amDi~kvM?ON@V@xBFF?^@f@@hCFvA@lCBrA@r@@~@?b@@^Dr@PnB^rATnANrAV^DRDhBX`BVNBd@Hp@Lh@Hx@L"
                             },
                             "start_location": {
                                 "lat": 28.5230736,
@@ -462,73 +462,25 @@
                         },
                         {
                             "distance": {
-                                "text": "0.4 km",
-                                "value": 395
+                                "text": "0.9 km",
+                                "value": 917
                             },
                             "duration": {
-                                "text": "2 mins",
-                                "value": 95
-                            },
-                            "end_location": {
-                                "lat": 28.5170079,
-                                "lng": 77.2383231
-                            },
-                            "html_instructions": "Turn <b>left</b>",
-                            "maneuver": "turn-left",
-                            "polyline": {
-                                "points": "c_amD}|kvMBo@@g@?i@?G?aA@i@?]?U@c@?CBIHObA{AZc@T[V]V[V_@DCDGFITYX_@"
-                            },
-                            "start_location": {
-                                "lat": 28.5184219,
-                                "lng": 77.2348719
-                            },
-                            "travel_mode": "DRIVING"
-                        },
-                        {
-                            "distance": {
-                                "text": "0.4 km",
-                                "value": 441
-                            },
-                            "duration": {
-                                "text": "2 mins",
-                                "value": 110
-                            },
-                            "end_location": {
-                                "lat": 28.5134644,
-                                "lng": 77.2366783
-                            },
-                            "html_instructions": "Turn <b>right</b> onto <b>Baba Ramdev Mandir Rd</b>/<wbr/><b>Karbala Rd</b>",
-                            "maneuver": "turn-right",
-                            "polyline": {
-                                "points": "iv`mDorlvMvBzB@@VZXX`@\\DDDBRJj@D^BlC`@`@JL@zATpBN"
-                            },
-                            "start_location": {
-                                "lat": 28.5170079,
-                                "lng": 77.2383231
-                            },
-                            "travel_mode": "DRIVING"
-                        },
-                        {
-                            "distance": {
-                                "text": "0.6 km",
-                                "value": 618
-                            },
-                            "duration": {
-                                "text": "2 mins",
-                                "value": 134
+                                "text": "3 mins",
+                                "value": 207
                             },
                             "end_location": {
                                 "lat": 28.5124504,
                                 "lng": 77.24286889999999
                             },
-                            "html_instructions": "Turn <b>left</b> onto <b>Mehrauli - Badarpur Rd</b>",
+                            "html_instructions": "Turn <b>left</b> onto <b>Mehrauli - Badarpur Rd</b><div style=\"font-size:0.9em\">Pass by the park (on the left)</div>",
                             "maneuver": "turn-left",
                             "polyline": {
-                                "points": "c``mDghlvMDODONs@RoBB_@z@yGBQFq@JcBDw@T_BT_CDY?CBk@Bs@A_A@s@@e@"
+                                "points": "oe`mDmvkvMPOXUXaCTyAPkAV{A\\wBFWDODONs@RoBB_@z@yGBQFq@JcBDw@T_BT_CDY?CBk@Bs@A_A@s@@e@"
                             },
                             "start_location": {
-                                "lat": 28.5134644,
-                                "lng": 77.2366783
+                                "lat": 28.5143198,
+                                "lng": 77.2338334
                             },
                             "travel_mode": "DRIVING"
                         },
@@ -586,7 +538,7 @@
                 }
             ],
             "overview_polyline": {
-                "points": "ooymDgs~vMDHYx@gAbDITh@l@nB|AjBfAj@T`@HdAZ`ARfBVn@HhB@zCO|AShB[p@O~@]jM_FbG_Cv@YxAq@vBy@tCiAjBgArBk@n@nCfCpLl@rBVnALx@XnAfAhFrBvIXrA@hAXlAb@jCBl@CRd@jB`@fBpAfGr@~Cz@fDp@~CdBjHbCbKhCjL|BjKbAnEfDhN~EnS~B~JpAlFtSv|@dArD`BjFVj@bAvBn@hAZj@d@v@bBdCzArBbBnB`AbAjBdBjDlCxHnGzGlGfC|BlCvClBfCb@n@xAfCbApBdAfCt@rBbAvCxC`J`BzE|@dCr@tB\\x@ZfArAtDlAdDN\\^t@p@hAZt@f@lAj@jBj@fBt@zBl@`B`B|EtDnKvAlD|AvEVr@\\fAfAxDf@hBDT@ZEd@IxACtAFr@e@LkBb@yBb@w@ToCj@_B\\aEx@oJvBiB\\m@FiLfCcHdBsCl@uHbBkDr@eATc@\\i@ROD{@X[VGFANFt@d@~BrA~FFhBKdBBh@Tn@p@tA\\z@X~@LhADf@?v@Ej@GTY~@Id@cCbEy@jAO^EPE`A@lEK|B^z@NRhCDvADR?`JFd@?`BCjNa@|BKhA?n@@nDCdHUfEI|BGtH]f@AfIa@p@@`ALtARfBRnAL|BJfCTrBXrC\\fAH~AD~KDbACXEpAYhAe@pBiAp@Yd@OPCtCKhF?`DDzCJz@P`Ab@fDjBhKpFf@Tv@Rt@Nt@D`D?tEAnA?xFClFC|@DhANn@T|At@vDjBdBbAvEbCrElBbCdA`A`@zC|ArB~@VJdB\\xBRjEf@x@RxAj@vGxCr@d@vAl@pBz@~At@nAp@xCfBx@d@nAj@tAf@jCz@`Cv@|Ah@lBd@|Ar@pExA~Bx@rBp@v@X`APjAHpAAfDMdHYtDQ`BE|@GxASXGzAk@xAi@|D_BvDyAbCw@xBy@jHoCtEiB`A]RCnBSz@C`C?~EFnJDxLDdIDdEA~BDvLRr@Ft@RtEjAtAb@fDbAvIrCv@Vz@XDORu@Ry@zA_GLg@H}@JeIFgD@_AhDJhHLtIFbAFr@PBo@@qA?iABaCBMlAkB`ByBj@u@n@y@xB|BxAxAXNjAHnDl@hBVpBNDOTcAVoC~@kHRuCZwC^iE@sBByA}D]gBMNiC"
+                "points": "ooymDgs~vMDHYx@gAbDITh@l@nB|AjBfAj@T`@HdAZ`ARfBVn@HhB@zCO|AShB[p@O~@]jM_FbG_Cv@YxAq@vBy@tCiAjBgArBk@n@nCfCpLl@rBVnALx@XnAfAhFrBvIXrA@hAXlAb@jCBl@CRd@jB`@fBpAfGr@~Cz@fDp@~CdBjHbCbKhCjL|BjKbAnEfDhN~EnS~B~JpAlFtSv|@dArD`BjFVj@bAvBn@hAZj@d@v@bBdCzArBbBnB`AbAjBdBjDlCxHnGzGlGfC|BlCvClBfCb@n@xAfCbApBdAfCt@rBbAvCxC`J`BzE|@dCr@tB\\x@ZfArAtDlAdDN\\^t@p@hAZt@f@lAj@jBj@fBt@zBl@`B`B|EtDnKvAlD|AvEVr@\\fAfAxDf@hBDT@ZEd@IxACtAFr@e@LkBb@yBb@w@ToCj@_B\\aEx@oJvBiB\\m@FiLfCcHdBsCl@uHbBkDr@eATc@\\i@ROD{@X[VGFANFt@d@~BrA~FFhBKdBBh@Tn@p@tA\\z@X~@LhADf@?v@Ej@GTY~@Id@cCbEy@jAO^EPE`A@lEK|B^z@NRhCDvADR?`JFd@?`BCjNa@|BKhA?n@@nDCdHUfEI|BGtH]f@AfIa@p@@`ALtARfBRnAL|BJfCTrBXrC\\fAH~AD~KDbACXEpAYhAe@pBiAp@Yd@OPCtCKhF?`DDzCJz@P`Ab@fDjBhKpFf@Tv@Rt@Nt@D`D?tEAnA?xFClFC|@DhANn@T|At@vDjBdBbAvEbCrElBbCdA`A`@zC|ArB~@VJdB\\xBRjEf@x@RxAj@vGxCr@d@vAl@pBz@~At@nAp@xCfBx@d@nAj@tAf@jCz@`Cv@|Ah@lBd@|Ar@pExA~Bx@rBp@xBj@jAHpAAfDMdHYtDQ`BE|@GxASXGzAk@xAi@|D_BvDyAbCw@xBy@jHoCtEiB`A]RCnBSz@C`C?~EFnJDxLDdIDdEA~BDvLRr@Ft@RtEjAtAb@fDbAvIrCv@Vz@XDORu@Ry@zA_GLg@H}@JeIFgD@_AhDJhHLtIFbAFbDp@bDd@rB\\nFz@zDn@j@e@n@{EnAwHJ_@Ns@RoB~@yHJcAP{Cj@_FD]F_B?sB@e@q@GkBQgAI_AGNiC"
             },
             "summary": "NE 3",
             "warnings": [],
