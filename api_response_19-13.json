@@ -1,7 +1,14 @@
 {
     "geocoded_waypoints": [
         {
-            "geocoder_status": "UNKNOWN_ERROR"
+            "geocoder_status": "OK",
+            "place_id": "ChIJozLfYQD7DDkRj-MAxba9a8g",
+            "types": [
+                "establishment",
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest"
+            ]
         },
         {
             "geocoder_status": "OK",
@@ -33,17 +40,18 @@
                     },
                     "duration": {
                         "text": "46 mins",
-                        "value": 2736
+                        "value": 2735
                     },
                     "duration_in_traffic": {
-                        "text": "34 mins",
-                        "value": 2047
+                        "text": "35 mins",
+                        "value": 2078
                     },
                     "end_address": "41, Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi 110062, India",
                     "end_location": {
                         "lat": 28.5138429,
                         "lng": 77.2437757
                     },
+                    "start_address": "Block-B, Neel Padam Kunj, Neelpadam Kunj Complex, Kamma 1, Vaishali, Ghaziabad, Uttar Pradesh 201010, India",
                     "start_location": {
                         "lat": 28.6439195,
                         "lng": 77.3306006
@@ -458,7 +466,7 @@
                             },
                             "duration": {
                                 "text": "6 mins",
-                                "value": 364
+                                "value": 363
                             },
                             "end_location": {
                                 "lat": 28.5124504,
