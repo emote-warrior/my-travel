@@ -28,23 +28,23 @@
                 },
                 "southwest": {
                     "lat": 28.5117657,
-                    "lng": 77.2437757
+                    "lng": 77.2426612
                 }
             },
             "copyrights": "Powered by Google, \u00a92025 Google",
             "legs": [
                 {
                     "distance": {
-                        "text": "22.9 km",
-                        "value": 22876
+                        "text": "23.1 km",
+                        "value": 23065
                     },
                     "duration": {
-                        "text": "50 mins",
-                        "value": 3023
+                        "text": "51 mins",
+                        "value": 3045
                     },
                     "duration_in_traffic": {
-                        "text": "32 mins",
-                        "value": 1890
+                        "text": "31 mins",
+                        "value": 1859
                     },
                     "end_address": "41, Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi 110062, India",
                     "end_location": {
@@ -96,7 +96,7 @@
                             "html_instructions": "Turn <b>right</b> toward <b>Madan Mohan Malviya Marg</b><div style=\"font-size:0.9em\">Partial restricted usage road</div>",
                             "maneuver": "turn-right",
                             "polyline": {
-                                "points": "ioymD}r~vMYx@g@bB_@~@CHEJ"
+                                "points": "ioymD}r~vMYx@]jAIV_@~@CHEJ"
                             },
                             "start_location": {
                                 "lat": 28.6438871,
@@ -543,7 +543,7 @@
                                 "lat": 28.5119149,
                                 "lng": 77.2519752
                             },
-                            "html_instructions": "Turn <b>right</b> after Metro Pillar Number 166 (on the right)<div style=\"font-size:0.9em\">Pass by Patanjali Mega Store and Wellness Centre (on the left in 2 km)</div>",
+                            "html_instructions": "Turn <b>right</b> after Metro Pillar Number 166 (on the right)<div style=\"font-size:0.9em\">Pass by Axis Bank Branch (on the right in 800m)</div>",
                             "maneuver": "turn-right",
                             "polyline": {
                                 "points": "m}emDawqvMBHBJFRBJHVH^P~@BH@D@B@DDFFDB@FBHDHBJBzBn@hBj@dA\\LBt@Tb@N`Bd@fAVp@L^LPDPDl@P`@Hb@Nb@NNFj@N`A\\j@Pl@Vv@NbAXl@RLBd@Lr@R^Jx@T~@Pz@TzA`@l@TLBFBhA\\hAZv@Tj@N~@XJD|A^HDtDfAr@PNDJBjCx@RFz@T^LhFzAnD~@HBh@Pb@LnCt@^DRD^HzExAtBj@xDhAL?D@lD|@bAVnBd@TFB@@@@?fCn@bEpANFzAd@n@NfHhBZL~KnCzCv@vA\\vBl@pA\\l@Ll@Ln@Bb@DvA@"
@@ -556,21 +556,21 @@
                         },
                         {
                             "distance": {
-                                "text": "0.7 km",
-                                "value": 673
+                                "text": "0.9 km",
+                                "value": 927
                             },
                             "duration": {
-                                "text": "3 mins",
-                                "value": 180
+                                "text": "4 mins",
+                                "value": 224
                             },
                             "end_location": {
-                                "lat": 28.5120797,
-                                "lng": 77.24525489999999
+                                "lat": 28.512231,
+                                "lng": 77.2426612
                             },
                             "html_instructions": "Turn <b>right</b> onto <b>Mehrauli - Badarpur Rd</b><div style=\"font-size:0.9em\">Pass by Footover Bridge (on the right)</div>",
                             "maneuver": "turn-right",
                             "polyline": {
-                                "points": "mv_mD{govMZDA^OtCKjE?`CB`C?NIrEO~EE`B?fBCf@"
+                                "points": "mv_mD{govMZDA^OtCKjE?`CB`C?NIrEO~EE`B?fBCf@C~BGbCM|C?D?^?PAVAR"
                             },
                             "start_location": {
                                 "lat": 28.5119149,
@@ -580,80 +580,56 @@
                         },
                         {
                             "distance": {
-                                "text": "39 m",
-                                "value": 39
+                                "text": "44 m",
+                                "value": 44
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 15
+                                "value": 14
                             },
                             "end_location": {
-                                "lat": 28.5124328,
-                                "lng": 77.24527979999999
+                                "lat": 28.5124504,
+                                "lng": 77.24286889999999
                             },
-                            "html_instructions": "Turn <b>right</b> toward <b>Shree ram marg</b>",
-                            "maneuver": "turn-right",
+                            "html_instructions": "Make a <b>U-turn</b>",
+                            "maneuver": "uturn-right",
                             "polyline": {
-                                "points": "ow_mDy}mvMc@Ca@A"
+                                "points": "mx_mDsmmvMm@C@e@"
                             },
                             "start_location": {
-                                "lat": 28.5120797,
-                                "lng": 77.24525489999999
+                                "lat": 28.512231,
+                                "lng": 77.2426612
                             },
                             "travel_mode": "DRIVING"
                         },
                         {
                             "distance": {
-                                "text": "55 m",
-                                "value": 55
+                                "text": "0.2 km",
+                                "value": 165
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 25
+                                "value": 46
                             },
                             "end_location": {
-                                "lat": 28.5124779,
-                                "lng": 77.2447194
+                                "lat": 28.513924,
+                                "lng": 77.24308769999999
                             },
-                            "html_instructions": "Turn <b>left</b> toward <b>Shree ram marg</b>",
+                            "html_instructions": "Turn <b>left</b>",
                             "maneuver": "turn-left",
                             "polyline": {
-                                "points": "uy_mD_~mvMInB"
+                                "points": "yy_mD}nmvMq@GgBQC?_@Cg@E_AG"
                             },
                             "start_location": {
-                                "lat": 28.5124328,
-                                "lng": 77.24527979999999
+                                "lat": 28.5124504,
+                                "lng": 77.24286889999999
                             },
                             "travel_mode": "DRIVING"
                         },
                         {
                             "distance": {
-                                "text": "0.1 km",
-                                "value": 138
-                            },
-                            "duration": {
-                                "text": "1 min",
-                                "value": 42
-                            },
-                            "end_location": {
-                                "lat": 28.5137073,
-                                "lng": 77.2448947
-                            },
-                            "html_instructions": "Turn <b>right</b> at the 1st cross street onto <b>Shree ram marg</b>",
-                            "maneuver": "turn-right",
-                            "polyline": {
-                                "points": "_z_mDozmvMiBMA?iCS"
-                            },
-                            "start_location": {
-                                "lat": 28.5124779,
-                                "lng": 77.2447194
-                            },
-                            "travel_mode": "DRIVING"
-                        },
-                        {
-                            "distance": {
-                                "text": "0.1 km",
-                                "value": 110
+                                "text": "68 m",
+                                "value": 68
                             },
                             "duration": {
                                 "text": "1 min",
@@ -663,14 +639,14 @@
                                 "lat": 28.5138429,
                                 "lng": 77.2437757
                             },
-                            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
-                            "maneuver": "turn-left",
+                            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+                            "maneuver": "turn-right",
                             "polyline": {
-                                "points": "ua`mDq{mvMMtBCf@G~@"
+                                "points": "_c`mDipmvMNiC"
                             },
                             "start_location": {
-                                "lat": 28.5137073,
-                                "lng": 77.2448947
+                                "lat": 28.513924,
+                                "lng": 77.24308769999999
                             },
                             "travel_mode": "DRIVING"
                         }
@@ -680,7 +656,7 @@
                 }
             ],
             "overview_polyline": {
-                "points": "ooymDgs~vMDHYx@gAbDITh@l@nB|AjBfAj@T`@HdAZ`ARfBVn@HhB@zCO|AShB[p@O~@]jM_FbG_Cv@YxAq@vBy@tCiAjBgArBk@n@nCfCpLl@rBVnALx@XnAfAhFrBvIXrA@hAXlAb@jCBl@CRd@jB`@fBpAfGr@~Cz@fDp@~CdBjHbCbKhCjL|BjKbAnEfDhN~EnS~B~JpAlFtSv|@dArD`BjFVj@bAvBn@hAZj@d@v@bBdCzArBbBnB`AbAjBdBjDlCxHnGzGlGfC|BlCvClBfCb@n@xAfCbApBdAfCt@rBbAvCxC`J`BzE|@dCr@tB\\x@Tx@xAbElAdDj@nAp@nA\\r@h@lAl@hBj@fBv@zBl@`B`B|E~AzEpAtDvAlD|AvEVr@\\fAb@vA\\`Bf@fBDT@\\Ed@IxAAtA|D{@fB]tGyAZCF@HBv@W|D{@rDaAvAa@~@KjAWnH_BZGdE_AxNmDzAe@p@Wf@Wd@_@TWd@e@\\a@\\o@lAoC~C_GnA_CnBkDdAaB~AsBbBeC|@_Bt@eBNu@TkCT}BNcAJ[Ti@`@w@l@{@n@k@^Uf@Wj@Kd@?l@L^VLPRb@Lv@?XCVFb@CTm@vC?h@Jl@Vn@xA`Cb@p@Nl@nCfEdD~FxBpDhDmCf@_@jAuAbEaDjAo@fDuApAk@~@a@dAi@nBgAjCcBzFmDvDaCxBsAtAm@dCcArAk@hIgE~E_CbDeBh@QzBe@bDc@j@Kh@SnBw@l@YfDpIjAlCx@xBt@~At@lBf@tAfD~Hz@nB~AxDV^t@j@f@\\l@XnAf@dC|@~Aj@x@PfBh@XKN?dCn@tAf@~Av@t@h@b@d@`@x@FLlBn@j@C|IgCtDiAjLwDLEBHJ^Lb@Z~AHXLLJDzC|@rFbBdCt@xBd@pBj@dAXr@Vj@N`A\\xAh@zBh@z@VrDbAzBf@hCv@hD`AnDdApI~BzDjAtN~DfFxAr@JzFbBnHtBR@vJbCnCr@rExAjCt@bIvBzPfEnEjA~Bj@l@Ln@BzBFZDA^OtCKjEBbGIbFU`ICnCeAEInBiBMA?iCSMtBKfB"
+                "points": "ooymDgs~vMDHYx@g@bBc@hAEJLNt@v@v@l@jBjAhAf@fBd@nB^jAL\\F`A@~CKbAIv@KjASbB_@bM}EhBq@zFyBxD_BjBs@pAi@~@i@j@]|@Wt@SJd@d@lB`AxEtAzFl@fC^tBdA~EfBrHv@rD?~@XlAh@lDE^z@nDtBxJjAvEv@jDhAzEbBhHrAzFbAtEzA|GdAzEjAbFbDzMlEzQhC|K|ArGnFhUzKpe@pAtEnAfEf@rAjAbCzAlCtAvBjBhCfArAdAhAv@z@v@p@`DhC`FbEhCtBbB`B`BzApCbCnCnCtCjDz@nAt@nAzAnChAhCbAnCdA|ClAlDlDpKrB|F\\x@Tx@xClIh@nAt@vAZl@v@fBx@dCjAnDf@vApBzFfDzJpClHdAbDbA`Dl@jCZhABb@CZM`D?Z|Bc@tCq@`H}A`@CD?D@DBv@W|D{@pDaA|@Ut@Ol@IjJsBb@InDy@lNgDdAWtAe@p@]f@_@VY^[Z]^q@xA_DtDcHnBgDdAsBx@mA`@e@|AyBjBuC|@mBL[H]Lw@^wERuAXw@\\q@\\i@t@_AhAu@h@Qd@Ed@BPDZLJJZb@L^DXBd@C^Fl@o@nCAf@Bh@J`@Rf@d@t@nAnBLZH^nAhBVb@lApBdApBpCrE`@r@tAcAzBiBjAuA`Aw@vCyBr@_@lCeAnAm@hAe@|@c@|BoAfC_BfEgCpD_ChBkAbB_AfAe@f@SxAm@t@YlIgEfAo@zDgB`DcBLGTIlBa@fDe@~@OjDuAXOJVzAvDvBlFrB`Fz@rBf@tAt@hBjBjEv@hBvAhDd@~@LRXTbAr@fAf@tDrAdBn@dBd@z@TRILCfAVnBj@bA^p@\\v@h@f@`@b@p@NZDLlBn@j@C~Ac@nIeCbO{EXIFT^vAXrAFLJFf@PxH|BxAd@hD|@tBf@nAZfA^z@VlBn@l@Vv@NpBl@fCp@xBf@vCv@lCz@lFzAhBd@~DlAbAVvC|@xIfCfGbBnCt@^Dr@NpIdCxDhAL?rD~@rD|@\\JfCn@bEpAjBl@vIxBzL|CrFtAhEjAzAZrAHrBFQtDKjE?`CBpCYrLEhEGfDU`HAnAARm@C@e@q@GkBQgAI_AGNiC"
             },
             "summary": "NE 3",
             "warnings": [],
