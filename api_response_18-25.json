@@ -35,16 +35,16 @@
             "legs": [
                 {
                     "distance": {
-                        "text": "22.7 km",
-                        "value": 22749
+                        "text": "22.8 km",
+                        "value": 22750
                     },
                     "duration": {
                         "text": "52 mins",
-                        "value": 3102
+                        "value": 3114
                     },
                     "duration_in_traffic": {
-                        "text": "37 mins",
-                        "value": 2240
+                        "text": "35 mins",
+                        "value": 2104
                     },
                     "end_address": "41, Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi 110062, India",
                     "end_location": {
@@ -96,7 +96,7 @@
                             "html_instructions": "Turn <b>right</b> toward <b>Madan Mohan Malviya Marg</b><div style=\"font-size:0.9em\">Partial restricted usage road</div>",
                             "maneuver": "turn-right",
                             "polyline": {
-                                "points": "ioymD}r~vMYx@g@bB_@~@CHEJ"
+                                "points": "ioymD}r~vMYx@]jAIV_@~@CHEJ"
                             },
                             "start_location": {
                                 "lat": 28.6438871,
@@ -111,7 +111,7 @@
                             },
                             "duration": {
                                 "text": "3 mins",
-                                "value": 203
+                                "value": 205
                             },
                             "end_location": {
                                 "lat": 28.631606,
@@ -135,7 +135,7 @@
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 87
+                                "value": 88
                             },
                             "end_location": {
                                 "lat": 28.6302684,
@@ -286,7 +286,7 @@
                             "html_instructions": "Keep <b>right</b> to stay on <b>Gurjar Samrat Mihir Bhoj Marg</b>",
                             "maneuver": "keep-right",
                             "polyline": {
-                                "points": "u~umDei{vM^vAPn@VlAFVBLFXHZBH@DDRH\\Jj@DNNt@VhABLNp@Jd@H^HZH\\H\\BJFX@FBHHZ?@BNBJHXBLNn@Nh@?DRr@FXLb@DLFVJd@?@Rt@BN@BLd@@DH^J^Ll@FX@D@DLd@@FH\\FPNt@Pr@H\\J^@DBJT~@HVBLJd@@BT|@@HT`AT~@Pp@@D"
+                                "points": "u~umDei{vM^vANp@XjAFVBLFXHZBH@DDRH\\Jj@DNNt@VhABLNp@Jd@H^HZH\\H\\BJFX@FBHHZ?@BNBJHXBLNn@Nh@?DRr@FXLb@DLFVJd@?@Rt@BN@BLd@@DH^J^Ll@FX@D@DLd@@FH\\FPNt@Pr@H\\J^@DBJT~@HVBLJd@@BT|@@HT`AT~@Pp@@D"
                             },
                             "start_location": {
                                 "lat": 28.6258676,
@@ -424,13 +424,13 @@
                                 "value": 29
                             },
                             "end_location": {
-                                "lat": 28.5926799,
-                                "lng": 77.25759719999999
+                                "lat": 28.5926747,
+                                "lng": 77.2575713
                             },
                             "html_instructions": "Merge onto <b>NH 44</b>",
                             "maneuver": "merge",
                             "polyline": {
-                                "points": "i_pmDgepvMv@W|D{@pDaA@?z@UZK"
+                                "points": "i_pmDgepvMv@W|D{@pDaA@?z@S\\G"
                             },
                             "start_location": {
                                 "lat": 28.5952487,
@@ -451,14 +451,14 @@
                                 "lat": 28.5859438,
                                 "lng": 77.2598909
                             },
-                            "html_instructions": "Slight <b>right</b>",
-                            "maneuver": "turn-slight-right",
+                            "html_instructions": "Keep <b>right</b>",
+                            "maneuver": "keep-right",
                             "polyline": {
-                                "points": "goomD_kpvMXCd@GFAbAU~D}@tA[PCFADARE@?ZG^KNCZIDA`@I^KTETGVGfBe@~A_@bDw@^I\\I`@Kb@Kv@Y\\KRK\\Q"
+                                "points": "eoomDyjpvMVGd@IFAbAU~D}@tA]PEFCNEHAZI^KPCXIDA`@K^IVGTETGhB_@~A]bDw@^I\\I`@Kb@Kv@Y\\KRK\\Q"
                             },
                             "start_location": {
-                                "lat": 28.5926799,
-                                "lng": 77.25759719999999
+                                "lat": 28.5926747,
+                                "lng": 77.2575713
                             },
                             "travel_mode": "DRIVING"
                         },
@@ -469,7 +469,7 @@
                             },
                             "duration": {
                                 "text": "2 mins",
-                                "value": 105
+                                "value": 106
                             },
                             "end_location": {
                                 "lat": 28.580923,
@@ -517,7 +517,7 @@
                             },
                             "duration": {
                                 "text": "2 mins",
-                                "value": 117
+                                "value": 118
                             },
                             "end_location": {
                                 "lat": 28.5697457,
@@ -537,11 +537,11 @@
                         {
                             "distance": {
                                 "text": "1.3 km",
-                                "value": 1331
+                                "value": 1332
                             },
                             "duration": {
                                 "text": "5 mins",
-                                "value": 296
+                                "value": 298
                             },
                             "end_location": {
                                 "lat": 28.5590229,
@@ -549,7 +549,7 @@
                             },
                             "html_instructions": "At Gurudwara Gurunanak Satsang Sabha, continue onto <b>CV Raman Marg</b><div style=\"font-size:0.9em\">Pass by IDBI Bank (on the right in 900m)</div>",
                             "polyline": {
-                                "points": "}_kmDiirvMPKfAq@n@_@|@i@dAq@JGj@]r@g@jAs@DCLKHGzA{@FC`@Sd@QDCPIHCDARI^OFC\\OHEPGRIDAf@WpBcA`D_BPKb@Wb@WzDgB`DcB@AJEHEJCFAh@Mf@KRETEXCz@Mz@MPCREVE@?f@SlAe@`@QRI"
+                                "points": "}_kmDiirvMPKp@c@dAm@|@i@dAq@JGj@]r@g@bAm@LILKHGzA{@FC`@Sd@QDCPIHCDARI^OFC\\OHEPGd@SZOnBgA`DaBPId@Wz@e@~CaBbD_B@AJCJCHCHCh@Gf@KREPE\\Cz@Mz@MPCREVE@?f@SlAe@`@QRI"
                             },
                             "start_location": {
                                 "lat": 28.5697457,
@@ -564,7 +564,7 @@
                             },
                             "duration": {
                                 "text": "2 mins",
-                                "value": 116
+                                "value": 115
                             },
                             "end_location": {
                                 "lat": 28.5544278,
@@ -634,7 +634,7 @@
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 22
+                                "value": 23
                             },
                             "end_location": {
                                 "lat": 28.5502975,
@@ -681,7 +681,7 @@
                             },
                             "duration": {
                                 "text": "2 mins",
-                                "value": 97
+                                "value": 96
                             },
                             "end_location": {
                                 "lat": 28.5437468,
@@ -705,16 +705,16 @@
                             },
                             "duration": {
                                 "text": "12 mins",
-                                "value": 744
+                                "value": 749
                             },
                             "end_location": {
                                 "lat": 28.5119149,
                                 "lng": 77.2519752
                             },
-                            "html_instructions": "Turn <b>right</b> after Metro Pillar Number 166 (on the right)<div style=\"font-size:0.9em\">Pass by Patanjali Mega Store and Wellness Centre (on the left in 2 km)</div>",
+                            "html_instructions": "Turn <b>right</b> after Metro Pillar Number 166 (on the right)<div style=\"font-size:0.9em\">Pass by Axis Bank Branch (on the right in 800m)</div>",
                             "maneuver": "turn-right",
                             "polyline": {
-                                "points": "m}emDawqvMBHBJFRBJHVH^P~@BH@D@B@DDFFDB@FBHDHBJBzBn@hBj@dA\\LBt@Tb@N`Bd@fAVp@L^LPDPDl@Ph@Rd@N`@NNFl@Lv@Tj@Pl@Vv@NbAXl@RLBd@Lr@R^Jx@T~@Pz@TzA`@l@TLBFBhA\\hAZv@Tj@N~@XJD|A^HDtDfAr@PNDJBjCx@RFz@T^LhFzAnD~@HBh@Pb@LnCt@^DRD^HzExAtBj@xDhAL?D@lD|@bAVnBd@TFB@@@@?fCn@bEpANFzAd@n@NfHhBZL~KnCzCv@vA\\vBl@pA\\l@Ll@Ln@Bb@DvA@"
+                                "points": "m}emDawqvMBHBJFRBJHVH^P~@BH@D@B@DDFFDB@FBHDHBJBzBn@hBj@dA\\LBt@Tb@N`Bd@fAVp@L^LPDPDl@P`@Hb@Nb@NNFj@N`A\\j@Pl@Vv@NbAXl@RLBd@Lr@R^Jx@T~@Pz@TzA`@l@TLBFBhA\\hAZv@Tj@N~@XJD|A^HDtDfAr@PNDJBjCx@RFz@T^LhFzAnD~@HBh@Pb@LnCt@^DRD^HzExAtBj@xDhAL?D@lD|@bAVnBd@TFB@@@@?fCn@bEpANFzAd@n@NfHhBZL~KnCzCv@vA\\vBl@pA\\l@Ll@Ln@Bb@DvA@"
                             },
                             "start_location": {
                                 "lat": 28.5437468,
@@ -729,7 +729,7 @@
                             },
                             "duration": {
                                 "text": "3 mins",
-                                "value": 180
+                                "value": 182
                             },
                             "end_location": {
                                 "lat": 28.5120797,
@@ -777,7 +777,7 @@
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 25
+                                "value": 24
                             },
                             "end_location": {
                                 "lat": 28.5124779,
@@ -848,7 +848,7 @@
                 }
             ],
             "overview_polyline": {
-                "points": "ooymDgs~vMDHYx@gAbDITh@l@nB|AjBfAj@T`@HdAZ`ARfBVn@HhB@zCO|AShB[p@O~@]jM_FbG_Cv@YxAq@vBy@tCiAjBgArBk@n@nCfCpLl@rBVnALx@XnAfAhFrBvIXrA@hAXlAXh@BHp@hC?x@@PVxAvC~LfAzE~B~Jp@rCp@jCNt@d@xBp@fC^dBXlA\\bB`BpHn@pClCxKdIb]hFlThHb[fBjHpAjFdAlEl@dCj@lC|@|CDLj@dBt@nBf@bApBnDlBpCnCnDn@t@x@v@DHXVlBfAXRh@j@p@p@`BjAvDhDtJnIdCxB~@|@?LFXLPnCrDvA|BfApBzAjDfAzCxDhLrAzDX|@~@fC^p@PRHFXv@fA~Cb@vA\\nArApDfBdDhApC`@bA|EvNhHjSdBnFhBxGf@rAh@z@\\XXPx@`@x@VRBh@DtCq@xA[VCF?LDv@W|D{@rDaAvAa@~@K`JqBpBa@vD{@jKgC~@UzAe@p@Wf@Wd@_@TWd@e@\\a@\\o@lAoC~C_GnA_CnBkDdAaB~AsBbBeC|@_Bt@eBNu@d@gFDa@NcAJ[Ti@Ra@z@qAn@k@^Uf@Wj@Kd@?ZDPFRLXZVn@Hj@?XCVFb@CTm@vC?h@Jl@Vn@|BrDNl@tArBx@rAfB`DvDnGhDmCf@_@jAuAbEaDZSn@[x@[vCqAfBu@xBkA~H{EzDaCrCkBdBcAh@WfAc@nCgA`I}Dt@c@~E_CxDqBdB_@~B]xB]xCkAl@YbAfChCpGv@fBr@jB~@vBbBpEnDhIvBdFV^t@j@f@\\l@XnAf@dC|@~Aj@x@PfBh@XKN?dCn@bC~@~@f@f@`@b@d@h@fAlBn@j@C|IgCtDiAfIoCbBg@LEBHJ^Lb@`@nBBHLL^NfCr@nDhAhEnAjDx@nCz@p@VdBb@xAh@zBh@tCx@xA`@zBf@hCv@TFvF~ArDdAdGbBzFdBlMpDrDbAr@JjPxER@pFtAjCp@hCn@rExAjCt@bIvBzPfEnEjA~Bj@l@Ln@BzBFZDA^OtCKjEBbGIbFU`ICnCeAEInBiBMA?iCSMtBKfB"
+                "points": "ooymDgs~vMDHYx@g@bBc@hAEJLNt@v@v@l@jBjAhAf@fBd@nB^jAL\\F`A@~CKbAIv@KjASbB_@bM}EhBq@zFyBxD_BjBs@pAi@~@i@j@]|@Wt@SJd@d@lB`AxEtAzFl@fC^tBdA~EfBrHv@rD?~@XlAZl@r@nC?|@Jv@vC`MtAhGbBhHfAzEn@bCl@xCxA`Gr@|CbB`Ix@jDxBdJbIr\\~FrV|G|YxAhGhBpHbC|J^hBf@fBVz@h@`Bn@bBb@`A`BxCrArBvDhFzAdB`@\\HLb@Zp@\\r@`@h@d@f@l@|@v@~AjAhA`AjD`DpGpFbCvBdAbA@ZPZ|ApBjBpCVd@b@t@nAhC`BbERj@~AxEz@fC`EvLh@jAPVRNnBzFVx@ZhAbAnC`@~@l@dAz@bB\\z@\\|@tA`EnKtZtBfGvAzEvAbFd@|@X`@l@`@`@TtAd@|@HhFmANARAH@DBv@W|D{@pDaA|@St@OpH_BdEeAvD{@hE}@bEaA~@UzAe@p@Wf@Wd@_@TWd@e@\\a@\\o@lAoC~C_GnA_CnBkDdAaB~AsBbBeC|@_Bt@eBNu@d@gFDa@NcAJ[Ti@Ra@z@qAn@k@^Uf@Wj@Kd@?ZDPFRLXZVn@Hj@?XCVFb@CTm@vC?h@Jl@Vn@|BrDNl@tArBx@rAfB`DvDnGhDmCf@_@jAuAbEaDZSn@[x@[vCqAfBu@xBkA~H{EzDaCrCkBnC{AfAc@`DqA~HcE`B}@bIaEb@MnB]fFu@jDuAXOJVzAvDvBlF|@zBt@dBz@rBf@tAt@hBbDtHvAhDd@~@LRXTbAr@fAf@tDrAdBn@dBd@z@TRILCfAVnBj@bA^p@\\v@h@f@`@b@p@NZDLlBn@j@C~Ac@nIeCbO{EXIFT^vAXrAFLJFf@PxH|BxAd@hD|@tBf@nAZfA^z@VlBn@l@Vv@NpBl@fCp@xBf@vCv@lCz@lFzAhBd@~DlAbAVvC|@xIfCfGbBnCt@^Dr@NpIdCxDhAL?rD~@rD|@\\JfCn@bEpAjBl@vIxBzL|CrFtAhEjAzAZrAHrBFQtDKjE?`CBpCYrLEhECf@c@Ca@AInBiBMkCSY|E"
             },
             "summary": "Guru Ravidas Marg",
             "warnings": [],
