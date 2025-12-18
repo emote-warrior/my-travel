@@ -36,15 +36,15 @@
                 {
                     "distance": {
                         "text": "22.9 km",
-                        "value": 22884
+                        "value": 22869
                     },
                     "duration": {
                         "text": "51 mins",
-                        "value": 3068
+                        "value": 3033
                     },
                     "duration_in_traffic": {
-                        "text": "1 hour 13 mins",
-                        "value": 4392
+                        "text": "1 hour 9 mins",
+                        "value": 4117
                     },
                     "end_address": "41, Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi 110062, India",
                     "end_location": {
@@ -214,7 +214,7 @@
                             },
                             "html_instructions": "Take the ramp onto <b>NE 3</b>",
                             "polyline": {
-                                "points": "yqvmDuc}vMb@jCD`@AJCRd@jBTbAJb@l@pCb@tBVlAZpAb@|ABJFZJ`@XrAJf@DLDT@DJf@J\\?BJ`@Lh@Nh@`@dB`@bBJ`@R|@`A~DPz@`@jB`@hBr@xCH`@H`@R~@H^H\\@Fn@tCNj@FXDPH^Lf@BLFXHZFVFV`@zADTn@hCVbAVdAJd@Jd@pAlFpAlF\\xA\\xAn@nCZxA^xARz@Pp@J`@J`@FZDNHZFXFTVhAbBjHFV@@HZvAfGhAzEH\\Jd@d@pBJd@lBdIT`AdCpKPp@XbA^pADLDNX`AV~@Vt@Vr@N^FJbAvBn@hAJRNVNVT^PVNV\\f@b@l@l@z@X\\?@RVr@z@n@r@TTj@l@JLVT^Zf@d@ZVp@f@j@b@p@h@n@h@dA|@x@p@hCtBbB`Bd@b@z@v@tAnAz@r@jAhAbAdAhApAjAxA`@l@X`@HLV^DHLVl@dAl@hATf@r@`BPd@P`@Z|@BHBHPf@?@L^LZBJJVBH@BNb@FR@BHVDFNd@Pf@lAvDNd@Nb@Nb@Nb@Nd@N`@@@Nb@l@`Br@tB\\x@Tx@xAbE~@hCLZ@BLXJTNZLTLTHNJR@@@BJRLXh@lAl@hBJZ^jADLd@rA?@JVHVHTFPP`@BJh@|A@BNd@Rn@BFFL@Bl@hBHTBFb@rAVv@FNd@rAJXj@xAj@rAl@dBn@pBFPFPDL@@L`@Nd@b@vA\\`BNh@V|@BJ@H@H?J?B?B?@?@CRAL?FIpAAx@?Z"
+                                "points": "yqvmDuc}vMb@jCD`@AJCRd@jBTbAJb@l@pCb@tBVlAZpAb@|ABJFZJ`@XrAJf@DLDT@DJf@J\\?BJ`@Lh@Nh@`@dB`@bBJ`@R|@`A~DPz@`@jB`@hBr@xCH`@H`@R~@H^H\\@Fn@tCNj@FXDPH^Lf@BLFXHZFVFV`@zADTn@hCVbAVdAJd@Jd@pAlFpAlF\\xA\\xAn@nCZxA^xARz@Pp@J`@J`@FZDNHZFXFTVhAbBjHFV@@HZvAfGhAzEH\\Jd@d@pBJd@lBdIT`AdCpKPp@XbA^pADLDNX`AV~@Vt@Vr@N^FJbAvBn@hAJRNVNVT^PVNV\\f@b@l@l@z@X\\?@RVr@z@n@r@TTj@l@JLVT^Zf@d@ZVp@f@j@b@p@h@n@h@dA|@x@p@hCtBbB`Bd@b@z@v@tAnAz@r@jAhAbAdAhApAjAxA`@l@X`@HLV^DHLVl@dAl@hATf@r@`BPd@P`@Z|@BHBHPf@?@L^LZBJJVBH@BNb@FR@BHVDFNd@Pf@lAvDNd@Nb@Nb@Nb@Nd@N`@@@Nb@l@`Br@tB\\x@Tx@xAbE~@hCLZ@BLXJTNZLTLTHNJR@@@BJRLXh@lAl@hBJZ^jADLd@rA?@JVHVHTFPP`@BJBHd@rA@BNd@Rn@BFFL@Bl@hBHTBFb@rAVv@FNd@rAJXj@xAj@rAl@dBn@pBFPFPDL@@L`@Nd@b@vA\\`BNh@V|@BJ@H@H?J?B?B?@?@CRAL?FIpAAx@?Z"
                             },
                             "start_location": {
                                 "lat": 28.6289318,
@@ -272,49 +272,25 @@
                         },
                         {
                             "distance": {
-                                "text": "35 m",
-                                "value": 35
-                            },
-                            "duration": {
-                                "text": "1 min",
-                                "value": 4
-                            },
-                            "end_location": {
-                                "lat": 28.5924156,
-                                "lng": 77.2577459
-                            },
-                            "html_instructions": "Slight <b>left</b> to stay on <b>NH 44</b>",
-                            "maneuver": "turn-slight-left",
-                            "polyline": {
-                                "points": "eoomDyjpvMHO@A@A@A@ABAHCPE"
-                            },
-                            "start_location": {
-                                "lat": 28.5926747,
-                                "lng": 77.2575713
-                            },
-                            "travel_mode": "DRIVING"
-                        },
-                        {
-                            "distance": {
                                 "text": "0.8 km",
-                                "value": 762
+                                "value": 783
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 89
+                                "value": 65
                             },
                             "end_location": {
                                 "lat": 28.5859438,
                                 "lng": 77.2598909
                             },
-                            "html_instructions": "Turn <b>left</b>",
-                            "maneuver": "turn-left",
+                            "html_instructions": "Keep <b>right</b>",
+                            "maneuver": "keep-right",
                             "polyline": {
-                                "points": "smomD}kpvMDUFMBCFERIzA[XG?Ab@IDAXGHCFANEb@KvEgAtEoAZGt@Gb@IhAS@?DCvCu@JC`@Kl@M\\IVER?P@ZH"
+                                "points": "eoomDyjpvMVGd@IFAbAU~D}@tA]PEFCNEHAZI^KPCXIDA`@K^IVGTETGhB_@~A]bDw@^I\\I`@Kb@Kv@Y\\KRK\\Q"
                             },
                             "start_location": {
-                                "lat": 28.5924156,
-                                "lng": 77.2577459
+                                "lat": 28.5926747,
+                                "lng": 77.2575713
                             },
                             "travel_mode": "DRIVING"
                         },
@@ -325,14 +301,14 @@
                             },
                             "duration": {
                                 "text": "2 mins",
-                                "value": 113
+                                "value": 106
                             },
                             "end_location": {
                                 "lat": 28.580923,
                                 "lng": 77.26745790000001
                             },
-                            "html_instructions": "Turn <b>left</b> onto <b>NH 44</b>",
-                            "maneuver": "turn-left",
+                            "html_instructions": "Merge onto <b>NH 44</b>",
+                            "maneuver": "merge",
                             "polyline": {
                                 "points": "cenmDiypvMHE\\YFENSDCXWJMNOLQP_@JOlAoC~C_GTc@x@{At@kAx@_BJSx@mA`@e@|@mA^k@bAyAf@{@Tc@f@iAL[H]DWF_@"
                             },
@@ -557,7 +533,7 @@
                         {
                             "distance": {
                                 "text": "3.8 km",
-                                "value": 3794
+                                "value": 3793
                             },
                             "duration": {
                                 "text": "12 mins",
@@ -570,7 +546,7 @@
                             "html_instructions": "Turn <b>right</b> after Metro Pillar Number 166 (on the right)<div style=\"font-size:0.9em\">Pass by Axis Bank Branch (on the right in 800m)</div>",
                             "maneuver": "turn-right",
                             "polyline": {
-                                "points": "m}emDawqvMBHBJFRBJHVH^P~@BH@D@B@DDFFDB@FBHDHBJBzBn@hBj@dA\\LBt@Tb@N`Bd@fAVp@L^LPDPDl@P`@Hb@Nb@NNFj@R`AXj@Nl@Rv@TbAXl@RLBd@Lr@R^Jx@T~@Pz@TzA`@l@TLBFBhA\\hAZv@Tj@N~@XJD|A^HDtDfAr@PNDJBjCx@RFz@T^LhFzAnD~@HBh@Pb@LnCt@^DRD^HzExAtBj@xDhAL?D@lD|@bAVnBd@TFB@@@@?fCn@bEpANFzAd@n@NfHhBZL~KnCzCv@vA\\vBl@pA\\l@Ll@Ln@Bb@DvA@"
+                                "points": "m}emDawqvMBHBJFRBJHVH^P~@BH@D@B@DDFFDB@FBHDHBJBzBn@hBj@dA\\LBt@Tb@N`Bd@fAVp@L^LPDPDl@P`@Hb@Nb@PNDj@R`AXj@Nl@Rv@TbAXl@RLBd@Lr@R^Jx@T~@Pz@TzA`@l@TLBFBhA\\hAZv@Tj@N~@XJD|A^HDtDfAr@PNDJBjCx@RFz@T^LhFzAnD~@HBh@Pb@LnCt@^DRD^HzExAtBj@xDhAJ@HBjDx@bAVnBd@TFB@@@@?fCn@bEpANFzAd@n@NfHhBZL~KnCzCv@vA\\vBl@pA\\l@Ll@Ln@Bb@DvA@"
                             },
                             "start_location": {
                                 "lat": 28.5437468,
@@ -704,7 +680,7 @@
                 }
             ],
             "overview_polyline": {
-                "points": "ooymDgs~vMDHYx@g@bBc@hAEJLNt@v@v@l@jBjAhAf@fBd@nB^jAL\\F`A@~CKbAIv@KjASbB_@bM}EhBq@zFyBxD_BjBs@pAi@~@i@j@]|@Wt@SJd@d@lB`AxEtAzFl@fC^tBdA~EfBrHv@rD?~@XlAh@lDE^z@nDtBxJjAvEv@jDhAzEbBhHrAzFbAtEzA|GdAzEjAbFbDzMlEzQhC|K|ArGnFhUzKpe@pAtEnAfEf@rAjAbCzAlCtAvBjBhCfArAdAhAv@z@v@p@`DhC`FbEhCtBbB`B`BzApCbCnCnCtCjDz@nAt@nAzAnChAhCbAnCdA|ClAlDlDpKrB|F\\x@Tx@xClIh@nAt@vAZl@v@fBx@dCjAnDf@vApBzFfDzJpClHdAbDbA`Dl@jCZhABb@CZM`D?Z|Bc@tCq@`H}A`@CD?D@DBv@W|D{@pDaA|@S\\GHOBCPIPEDUJQZOtBc@bAUdAWvEgAtEoApAOtBa@rFsAt@Od@@ZHHEd@_@TWd@e@\\a@\\o@lAoC~C_GnA_CnBkDdAaB~AsBbBeC|@_Bt@eBNu@TkCT}BNcAJ[Ti@`@w@l@{@n@k@^Uf@Wj@Kd@?l@L^VLPRb@Lv@?XCVFb@CTm@vC?h@Jl@Vn@xA`Cb@p@Nl@nCfEdD~FxBpDhDmCf@_@jAuAbEaDjAo@fDuApAk@~@a@dAi@nBgAjCcBzFmDnD{B`CyAtAm@dCcAv@[jCwAtGiDbIaELEhASjB[|Ce@XEtBy@p@[PGJVbAfBb@fAdBhEv@fBn@bBv@lBt@hBj@|AxDzI~AzDd@~@LRXTbAr@fAf@zGbCdBd@z@TRILCfAVnBj@bA^hAl@fAz@b@p@NZDLlBn@j@C~Ac@nIeCnHaClFcBRt@h@`CJV\\PzFbBlDfAhD|@pAZrBf@bCz@rErAdD~@rA^xBf@vCv@z@XrErAjBh@hBd@~DlAbAVfFzAbMlDlA^nCt@^Dr@NpIdCxDhAL?rD~@lEfAB@fCn@bEpAjBl@vIxBzL|CrFtAhEjAzAZrAHrBFQtDKjE?`CBpCYrLEhECf@c@Ca@AInBiBMkCSQ|CG~@"
+                "points": "ooymDgs~vMDHYx@g@bBc@hAEJLNt@v@v@l@jBjAhAf@fBd@nB^jAL\\F`A@~CKbAIv@KjASbB_@bM}EhBq@zFyBxD_BjBs@pAi@~@i@j@]|@Wt@SJd@d@lB`AxEtAzFl@fC^tBdA~EfBrHv@rD?~@XlAh@lDE^z@nDtBxJjAvEv@jDhAzEbBhHrAzFbAtEzA|GdAzEjAbFbDzMlEzQhC|K|ArGnFhUzKpe@pAtEnAfEf@rAjAbCzAlCtAvBjBhCfArAdAhAv@z@v@p@`DhC`FbEhCtBbB`B`BzApCbCnCnCtCjDz@nAt@nAzAnChAhCbAnCdA|ClAlDlDpKrB|F\\x@Tx@xClIh@nAt@vAZl@v@fBx@dCjAnDf@vAhBlFhCtHp@lBvAlDlBzFd@vAb@vA\\`Bf@fBFj@?JOzBAtA|D{@fB]zD}@xA[VCF?LDv@W|D{@rDaAvCm@tKeCnD{@lDu@`IiBdAWtAe@p@]f@_@VY^[Z]^q@xA_DtDcHnBgDdAsBx@mA`@e@|AyBjBuC|@mBL[H]Lw@^wERuAXw@\\q@\\i@t@_AhAu@h@Qd@Ed@BPDZLJJZb@L^DXBd@C^Fl@o@nCAf@Bh@J`@Rf@d@t@nAnBLZH^nAhBVb@lApBdApBpCrE`@r@tAcAzBiBjAuA`Aw@vCyBr@_@lCeAnAm@hAe@|@c@|BoAfC_BfEgCpD_ChBkAbB_AfAe@f@SxAm@|Aq@hIkE`KiFj@OpAS`@GjDg@j@Kh@SpCiAnA~BbBhEjAlCx@xBt@~At@lBf@tAfD~Hz@nB~AxDV^t@j@f@\\l@XnAf@dC|@~Aj@x@PfBh@XKN?dCn@tAf@~Av@t@h@b@d@`@x@FLlBn@j@C|IgCtDiAjLwDLEBHJ^Lb@Z~AHXLLJDzC|@rFbBdCt@xBd@pBj@dAXr@VfEpAvDfArDbAzBf@hCv@hD`AnDdApI~BzDjAtN~DfFxAr@JzFbBnHtBTDtJ~BnCr@rExAjCt@bIvBzPfEnEjA~Bj@l@Ln@BzBFZDA^OtCKjEBbGIbFU`ICnCeAEInBiBMA?iCSMtBKfB"
             },
             "summary": "NE 3",
             "warnings": [],
