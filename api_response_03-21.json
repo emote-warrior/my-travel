@@ -43,8 +43,8 @@
                         "value": 2886
                     },
                     "duration_in_traffic": {
-                        "text": "57 mins",
-                        "value": 3415
+                        "text": "52 mins",
+                        "value": 3130
                     },
                     "end_address": "41, Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi 110062, India",
                     "end_location": {
@@ -262,7 +262,7 @@
                             "html_instructions": "Turn <b>left</b> onto <b>Bhairon Marg</b>",
                             "maneuver": "turn-left",
                             "polyline": {
-                                "points": "ofsmDgcovMWVOJWJOHKBC@C@SFQFOFMHMLEDABA@@H?N@B?D@DDTTpAJd@b@rBn@jCBl@?RBR?RA\\G~@A@?D?@?J?LBLDL@BBHHRRb@\\p@HLJTHXRp@Lx@BZ@FB^?^?VAPCXGR?@GV[lAcCbEy@jAO^CHAFAJATAXA\\AxACjAGhC"
+                                "points": "ofsmDgcovMWVOJWJOHKBC@C@SFQFOFMHMLEDABA@@H?N@B?D@DDTTpAJd@b@rBn@jCBl@?RBR?RA\\G~@A@?D?@?J?LBLDL@BBHHRRb@\\p@HLJTHXRp@Lx@BZ@FB^?^?VAPCXGR?@GV[lAcCbEy@jAO^CHAFAJATAX?DAVAxACjAANExB"
                             },
                             "start_location": {
                                 "lat": 28.6117593,
@@ -514,7 +514,7 @@
                 }
             ],
             "overview_polyline": {
-                "points": "ooymDgs~vMDHYx@g@bBc@hAEJLNt@v@v@l@jBjAhAf@fBd@nB^jAL\\F`A@~CKbAIv@KjASbB_@bM}EhBq@zFyBxD_BjBs@pAi@~@i@j@]|@Wt@SJd@d@lB`AxEtAzFl@fC^tBdA~EfBrHv@rD?~@XlAh@lDE^z@nDtBxJjAvEv@jDhAzEbBhHrAzFbAtEzA|GdAzEjAbFbDzMlEzQhC|K|ArGnFhUzKpe@pAtEnAfEf@rAjAbCzAlCtAvBjBhCfArAdAhAv@z@v@p@`DhC`FbEhCtBbB`B`BzApCbCnCnCtCjDz@nAt@nAzAnChAhCbAnCdA|ClAlDlDpKrB|F\\x@Tx@xClIh@nAt@vAZl@v@fBx@dCjAnDf@vAhBlFhCtHp@lBvAlDlBzFd@vAb@vA\\`Bf@fBFj@?JOzBAtAJr@e@LkBb@cB\\q@Pq@PyE`AaEx@kAVcH~AiB\\m@FiLfCcHdBsCl@uHbBkDr@eAVWVg@V_@Ny@X[VGH?J@R\\rBn@xCn@jCBl@Bf@Ap@IhA?XHZb@dAf@~@Tn@`@jBDb@B~@Ah@SfA[lAcCbEy@jAO^EPC`@I|EGhCd@~@NRhCDvADR?`JFd@?`BCjNa@|BKhA?n@@nDCdHUrDGlCIxH]rCKvDUjAAz@JpDd@|APvBJr@F|D`@nBVfCVtADbLDbACnAQlBs@nC{Ax@Wn@GzCGbB?~C?nFNv@Lv@V~@d@dFtCbG~CzAn@dATx@JbD@tEApECnJCh@@bAJt@Nl@VvGbDrFxCxAt@nBt@bDvAjEpBvAt@rAl@d@Lr@N`BR|CXbALfARb@L~@^zCtAdChAr@d@nDxAfD`BxCfBlCvApBt@~Ah@bBj@jA^|Ah@lBd@|Ar@vC~@lBp@hC|@jBj@bATjAHlDI~HY`CKfEQbBOlASdC_An@U|D_BvDyAbCw@hFqBzDwAlBu@fBs@`A]RCnBSVA~AArFD`C@jKHbOFnC?dEA~BD~CFvGJr@Ft@RtEjAtAb@fDbA`NnElFhB~DrAdBj@dA`@jG`CrC~@~Ab@rCz@XFp@FxCNjALTIXI`@Kj@wCRgBZaDNoA~@eFHc@dAeGViC?uAHw@Fq@d@iDf@eDt@sELg@TcAVoC~@kHRuCZwCZyCBo@@sBByAyCYkCQNiC"
+                "points": "ooymDgs~vMDHYx@g@bBc@hAEJLNt@v@v@l@jBjAhAf@fBd@nB^jAL\\F`A@~CKbAIv@KjASbB_@bM}EhBq@zFyBxD_BjBs@pAi@~@i@j@]|@Wt@SJd@d@lB`AxEtAzFl@fC^tBdA~EfBrHv@rD?~@XlAh@lDE^z@nDtBxJjAvEv@jDhAzEbBhHrAzFbAtEzA|GdAzEjAbFbDzMlEzQhC|K|ArGnFhUzKpe@pAtEnAfEf@rAjAbCzAlCtAvBjBhCfArAdAhAv@z@v@p@`DhC`FbEhCtBbB`B`BzApCbCnCnCtCjDz@nAt@nAzAnChAhCbAnCdA|ClAlDlDpKrB|F\\x@Tx@xClIh@nAt@vAZl@v@fBx@dCjAnDf@vAhBlFhCtHp@lBvAlDlBzFd@vAb@vA\\`Bf@fBFj@?JOzBAtAJr@e@LkBb@cB\\q@Pq@PyE`AaEx@kAVcH~AiB\\m@FiLfCcHdBsCl@uHbBkDr@eAVWVg@V_@Ny@X[VGH?J@R\\rBn@xCn@jCBl@Bf@Ap@IhA?XHZb@dAf@~@Tn@`@jBDb@B~@Ah@SfA[lAcCbEy@jAO^EPC`@EpCEzAExBd@~@NRhCDvADtJFrA?hK[tCI|BKlB@|@?|BC|EOjBEt@CfEKdEOfH[hFWt@D~C`@nBT|@FlCP|D`@t@JdD^p@D`BBfJBbA?f@C`AOlBs@nC{Ax@Wn@GzCGbG?nFNXB\\Hv@VdHzDbG~C|@`@bBb@x@JpB@vAAbC?tA?fDCrFAdD?bAJt@NfEnB|BjAnDnB|C~AnBt@bBr@`DvA`ErBrAl@d@Lr@Nt@JhE`@tBXx@TxAl@`CfAdChAr@d@nDxAx@`@lB~@~A~@tBnApAn@z@^vAd@jBl@`Cv@|Ah@lBd@|Ar@pExArFjBxBj@jAHpAAfDMnCKjI_@`BE|@GxASXGzAk@xAi@|D_BvDyAbCw@xBy@jHoCtEiB`A]RCnBSz@C`C?~EFnJDxLDdIDdEA~BD~CFtHNp@LnFtAvDlAtMdEpAb@nBp@zAj@`DdAbCt@|@ZxEjBzAj@rC~@vEtAt@PlCP|@DjALf@Oh@Oj@wCRgBZaDNoA~@eFHc@dAeGViC?uAHw@Fq@d@iD|AyJb@kBVoC~@kHRuCZwC^iE@sBByA}D]gBMNiC"
             },
             "summary": "NE 3",
             "warnings": [],
