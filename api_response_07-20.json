@@ -36,15 +36,15 @@
                 {
                     "distance": {
                         "text": "26.0 km",
-                        "value": 25988
+                        "value": 25981
                     },
                     "duration": {
                         "text": "48 mins",
-                        "value": 2908
+                        "value": 2886
                     },
                     "duration_in_traffic": {
-                        "text": "57 mins",
-                        "value": 3437
+                        "text": "52 mins",
+                        "value": 3130
                     },
                     "end_address": "41, Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi 110062, India",
                     "end_location": {
@@ -368,21 +368,21 @@
                         },
                         {
                             "distance": {
-                                "text": "0.2 km",
-                                "value": 185
+                                "text": "0.4 km",
+                                "value": 448
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 22
+                                "value": 38
                             },
                             "end_location": {
-                                "lat": 28.5608829,
-                                "lng": 77.23171490000001
+                                "lat": 28.5587603,
+                                "lng": 77.2304533
                             },
-                            "html_instructions": "Turn <b>left</b> to stay on <b>Lala Lajpat Rai Rd</b>",
-                            "maneuver": "turn-left",
+                            "html_instructions": "Keep <b>right</b> to continue on <b>Kendriya Vidhyalay Flyover</b>/<wbr/><b>Lala Lajpat Rai Rd Flyover</b>",
+                            "maneuver": "keep-right",
                             "polyline": {
-                                "points": "wqimD_nkvMVGB?B?B@B?HDpDlBbAj@"
+                                "points": "wqimD_nkvMXN^P~@b@l@Z`@T|@h@d@XRL`@TXP^Rp@Z\\N\\NVF\\L@@^L^L@?ZJXHRH"
                             },
                             "start_location": {
                                 "lat": 28.5623629,
@@ -392,48 +392,24 @@
                         },
                         {
                             "distance": {
-                                "text": "0.3 km",
-                                "value": 303
-                            },
-                            "duration": {
-                                "text": "1 min",
-                                "value": 41
-                            },
-                            "end_location": {
-                                "lat": 28.5584913,
-                                "lng": 77.23032850000001
-                            },
-                            "html_instructions": "Continue straight to stay on <b>Lala Lajpat Rai Rd</b>",
-                            "maneuver": "straight",
-                            "polyline": {
-                                "points": "ohimDeikvM\\R^RNJ`@XJHPHXNVLXJn@RvAf@z@XJBRFRJ@@@@FT"
-                            },
-                            "start_location": {
-                                "lat": 28.5608829,
-                                "lng": 77.23171490000001
-                            },
-                            "travel_mode": "DRIVING"
-                        },
-                        {
-                            "distance": {
-                                "text": "1.9 km",
-                                "value": 1923
+                                "text": "2.0 km",
+                                "value": 1956
                             },
                             "duration": {
                                 "text": "4 mins",
-                                "value": 228
+                                "value": 231
                             },
                             "end_location": {
                                 "lat": 28.5420861,
                                 "lng": 77.23175630000001
                             },
-                            "html_instructions": "<b>Lala Lajpat Rai Rd</b> turns <b>left</b> and becomes <b>Josip Broz Tito Marg</b><div style=\"font-size:0.9em\">Pass by the park (on the left in 900m)</div>",
+                            "html_instructions": "Continue onto <b>Josip Broz Tito Marg</b><div style=\"font-size:0.9em\">Pass by the park (on the left in 950m)</div>",
                             "polyline": {
-                                "points": "qyhmDq`kvMVHr@T|Ah@lBd@dAb@VNzBr@ZJXJ^LVHZLf@Pb@N\\L^LZJXHXHZJVHj@J\\Dl@Bf@Ah@?l@Cl@Cd@Ad@C\\Cd@Af@Cb@Ap@Ep@AD?j@Eb@Aj@Cn@Et@Et@Aj@C\\C^CPCRCXEXEJCLCt@Yd@Q@?f@S`@OLEtAo@fBo@t@[`C}@~@YbA]|@]z@[p@Y|@]l@SlCcA~@]l@W^O"
+                                "points": "g{hmDiakvMRF`@NVHr@T|Ah@lBd@dAb@VNzBr@ZJXJ^LVHZLf@Pb@N\\L^LZJXHXHZJVHj@J\\Dl@Bf@Ah@?l@Cl@Cd@Ad@C\\C`@AB?f@Cb@Ap@Ep@AD?j@Eb@Aj@Cn@Et@Et@Aj@C\\C^CPCRCXEXEJCLCt@Yd@Q@?f@S`@OLEtAo@fBo@t@[`C}@~@YbA]|@]z@[p@Y|@]l@SlCcA~@]l@W^O"
                             },
                             "start_location": {
-                                "lat": 28.5584913,
-                                "lng": 77.23032850000001
+                                "lat": 28.5587603,
+                                "lng": 77.2304533
                             },
                             "travel_mode": "DRIVING"
                         },
@@ -538,7 +514,7 @@
                 }
             ],
             "overview_polyline": {
-                "points": "ooymDgs~vMDHYx@g@bBc@hAEJLNt@v@v@l@jBjAhAf@fBd@nB^jAL\\F`A@~CKbAIv@KjASbB_@bM}EhBq@zFyBxD_BjBs@pAi@~@i@j@]|@Wt@SJd@d@lB`AxEtAzFl@fC^tBdA~EfBrHv@rD?~@XlAh@lDE^z@nDtBxJjAvEv@jDhAzEbBhHrAzFbAtEzA|GdAzEjAbFbDzMlEzQhC|K|ArGnFhUzKpe@pAtEnAfEf@rAjAbCzAlCtAvBjBhCfArAdAhAv@z@v@p@`DhC`FbEhCtBbB`B`BzApCbCnCnCtCjDz@nAt@nAzAnChAhCbAnCdA|ClAlDlDpKrB|F\\x@Tx@xClIh@nAt@vAZl@v@fBx@dCjAnDf@vAhBlFhCtHp@lBvAlDlBzFd@vAb@vA\\`Bf@fBFj@?JOzBAtAJr@e@LkBb@cB\\q@Pq@PyE`AaEx@kAVcH~AiB\\m@FiLfCcHdBsCl@uHbBkDr@eAVWVg@V_@Ny@X[VGH?J@R\\rBn@xCn@jCBl@Bf@Ap@IhA?XHZb@dAf@~@Tn@`@jBDb@B~@Ah@SfA[lAcCbEy@jAO^EPC`@EpCEzAExBd@~@NRhCDvADtJFrA?hK[tCI|BKlB@|@?|BC|EOjBEt@CfEKdEOfH[hFWt@D~C`@nBT|@FlCP|D`@t@JdD^p@D`BBfJBbA?f@C`AOlBs@nC{Ax@Wn@GzCGbG?nFNXB\\Hv@VdHzDbG~C|@`@bBb@x@JpB@vAAbC?tA?fDCrFAdD?bAJt@NfEnB|BjAnDnB|C~AnBt@bBr@`DvA`ErBrAl@d@Lr@Nt@JhE`@tBXx@TxAl@`CfAdChAr@d@nDxAZGTFrH`EnAx@p@\\hA^rDlATLHVjA^|Ah@lBd@|Ar@vC~@lBp@hC|@jBj@bATjAHlDInCKpHYfEQbBOlASdC_An@U|D_BvDyAbCw@hFqBzDwAlBu@fBs@`A]RCnBSVA~AArFDlOJbOFnC?dEA~BD~CFvGJr@Ft@RtEjAtAb@fDbAvIrChCz@rC`AvCbAfFbBzEjBtBv@rC~@~Ab@rCz@XFp@FxCNjALTIXI`@Kj@wCRgBZaDNoA~@eFHc@dAeGViC?uAHw@Fq@d@iDf@eDt@sELg@TcAVoC~@kHRuCZwCZyCBo@@sBByAyCYkCQNiC"
+                "points": "ooymDgs~vMDHYx@g@bBc@hAEJLNt@v@v@l@jBjAhAf@fBd@nB^jAL\\F`A@~CKbAIv@KjASbB_@bM}EhBq@zFyBxD_BjBs@pAi@~@i@j@]|@Wt@SJd@d@lB`AxEtAzFl@fC^tBdA~EfBrHv@rD?~@XlAh@lDE^z@nDtBxJjAvEv@jDhAzEbBhHrAzFbAtEzA|GdAzEjAbFbDzMlEzQhC|K|ArGnFhUzKpe@pAtEnAfEf@rAjAbCzAlCtAvBjBhCfArAdAhAv@z@v@p@`DhC`FbEhCtBbB`B`BzApCbCnCnCtCjDz@nAt@nAzAnChAhCbAnCdA|ClAlDlDpKrB|F\\x@Tx@xClIh@nAt@vAZl@v@fBx@dCjAnDf@vAhBlFhCtHp@lBvAlDlBzFd@vAb@vA\\`Bf@fBFj@?JOzBAtAJr@e@LkBb@cB\\q@Pq@PyE`AaEx@kAVcH~AiB\\m@FiLfCcHdBsCl@uHbBkDr@eAVWVg@V_@Ny@X[VGH?J@R\\rBn@xCn@jCBl@Bf@Ap@IhA?XHZb@dAf@~@Tn@`@jBDb@B~@Ah@SfA[lAcCbEy@jAO^EPC`@EpCEzAExBd@~@NRhCDvADtJFrA?hK[tCI|BKlB@|@?|BC|EOjBEt@CfEKdEOfH[hFWt@D~C`@nBT|@FlCP|D`@t@JdD^p@D`BBfJBbA?f@C`AOlBs@nC{Ax@Wn@GzCGbG?nFNXB\\Hv@VdHzDbG~C|@`@bBb@x@JpB@vAAbC?tA?fDCrFAdD?bAJt@NfEnB|BjAnDnB|C~AnBt@bBr@`DvA`ErBrAl@d@Lr@Nt@JhE`@tBXx@TxAl@`CfAdChAr@d@nDxAx@`@lB~@~A~@tBnApAn@z@^vAd@xDnApC~@lBd@dAb@VNzBr@t@VzBv@|Bv@fBh@j@J\\DtA@jDIhBIpHYfEQbBOlASdC_An@U|D_BvDyAbCw@hFqBzDwAlBu@fBs@`A]RCnBSVA~AArFDlOJbOFnC?dEA~BD~CFvGJr@Ft@RtEjAtAb@fDbAvIrChCz@rC`AvCbAfFbBzEjBtBv@rC~@~Ab@rCz@XFp@FxCNjALTIXI`@Kj@wCRgBZaDNoA~@eFHc@dAeGViC?uAHw@Fq@d@iDf@eDt@sELg@TcAVoC~@kHRuCZwCZyCBo@@sBByAyCYkCQNiC"
             },
             "summary": "NE 3",
             "warnings": [],
