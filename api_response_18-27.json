@@ -36,15 +36,15 @@
                 {
                     "distance": {
                         "text": "22.9 km",
-                        "value": 22931
+                        "value": 22930
                     },
                     "duration": {
                         "text": "52 mins",
                         "value": 3118
                     },
                     "duration_in_traffic": {
-                        "text": "37 mins",
-                        "value": 2219
+                        "text": "35 mins",
+                        "value": 2125
                     },
                     "end_address": "41, Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi 110062, India",
                     "end_location": {
@@ -502,7 +502,7 @@
                             "html_instructions": "Keep <b>right</b> to stay on <b>NH 44</b>",
                             "maneuver": "keep-right",
                             "polyline": {
-                                "points": "wemmDshrvMLkBJkABO@OBQNcAJ[L[FMFMJS@AJSPUZe@XYTQ@?\\URMRITGTCNAT@N@JBD@JDNFBDFDBBBDHJHLHTBH?@DVBR?P?FCVFb@?HCJk@bCAR?R?TBRFXBFRf@d@t@r@jAZb@FLDLH^nAhBDHPXf@x@d@v@`AhBBFx@tAvA|B`@r@"
+                                "points": "wemmDshrvMLkBJkABO@OBQNcAJ[L[FMFMJS@AJSPUZe@XYTQ@?\\URMRITGTCNAT@N@JBD@JDNFBDFDBBBDHJHLHTBH?@DVBR?P?FCVFb@?HCJk@bCAR?R?TBRFXBFRf@d@t@r@jAZb@FLDLH^nAhBDHLRj@~@d@v@`AhBBFx@tAvA|B`@r@"
                             },
                             "start_location": {
                                 "lat": 28.580923,
@@ -513,7 +513,7 @@
                         {
                             "distance": {
                                 "text": "0.8 km",
-                                "value": 776
+                                "value": 775
                             },
                             "duration": {
                                 "text": "2 mins",
@@ -526,7 +526,7 @@
                             "html_instructions": "Turn <b>left</b> onto <b>Eastern Ave</b>",
                             "maneuver": "turn-left",
                             "polyline": {
-                                "points": "udlmDeoqvMtAcArAiAf@_@jAuA`Aw@`CiBTODCl@[@?XK^OpAi@ZO`@SFCHE\\Mj@WRIh@YZO`@UPKl@]LGHG^WnAw@"
+                                "points": "udlmDeoqvMpAkApAeAh@c@nAmA`Aw@`CiBTODCl@[@?XK^OpAi@ZO`@SFCHE\\Mj@WRIh@YZO`@UPKl@]LGHG^WnAw@"
                             },
                             "start_location": {
                                 "lat": 28.5756309,
@@ -824,7 +824,7 @@
                 }
             ],
             "overview_polyline": {
-                "points": "ooymDgs~vMDHYx@g@bBc@hAEJLNt@v@v@l@jBjAhAf@fBd@nB^jAL\\F`A@~CKbAIv@KjASbB_@bM}EhBq@zFyBxD_BjBs@pAi@~@i@j@]|@Wt@SJd@d@lB`AxEtAzFl@fC^tBdA~EfBrHv@rD?~@XlAZl@r@nC?|@Jv@vC`MtAhGbBhHfAzEn@bCn@vCjBbI`AnEbCxKjCpKjIr]vFzUhCxKvAjGV`AfHxZhAlE|@~Cb@pAh@zAj@pAf@`AbBvCtC`EzBrCp@x@`@\\HLb@ZdB~@h@d@f@l@|@v@~AjAtFbFtKhJdAbA@ZZf@nCtD~@xAj@bAnAhC`BbE\\`AdBbFnDrK|@jC`@|@Xd@RNf@vA~A|EZhAbAnC`@~@hBhDz@xBnIpVtCdItBfGnD~Ld@|@T\\\\Vn@^zAh@|@HhFmA`@CD?D@DBv@W|D{@pDaA|@SbB[lKcCfEcAtFkAbGwAzAe@p@Wf@Wd@_@TWd@e@\\a@\\o@lAoC~C_GnA_CnBkDdAaB~AsBbBeC|@_Bt@eBNu@TkCT}BNcAJ[Ti@`@w@l@{@n@k@^Uf@Wj@Kd@?l@L^VLPRb@Lv@?XCVFb@CTm@vC?h@Jl@Vn@xA`Cb@p@Nl@nCfEdD~FxBpDhDmCf@_@jAuAbEaDjAo@fDuApAk@~@a@dAi@nBgAjCcBzFmDnD{B`CyAtAm@dCcAv@[jCwAtGiDbIaELEhASjB[|Ce@XEtBy@p@[PGJVbAfBb@fAdBhEv@fBn@bBv@lBt@hBj@|AxDzI~AzDd@~@LRXTbAr@fAf@zGbCdBd@z@TRILCfAVnBj@bA^hAl@fAz@b@p@NZDLlBn@j@C~Ac@nIeCnHaClFcBRt@h@`CJV\\PzFbBlDfAhD|@pAZrBf@bCz@rErAdD~@rA^xBf@vCv@z@XrErAjBh@hBd@~DlAbAVfFzAbMlDlA^nCt@^Dr@NpIdCdEjAtD|@lEfAB@fCn@bEpAjMjDrLxCrFtAhEjAzAZrAHrBFQtDKjE?`CBpCYrLEhEGfDU`HAnAARm@C@e@q@GkBQgAI_AGNiC"
+                "points": "ooymDgs~vMDHYx@g@bBc@hAEJLNt@v@v@l@jBjAhAf@fBd@nB^jAL\\F`A@~CKbAIv@KjASbB_@bM}EhBq@zFyBxD_BjBs@pAi@~@i@j@]|@Wt@SJd@d@lB`AxEtAzFl@fC^tBdA~EfBrHv@rD?~@XlAZl@r@nC?|@Jv@vC`MtAhGbBhHfAzEn@bCn@vCjBbI`AnEbCxKjCpKjIr]vFzUhCxKvAjGV`AfHxZhAlE|@~Cb@pAh@zAj@pAf@`AbBvCtC`EzBrCp@x@`@\\HLb@ZdB~@h@d@f@l@|@v@~AjAtFbFtKhJdAbA@ZZf@nCtD~@xAj@bAnAhC`BbE\\`AdBbFnDrK|@jC`@|@Xd@RNf@vA~A|EZhAbAnC`@~@hBhDz@xBnIpVtCdItBfGnD~Ld@|@T\\\\Vn@^zAh@|@HhFmA`@CD?D@DBv@W|D{@pDaA|@SbB[lKcCfEcAtFkAbGwAzAe@p@Wf@Wd@_@TWd@e@\\a@\\o@lAoC~C_GnA_CnBkDdAaB~AsBbBeC|@_Bt@eBNu@TkCT}BNcAJ[Ti@`@w@l@{@n@k@^Uf@Wj@Kd@?l@L^VLPRb@Lv@?XCVFb@CTm@vC?h@Jl@Vn@xA`Cb@p@Nl@nCfEdD~FxBpDbDqCxBqBbEaDjAo@fDuApAk@~@a@dAi@nBgAjCcBzFmDnD{B`CyAtAm@dCcAv@[jCwAtGiDbIaELEhASjB[|Ce@XEtBy@p@[PGJVbAfBb@fAdBhEv@fBn@bBv@lBt@hBj@|AxDzI~AzDd@~@LRXTbAr@fAf@zGbCdBd@z@TRILCfAVnBj@bA^hAl@fAz@b@p@NZDLlBn@j@C~Ac@nIeCnHaClFcBRt@h@`CJV\\PzFbBlDfAhD|@pAZrBf@bCz@rErAdD~@rA^xBf@vCv@z@XrErAjBh@hBd@~DlAbAVfFzAbMlDlA^nCt@^Dr@NpIdCdEjAtD|@lEfAB@fCn@bEpAjMjDrLxCrFtAhEjAzAZrAHrBFQtDKjE?`CBpCYrLEhEGfDU`HAnAARm@C@e@q@GkBQgAI_AGNiC"
             },
             "summary": "Guru Ravidas Marg",
             "warnings": [],
