@@ -28,23 +28,23 @@
                 },
                 "southwest": {
                     "lat": 28.5117657,
-                    "lng": 77.2426612
+                    "lng": 77.2437757
                 }
             },
             "copyrights": "Powered by Google, \u00a92026 Google",
             "legs": [
                 {
                     "distance": {
-                        "text": "22.9 km",
-                        "value": 22930
+                        "text": "22.7 km",
+                        "value": 22739
                     },
                     "duration": {
-                        "text": "52 mins",
-                        "value": 3097
+                        "text": "51 mins",
+                        "value": 3062
                     },
                     "duration_in_traffic": {
-                        "text": "36 mins",
-                        "value": 2151
+                        "text": "34 mins",
+                        "value": 2062
                     },
                     "end_address": "41, Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi 110062, India",
                     "end_location": {
@@ -301,7 +301,7 @@
                             },
                             "duration": {
                                 "text": "2 mins",
-                                "value": 95
+                                "value": 94
                             },
                             "end_location": {
                                 "lat": 28.6178595,
@@ -325,7 +325,7 @@
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 57
+                                "value": 56
                             },
                             "end_location": {
                                 "lat": 28.6143188,
@@ -373,7 +373,7 @@
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 25
+                                "value": 24
                             },
                             "end_location": {
                                 "lat": 28.6087549,
@@ -397,7 +397,7 @@
                             },
                             "duration": {
                                 "text": "3 mins",
-                                "value": 202
+                                "value": 201
                             },
                             "end_location": {
                                 "lat": 28.5952487,
@@ -469,7 +469,7 @@
                             },
                             "duration": {
                                 "text": "2 mins",
-                                "value": 104
+                                "value": 105
                             },
                             "end_location": {
                                 "lat": 28.580923,
@@ -541,7 +541,7 @@
                             },
                             "duration": {
                                 "text": "5 mins",
-                                "value": 297
+                                "value": 294
                             },
                             "end_location": {
                                 "lat": 28.559039,
@@ -681,7 +681,7 @@
                             },
                             "duration": {
                                 "text": "2 mins",
-                                "value": 93
+                                "value": 92
                             },
                             "end_location": {
                                 "lat": 28.5437468,
@@ -705,7 +705,7 @@
                             },
                             "duration": {
                                 "text": "12 mins",
-                                "value": 741
+                                "value": 742
                             },
                             "end_location": {
                                 "lat": 28.5119149,
@@ -724,21 +724,21 @@
                         },
                         {
                             "distance": {
-                                "text": "0.9 km",
-                                "value": 927
+                                "text": "0.7 km",
+                                "value": 673
                             },
                             "duration": {
-                                "text": "4 mins",
-                                "value": 218
+                                "text": "3 mins",
+                                "value": 169
                             },
                             "end_location": {
-                                "lat": 28.512231,
-                                "lng": 77.2426612
+                                "lat": 28.5120797,
+                                "lng": 77.24525489999999
                             },
                             "html_instructions": "Turn <b>right</b> onto <b>Mehrauli - Badarpur Rd</b><div style=\"font-size:0.9em\">Pass by Footover Bridge (on the right)</div>",
                             "maneuver": "turn-right",
                             "polyline": {
-                                "points": "mv_mD{govMZDA^OtCKjE?`CB`C?NIrEO~EE`B?fBCf@C~BGbCM|C?D?^?PAVAR"
+                                "points": "mv_mD{govMZDA^OtCKjE?`CB`C?NIrEO~EE`B?fBCf@"
                             },
                             "start_location": {
                                 "lat": 28.5119149,
@@ -748,73 +748,97 @@
                         },
                         {
                             "distance": {
-                                "text": "44 m",
-                                "value": 44
+                                "text": "35 m",
+                                "value": 35
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 13
+                                "value": 14
                             },
                             "end_location": {
-                                "lat": 28.5124504,
-                                "lng": 77.24286889999999
+                                "lat": 28.512396,
+                                "lng": 77.2452723
                             },
-                            "html_instructions": "Make a <b>U-turn</b>",
-                            "maneuver": "uturn-right",
+                            "html_instructions": "Turn <b>right</b> toward <b>Shree ram marg</b>",
+                            "maneuver": "turn-right",
                             "polyline": {
-                                "points": "mx_mDsmmvMm@C@e@"
+                                "points": "ow_mDy}mvMc@C[?"
                             },
                             "start_location": {
-                                "lat": 28.512231,
-                                "lng": 77.2426612
+                                "lat": 28.5120797,
+                                "lng": 77.24525489999999
                             },
                             "travel_mode": "DRIVING"
                         },
                         {
                             "distance": {
-                                "text": "0.2 km",
-                                "value": 165
+                                "text": "52 m",
+                                "value": 52
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 21
+                            },
+                            "end_location": {
+                                "lat": 28.5124408,
+                                "lng": 77.2447476
+                            },
+                            "html_instructions": "Turn <b>left</b> toward <b>Shree ram marg</b>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "oy_mD}}mvMGfB"
+                            },
+                            "start_location": {
+                                "lat": 28.512396,
+                                "lng": 77.2452723
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.1 km",
+                                "value": 140
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 41
+                            },
+                            "end_location": {
+                                "lat": 28.5136942,
+                                "lng": 77.24492289999999
+                            },
+                            "html_instructions": "Turn <b>right</b> at the 1st cross street onto <b>Shree ram marg</b>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "wy_mDuzmvMyFa@"
+                            },
+                            "start_location": {
+                                "lat": 28.5124408,
+                                "lng": 77.2447476
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.1 km",
+                                "value": 113
                             },
                             "duration": {
                                 "text": "1 min",
                                 "value": 46
                             },
                             "end_location": {
-                                "lat": 28.513924,
-                                "lng": 77.24308769999999
-                            },
-                            "html_instructions": "Turn <b>left</b>",
-                            "maneuver": "turn-left",
-                            "polyline": {
-                                "points": "yy_mD}nmvMq@GgBQC?_@Cg@E_AG"
-                            },
-                            "start_location": {
-                                "lat": 28.5124504,
-                                "lng": 77.24286889999999
-                            },
-                            "travel_mode": "DRIVING"
-                        },
-                        {
-                            "distance": {
-                                "text": "68 m",
-                                "value": 68
-                            },
-                            "duration": {
-                                "text": "1 min",
-                                "value": 43
-                            },
-                            "end_location": {
                                 "lat": 28.5138429,
                                 "lng": 77.2437757
                             },
-                            "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
-                            "maneuver": "turn-right",
+                            "html_instructions": "Turn <b>left</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                            "maneuver": "turn-left",
                             "polyline": {
-                                "points": "_c`mDipmvMNiC"
+                                "points": "qa`mDw{mvMQzBCf@G~@"
                             },
                             "start_location": {
-                                "lat": 28.513924,
-                                "lng": 77.24308769999999
+                                "lat": 28.5136942,
+                                "lng": 77.24492289999999
                             },
                             "travel_mode": "DRIVING"
                         }
@@ -824,7 +848,7 @@
                 }
             ],
             "overview_polyline": {
-                "points": "ooymDgs~vMDHYx@g@bBc@hAEJLNt@v@v@l@jBjAhAf@fBd@nB^jAL\\F`A@~CKbAIv@KjASbB_@bM}EhBq@zFyBxD_BjBs@pAi@~@i@j@]|@Wt@SJd@d@lB`AxEtAzFl@fC^tBdA~EfBrHv@rD?~@XlAZl@r@nC?|@Jv@vC`MtAhGbBhHfAzEn@bCn@vCjBbI`AnEbCxKjCpKjIr]vFzUhCxKvAjGV`AfHxZhAlE|@~Cb@pAh@zAj@pAf@`AbBvCtC`EzBrCp@x@`@\\HLb@ZdB~@h@d@f@l@|@v@~AjAtFbFtKhJdAbA@ZZf@nCtD~@xAj@bAnAhC`BbE\\`AdBbFnDrK|@jC`@|@Xd@RNf@vA~A|EZhAbAnC`@~@hBhDz@xBnIpVtCdItBfGnD~Ld@|@T\\\\Vn@^zAh@|@HhFmA`@CD?D@DBv@W|D{@rDaAvCm@tKeCnD{@lDu@`IiBdAWtAe@p@]f@_@VY^[Z]^q@xA_DtDcHnBgDdAsBx@mA`@e@|AyBjBuC|@mBL[H]Lw@^wERuAXw@\\q@\\i@t@_AhAu@h@Qd@Ed@BPDZLJJZb@L^DXBd@C^Fl@o@nCAf@Bh@J`@Rf@d@t@nAnBLZH^nAhBR\\pAvBdApBpCrE`@r@pAkAzBiBpCeCvCyBr@_@lCeAnAm@hAe@|@c@|BoAfC_BfEgCpD_ChBkAbB_AfAe@f@SxAm@|Aq@hIkE`KiFj@OpAS`@GjDg@j@Kh@SpCiAnA~BbBhEjAlCx@xBt@~At@lBf@tAfD~Hz@nB~AxDV^t@j@f@\\l@XnAf@dC|@~Aj@x@PfBh@XKN?dCn@tAf@~Av@t@h@b@d@`@x@FLlBn@j@C|IgCtDiAjLwDLEBHJ^Lb@Z~AHXLLJDzC|@rFbBdCt@xBd@pBj@dAXr@VfEpAvDfArDbAzBf@zA`@t@XvA`@`Cp@jBh@hBd@~DlAbAVfFzAbMlDlA^nCt@^Dr@NpIdCdEjAtD|@lEfAB@fCn@bEpAjMjDrLxCrFtAhEjAzAZrAHrBFQtDKjE?`CBpCYrLEhEGfDU`HAnAARm@C@e@q@GkBQgAI_AGNiC"
+                "points": "ooymDgs~vMDHYx@g@bBc@hAEJLNt@v@v@l@jBjAhAf@fBd@nB^jAL\\F`A@~CKbAIv@KjASbB_@bM}EhBq@zFyBxD_BjBs@pAi@~@i@j@]|@Wt@SJd@d@lB`AxEtAzFl@fC^tBdA~EfBrHv@rD?~@XlAZl@r@nC?|@Jv@vC`MtAhGbBhHfAzEn@bCn@vCjBbI`AnEbCxKjCpKjIr]vFzUhCxKvAjGV`AfHxZhAlE|@~Cb@pAh@zAj@pAf@`AbBvCtC`EzBrCp@x@`@\\HLb@ZdB~@h@d@f@l@|@v@~AjAtFbFtKhJdAbA@ZZf@nCtD~@xAj@bAnAhC`BbE\\`AdBbFnDrK|@jC`@|@Xd@RNf@vA~A|EZhAbAnC`@~@hBhDz@xBnIpVtCdItBfGnD~Ld@|@T\\\\Vn@^zAh@|@HhFmA`@CD?D@DBv@W|D{@rDaAvCm@tKeCnD{@lDu@`IiBdAWtAe@p@]f@_@VY^[Z]^q@xA_DtDcHnBgDdAsBx@mA`@e@|AyBjBuC|@mBL[H]Lw@^wERuAXw@\\q@\\i@t@_AhAu@h@Qd@Ed@BPDZLJJZb@L^DXBd@C^Fl@o@nCAf@Bh@J`@Rf@d@t@nAnBLZH^nAhBR\\pAvBdApBpCrE`@r@pAkAzBiBpCeCvCyBr@_@lCeAnAm@hAe@|@c@|BoAfC_BfEgCpD_ChBkAbB_AfAe@f@SxAm@|Aq@hIkE`KiFj@OpAS`@GjDg@j@Kh@SpCiAnA~BbBhEjAlCx@xBt@~At@lBf@tAfD~Hz@nB~AxDV^t@j@f@\\l@XnAf@dC|@~Aj@x@PfBh@XKN?dCn@tAf@~Av@t@h@b@d@`@x@FLlBn@j@C|IgCtDiAjLwDLEBHJ^Lb@Z~AHXLLJDzC|@rFbBdCt@xBd@pBj@dAXr@VfEpAvDfArDbAzBf@zA`@t@XvA`@`Cp@jBh@hBd@~DlAbAVfFzAbMlDlA^nCt@^Dr@NpIdCdEjAtD|@lEfAB@fCn@bEpAjMjDrLxCrFtAhEjAzAZrAHrBFQtDKjE?`CBpCYrLEhECf@c@C[?GfByFa@QzBKfB"
             },
             "summary": "Guru Ravidas Marg",
             "warnings": [],
