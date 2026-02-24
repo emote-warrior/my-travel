@@ -28,7 +28,7 @@
                 },
                 "southwest": {
                     "lat": 28.5124504,
-                    "lng": 77.2282527
+                    "lng": 77.2282419
                 }
             },
             "copyrights": "Powered by Google, \u00a92026 Google",
@@ -36,15 +36,15 @@
                 {
                     "distance": {
                         "text": "24.9 km",
-                        "value": 24909
+                        "value": 24910
                     },
                     "duration": {
                         "text": "47 mins",
                         "value": 2814
                     },
                     "duration_in_traffic": {
-                        "text": "57 mins",
-                        "value": 3414
+                        "text": "58 mins",
+                        "value": 3478
                     },
                     "end_address": "41, Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi 110062, India",
                     "end_location": {
@@ -416,19 +416,19 @@
                         {
                             "distance": {
                                 "text": "2.0 km",
-                                "value": 1955
+                                "value": 1956
                             },
                             "duration": {
                                 "text": "4 mins",
                                 "value": 221
                             },
                             "end_location": {
-                                "lat": 28.5420861,
-                                "lng": 77.23175630000001
+                                "lat": 28.5420902,
+                                "lng": 77.2317626
                             },
                             "html_instructions": "Continue onto <b>Josip Broz Tito Marg</b><div style=\"font-size:0.9em\">Pass by the park (on the left in 950m)</div>",
                             "polyline": {
-                                "points": "g{hmDiakvMRF`@NVHr@T|Ah@hBh@hA^VNzBr@ZJXJ^LVHZLf@Pb@N\\L^LZJXHXHZJVHj@J\\Dl@Bf@Ah@?l@Cl@Cd@Ad@C\\C`@AB?f@Cb@Ap@Ep@AD?j@Eb@Aj@Cn@Et@Et@Aj@C\\C^CPCRCXEXEJCLCt@Yd@Q@?f@S`@OLEtAo@fBo@t@[`C}@~@YbA]|@]z@[p@Y|@]l@SlCcA~@]l@W^O"
+                                "points": "g{hmDiakvMRF`@NVHr@T|Ah@hBh@hA^VNzBr@ZJXJ^LVHZLf@Pb@N\\L^LZJXHXHZJVHj@J\\Dl@Bd@Bj@Av@Ch@Af@Af@EZAhACh@Cn@Av@EhAG|AEhBIlAGbAOVERGLCNEt@Yd@Q@?f@S`@OLEvAm@dBq@v@Y~By@`A]dAc@x@Yz@[r@Wv@Wn@[vAi@t@Y`A_@h@Ub@O"
                             },
                             "start_location": {
                                 "lat": 28.5587603,
@@ -454,8 +454,8 @@
                                 "points": "asemDoikvMfAc@`A]RCVEvAML?HALAT?T?d@?X?j@?fCBd@@R?\\@^?n@?jA@rEBL@|A@`D@jD?n@@dCBxB?T?dEA~BDrBDj@@b@@rFHPBJ?J@H@JBNDXHzAb@xBf@"
                             },
                             "start_location": {
-                                "lat": 28.5420861,
-                                "lng": 77.23175630000001
+                                "lat": 28.5420902,
+                                "lng": 77.2317626
                             },
                             "travel_mode": "DRIVING"
                         },
@@ -632,7 +632,7 @@
                 }
             ],
             "overview_polyline": {
-                "points": "ooymDgs~vMDHYx@g@bBc@hAEJLNt@v@v@l@jBjAhAf@fBd@nB^jAL\\F`A@~CKbAIv@KjASbB_@bM}EhBq@zFyBxD_BjBs@pAi@~@i@j@]|@Wt@SJd@d@lB`AxEtAzFl@fC^tBdA~EfBrHv@rD?~@XlAh@lDE^z@nDtBxJjAvEv@jDhAzEbBhHrAzFbAtEzA|GdAzEjAbFbDzMlEzQhC|K|ArGnFhUzKpe@pAtEnAfEf@rAjAbCzAlCtAvBjBhCfArAdAhAv@z@v@p@`DhC`FbEhCtBbB`B`BzApCbCnCnCtCjDz@nAt@nAzAnChAhCbAnCdA|ClAlDlDpKrB|F\\x@Tx@LDRRLRn@|AHVFHDDDBbAnC`@~@l@dAz@bB\\z@\\|@tA`EnKtZtBfGvAzEvAbFd@|@X`@l@`@`@TtAd@|@HhFmANARAH@DBv@W|D{@rDaAxA[hCi@nHeBfCm@nBc@~Bg@bGuAbCk@tAe@p@]f@_@VY^[Z]^q@xA_DtDcHnBgDdAsBPq@t@eB\\k@DOFq@A]E[M[MQSSUMg@OOAe@@]Ja@TW^Ob@CP@x@Nt@@\\n@bBlAtCfArCp@tBt@tDNnAFx@DrAAlBEbGCpBEpAGf@Q`AQp@Qb@a@lA[t@gB|Cm@~@oChDaBfCiAjBaBvBsBbCiB~B[l@Qd@Od@Mz@KdB?dANvA\\~BTdAXhBHlA?lAEx@Mz@a@nBo@`DIr@A~@@n@F|@LBFLDVDPVn@f@p@jBxBbAdAv@p@~@d@nAd@d@\\N@VDb@J`Ab@fDjBbG~CdCpAf@TlBb@t@DrB?xAAxF?`KGdB?|@DhANn@TtG`DtEhCfB|@vB~@~CnA`CdAzC|ArB~@fAZdBVvEb@~AVx@VdEjBhCjAr@d@vAl@pBz@~At@rDtBnBhAnAj@t@V~Aj@jA^`Cv@fErAhA^VNvC~@x@X~Bx@rBp@xBj@jAHpAAfDMxFSjDQjBGhAG~AQd@IbA]pBu@bBu@|CkAbIsCxEgBlEaBlAg@hCaAj@I|BQjB?lFDxDB`NHzMDzEArFJtIPl@FdCr@xBf@BUbE}QNa@h@uCLa@P_@P]TY~DoDxCaC|EiE`HeGzAuAb@]ZM~@CtAJf@NVLf@^~BbC`InI|@kAjDrDf@b@XNjAHnDl@hBVvBPFQRcAVoB|@yHBcAP{Cj@_FD]F_B?sB@e@q@GkBQgAI_AGNiC"
+                "points": "ooymDgs~vMDHYx@g@bBc@hAEJLNt@v@v@l@jBjAhAf@fBd@nB^jAL\\F`A@~CKbAIv@KjASbB_@bM}EhBq@zFyBxD_BjBs@pAi@~@i@j@]|@Wt@SJd@d@lB`AxEtAzFl@fC^tBdA~EfBrHv@rD?~@XlAh@lDE^z@nDtBxJjAvEv@jDhAzEbBhHrAzFbAtEzA|GdAzEjAbFbDzMlEzQhC|K|ArGnFhUzKpe@pAtEnAfEf@rAjAbCzAlCtAvBjBhCfArAdAhAv@z@v@p@`DhC`FbEhCtBbB`B`BzApCbCnCnCtCjDz@nAt@nAzAnChAhCbAnCdA|ClAlDlDpKrB|F\\x@Tx@LDRRLRn@|AHVFHDDDBbAnC`@~@l@dAz@bB\\z@\\|@tA`EnKtZtBfGvAzEvAbFd@|@X`@l@`@`@TtAd@|@HhFmANARAH@DBv@W|D{@rDaAxA[hCi@nHeBfCm@nBc@~Bg@bGuAbCk@tAe@p@]f@_@VY^[Z]^q@xA_DtDcHnBgDdAsBPq@t@eB\\k@DOFq@A]E[M[MQSSUMg@OOAe@@]Ja@TW^Ob@CP@x@Nt@@\\n@bBlAtCfArCp@tBt@tDNnAFx@DrAAlBEbGCpBEpAGf@Q`AQp@Qb@a@lA[t@gB|Cm@~@oChDaBfCiAjBaBvBsBbCiB~B[l@Qd@Od@Mz@KdB?dANvA\\~BTdAXhBHlA?lAEx@Mz@a@nBo@`DIr@A~@@n@F|@LBFLDVDPVn@f@p@jBxBbAdAv@p@~@d@nAd@d@\\N@VDb@J`Ab@fDjBbG~CdCpAf@TlBb@t@DrB?xAAxF?`KGdB?|@DhANn@TtG`DtEhCfB|@vB~@~CnA`CdAzC|ArB~@fAZdBVvEb@~AVx@VdEjBhCjAr@d@vAl@pBz@~At@rDtBnBhAnAj@t@V~Aj@jA^`Cv@fErAhA^VNvC~@x@X~Bx@rBp@xBj@jAHpA@`BEnAG~DKhI]lAGbAOj@MxBu@xAi@|D_BvDsA|FwBjBo@fCeAdE_BhCaAj@I|BQjB?lFDxDB`NHzMDzEArFJtIPl@FdCr@xBf@BUbE}QNa@h@uCLa@P_@P]TY~DoDxCaC|EiE`HeGzAuAb@]ZM~@CtAJf@NVLf@^~BbC`InI|@kAjDrDf@b@XNjAHnDl@hBVvBPFQRcAVoB|@yHBcAP{Cj@_FD]F_B?sB@e@q@GkBQgAI_AGNiC"
             },
             "summary": "NE 3",
             "warnings": [],
