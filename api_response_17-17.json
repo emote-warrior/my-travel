@@ -36,15 +36,15 @@
                 {
                     "distance": {
                         "text": "25.1 km",
-                        "value": 25099
+                        "value": 25095
                     },
                     "duration": {
                         "text": "47 mins",
-                        "value": 2823
+                        "value": 2822
                     },
                     "duration_in_traffic": {
-                        "text": "46 mins",
-                        "value": 2734
+                        "text": "42 mins",
+                        "value": 2503
                     },
                     "end_address": "41, Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi 110062, India",
                     "end_location": {
@@ -369,20 +369,20 @@
                         {
                             "distance": {
                                 "text": "0.3 km",
-                                "value": 338
+                                "value": 332
                             },
                             "duration": {
                                 "text": "1 min",
                                 "value": 24
                             },
                             "end_location": {
-                                "lat": 28.6087549,
-                                "lng": 77.27915899999999
+                                "lat": 28.6088321,
+                                "lng": 77.2791475
                             },
                             "html_instructions": "Keep <b>left</b>",
                             "maneuver": "keep-left",
                             "polyline": {
-                                "points": "qbsmDe_uvMnB`B`DnCBB~BrBDD~@|@"
+                                "points": "qbsmDe_uvMnB`B`DnCBBbDfDFFHH"
                             },
                             "start_location": {
                                 "lat": 28.6111273,
@@ -393,24 +393,24 @@
                         {
                             "distance": {
                                 "text": "2.8 km",
-                                "value": 2812
+                                "value": 2814
                             },
                             "duration": {
                                 "text": "3 mins",
-                                "value": 201
+                                "value": 200
                             },
                             "end_location": {
                                 "lat": 28.5952487,
                                 "lng": 77.2566829
                             },
-                            "html_instructions": "Turn <b>right</b>",
-                            "maneuver": "turn-right",
+                            "html_instructions": "Keep <b>right</b>",
+                            "maneuver": "keep-right",
                             "polyline": {
-                                "points": "usrmDwqtvM?L@LDJJN@@FHV\\z@fAr@bAFJb@n@JP@BLRDH@BFHZj@j@dAb@bAv@fBh@zALZDNHR?@n@lBd@tAJVBFTp@Tt@f@zAf@tA^hAJZFRPh@j@`BRd@LVBDBFHJFJHFHFXv@L^x@~BLb@Tr@@DZhAbAnCN`@P\\R^Xd@f@`AR`@@BZv@Vr@DHZx@x@fCbDnJtA~DHRjCpH|@dCv@`Cl@lBh@lB~@jDVv@NZT`@RX@B@@@@VP@@@@PJB@VNB@@@ZLx@VRBh@DtCq@rA[D?HALAB?@?@?@?@@B?DB"
+                                "points": "etrmDuqtvMXb@JP^h@z@fAr@bAFJb@n@JP@BLRDH@BFHZj@j@dAb@bAv@fBh@zALZDNHR?@n@lBd@tAJVBFTp@Tt@f@zAf@tA^hAJZFRPh@j@`BRd@LVBDBFHJFJHFHFXv@L^x@~BLb@Tr@@DZhAbAnCN`@P\\R^Xd@f@`AR`@@BZv@Vr@DHZx@x@fCbDnJtA~DHRjCpH|@dCv@`Cl@lBh@lB~@jDVv@NZT`@RX@B@@@@VP@@@@PJB@VNB@@@ZLx@VRBh@DtCq@rA[D?HALAB?@?@?@?@@B?DB"
                             },
                             "start_location": {
-                                "lat": 28.6087549,
-                                "lng": 77.27915899999999
+                                "lat": 28.6088321,
+                                "lng": 77.2791475
                             },
                             "travel_mode": "DRIVING"
                         },
@@ -597,7 +597,7 @@
                             "html_instructions": "Keep <b>right</b> to continue on <b>Kendriya Vidhyalay Flyover</b>/<wbr/><b>Lala Lajpat Rai Rd Flyover</b>",
                             "maneuver": "keep-right",
                             "polyline": {
-                                "points": "wqimD_nkvMXN^P~@b@l@Z`@T|@h@d@XRL`@TXP^Rp@Z\\N\\NVF\\L@@^L^L@?ZJXHRH"
+                                "points": "wqimD_nkvMXNXNdAd@l@Z`@T|@h@d@XRL`@TXP^Rp@Z\\N\\NVF\\L@@^L^L@?ZJXHRH"
                             },
                             "start_location": {
                                 "lat": 28.5623629,
@@ -620,7 +620,7 @@
                             },
                             "html_instructions": "Continue onto <b>Josip Broz Tito Marg</b><div style=\"font-size:0.9em\">Pass by the park (on the left in 950m)</div>",
                             "polyline": {
-                                "points": "g{hmDiakvMRF`@NVHr@T|Ah@hBh@hA^VNzBr@ZJXJ^LVHZLf@Pb@N\\L^LZJXHXHZJVHj@J\\Dl@Bd@Bj@Av@Ch@Af@Af@EZAhACh@Cn@Av@EhAG|AEhBIlAGbAOVERGLCNEt@Yd@Q@?f@S`@OLEvAm@dBq@v@Y~By@`A]dAc@x@Yz@[r@Wv@Wn@[vAi@t@Y`A_@h@Ub@O"
+                                "points": "g{hmDiakvMRF`@NVHr@T|Ah@hBh@hA^ZLvBt@ZJXJ^LVHZLf@Pb@N\\L^LZJXHXHZJVHj@J\\Dl@Bd@Bj@Av@Ch@Af@Af@EZAhACh@Cn@Av@EhAG|AEhBIlAGbAOVERGLCNEt@Yd@Q@?f@S`@OLEvAm@dBq@v@Y~By@`A]dAc@x@Yz@[r@Wv@Wn@[vAi@t@Y`A_@h@Ub@O"
                             },
                             "start_location": {
                                 "lat": 28.5587603,
@@ -729,7 +729,7 @@
                 }
             ],
             "overview_polyline": {
-                "points": "ooymDgs~vMDHYx@g@bBc@hAEJLNt@v@v@l@jBjAhAf@fBd@nB^jAL\\F`A@~CKbAIv@KjASbB_@bM}EhBq@zFyBxD_BjBs@pAi@~@i@j@]|@Wt@SJd@d@lB`AxEtAzFl@fC^tBdA~EfBrHv@rD?~@XlAZl@r@nC?|@Jv@vC`MtAhGbBhHfAzEn@bCn@vCjBbI`AnEbCxKjCpKjIr]vFzUhCxKvAjGV`AfHxZhAlE|@~Cb@pAh@zAj@pAf@`AbBvCtC`EzBrCp@x@`@\\HLb@ZdB~@h@d@f@l@|@v@~AjAtFbFtKhJdAbA@ZZf@nCtD~@xAj@bAnAhC`BbE\\`AdBbFnDrK|@jC`@|@Xd@RNf@vA~A|EZhAbAnC`@~@hBhDz@xBnIpVtCdItBfGnD~Ld@|@T\\\\Vn@^zAh@|@HhFmA`@CD?D@DBv@W|D{@rDaAvCm@tKeCnD{@lDu@`IiBdAWtAe@p@]f@_@VY^[Z]^q@xA_DtDcHnBgDdAsBPq@Vk@\\y@\\k@Je@?y@E[M[a@e@i@Yc@Ee@@]Ja@TGFOVOb@Ef@Bb@DXHZ@\\zAxDv@lBbAlC^lAVpA\\bBNnAJpA@dBAnAEvGCpAEpAYhBQp@Qb@a@lA[t@]n@}AhCYb@kAvAcApAi@z@uAtBk@`Au@dAwBfC{AhBu@bA[l@a@jAMz@Gt@EtAPvB\\~BTdAXhBFr@@fBEx@Mz@a@nBo@`DIr@A~@@n@F|@LBFLJh@Vn@f@p@dCrChAjAr@b@bAb@n@Td@\\N@VDb@J`Ab@fDjBhKpFf@Tv@Rt@Nt@D`D?|AAvB?nA?xFClFC|@DhANn@T|At@vDjBdBbAvEbCrElBbCdA`A`@zC|ArB~@VJdB\\xBRjEf@x@RxAj@vGxCr@d@vAl@pBz@~At@nAp@xCfBx@d@nAj@tAf@`ErArGrBhA^VNvC~@lBp@hC|@jBj@bATjAHpA@`BEnAGdBEzESfEOlAGbAOj@M\\IdC_AlFuB~HuC`FeBfCeAvBy@vEgBj@IdBMbACrFBtMJzMD~FBzEAbINdGLV@d@J`G~AnDdAzHfCjEtAzCfAvC`AbF`B~D|A`C|@zDpA`FxAx@Nr@FbBF|@Hl@FHGTCFCTIREJg@j@iDV_CZ}C\\wBd@}BjA{GViCFqAJqARiAl@sEtAiIRcAVoB|@yHBcAP{Cj@_FD]F_B?sB@e@q@GkBQgAI_AGNiC"
+                "points": "ooymDgs~vMDHYx@g@bBc@hAEJLNt@v@v@l@jBjAhAf@fBd@nB^jAL\\F`A@~CKbAIv@KjASbB_@bM}EhBq@zFyBxD_BjBs@pAi@~@i@j@]|@Wt@SJd@d@lB`AxEtAzFl@fC^tBdA~EfBrHv@rD?~@XlAZl@r@nC?|@Jv@vC`MtAhGbBhHfAzEn@bCn@vCjBbI`AnEbCxKjCpKjIr]vFzUhCxKvAjGV`AfHxZhAlE|@~Cb@pAh@zAj@pAf@`AbBvCtC`EzBrCp@x@`@\\HLb@ZdB~@h@d@f@l@|@v@~AjAtFbFpGpFfDjDPPd@t@vC`EjB|CnAhC`BbE\\`AdBbFzBxGr@xB|@jC`@|@Xd@RNf@vA~A|EZhAbAnC`@~@hBhDz@xBnIpVtCdItBfGnD~Ld@|@T\\\\Vn@^zAh@|@HhFmA`@CD?D@DBv@W|D{@rDaAvCm@`JsB`Ck@nGwA`IiBdAWtAe@p@]f@_@VY^[Z]^q@xA_DtDcHnBgDdAsBPq@Vk@\\y@\\k@Je@?y@E[M[a@e@i@Yc@Ee@@]Ja@TGFOVOb@Ef@Bb@DXHZ@\\zAxDzBzF^lAVpA\\bBNnAJpA@dBEnFAvBCpAEpAYhBQp@Qb@a@lA[t@]n@}AhCYb@kAvAcApAi@z@uAtBk@`Au@dAwBfC{AhBu@bA[l@a@jAMz@Gt@EtAPvB\\~BTdAXhBFr@@fBEx@Mz@a@nBo@`DIr@A~@@n@F|@LBFLJh@Vn@f@p@dCrChAjAr@b@bAb@n@Td@\\N@VDb@J`Ab@fDjBhKpFf@Tv@Rt@Nt@D`D?tEAnA?xFClFC|@DhANn@T|At@vDjBdBbAvEbCrElBbCdA`A`@zC|ArB~@VJdB\\xBRjEf@x@RxAj@vGxCr@d@vAl@pBz@~At@nAp@xCfBx@d@nAj@tAf@|Af@bBj@rGrBfJ`DhC|@jBj@bATjAHpA@`BEnAGdBEzESfEOlAGbAOj@M\\IdC_AlFuB~HuC`FeBfCeAvBy@vEgBj@IdBMbACrFBvBBxXL~FBzEAbINdGLV@d@J`G~AnDdAfO|EjFjBvDlArBp@fA`@xFxBzDpA`FxAx@Nr@FbBF|@Hl@FHGTCFCTIREJg@j@iDV_CZ}C\\wBd@}BjA{GViCFqAJqARiAl@sEtAiIRcAVoB|@yHBcAP{Cj@_FD]F_B?sB@e@q@GkBQgAI_AGNiC"
             },
             "summary": "Gurjar Samrat Mihir Bhoj Marg",
             "warnings": [],
