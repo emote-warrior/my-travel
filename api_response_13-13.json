@@ -35,16 +35,16 @@
             "legs": [
                 {
                     "distance": {
-                        "text": "23.2 km",
-                        "value": 23240
+                        "text": "24.2 km",
+                        "value": 24184
                     },
                     "duration": {
-                        "text": "51 mins",
-                        "value": 3032
+                        "text": "53 mins",
+                        "value": 3177
                     },
                     "duration_in_traffic": {
-                        "text": "1 hour 14 mins",
-                        "value": 4425
+                        "text": "1 hour 18 mins",
+                        "value": 4707
                     },
                     "end_address": "41, Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi 110062, India",
                     "end_location": {
@@ -302,7 +302,7 @@
                             },
                             "duration": {
                                 "text": "2 mins",
-                                "value": 105
+                                "value": 106
                             },
                             "end_location": {
                                 "lat": 28.580923,
@@ -311,7 +311,7 @@
                             "html_instructions": "Merge onto <b>NH 44</b>",
                             "maneuver": "merge",
                             "polyline": {
-                                "points": "cenmDiypvMHE\\YFENSDCXWJMNOLQP_@JOlAoC~C_GTc@x@{At@kAx@_BJSx@mA`@e@|@mA^k@bAyAf@{@Tc@f@iAL[H]DWF_@"
+                                "points": "cenmDiypvMHE\\YFENSDCXWJMNOLQP_@JOlAoC~C_GTc@x@{At@kAx@_BJSx@mA`@e@|@mA^k@bAyAf@{@Tc@Xq@Zs@H]DWF_@"
                             },
                             "start_location": {
                                 "lat": 28.5859438,
@@ -321,21 +321,21 @@
                         },
                         {
                             "distance": {
-                                "text": "1.2 km",
-                                "value": 1230
+                                "text": "0.5 km",
+                                "value": 522
                             },
                             "duration": {
-                                "text": "2 mins",
-                                "value": 135
+                                "text": "1 min",
+                                "value": 61
                             },
                             "end_location": {
-                                "lat": 28.5756309,
-                                "lng": 77.2633881
+                                "lat": 28.5784742,
+                                "lng": 77.2694192
                             },
                             "html_instructions": "Keep <b>right</b> to stay on <b>NH 44</b>",
                             "maneuver": "keep-right",
                             "polyline": {
-                                "points": "wemmDshrvMLkBJkABO@OBQNcAJ[L[FMFMJS@AJSPUZe@XYTQ@?\\URMRITGTCNAT@N@JBD@JDNFBDFDBBBDHJHLHTBH?@DVBR?PAHATFb@?HCJk@bCAR?R?TBRFXBFRf@d@t@r@jAZb@FLDLH^nAhBDHLRLT\\h@b@t@@@f@~@Xj@BDx@tAvA|B`@r@"
+                                "points": "wemmDshrvMLkBJkABO@OBQNcAJ[L[FMFMJS@AJSPUZe@XYTQ@?\\URMRITGTCNAT@N@JBD@JDNFBDFDBBBDHJHLHTBH?@DVBR?PAHAT"
                             },
                             "start_location": {
                                 "lat": 28.580923,
@@ -345,261 +345,312 @@
                         },
                         {
                             "distance": {
-                                "text": "0.8 km",
-                                "value": 775
+                                "text": "0.3 km",
+                                "value": 307
                             },
                             "duration": {
-                                "text": "2 mins",
-                                "value": 115
+                                "text": "1 min",
+                                "value": 30
                             },
                             "end_location": {
-                                "lat": 28.5697457,
-                                "lng": 77.26757409999999
+                                "lat": 28.5779981,
+                                "lng": 77.2666153
                             },
-                            "html_instructions": "Turn <b>left</b> onto <b>Eastern Ave</b>",
-                            "maneuver": "turn-left",
+                            "html_instructions": "Keep <b>right</b>",
+                            "maneuver": "keep-right",
                             "polyline": {
-                                "points": "udlmDeoqvMpAkApAeAh@c@nAmA`Aw@`CiBTODCl@[@?XK^OpAi@ZO`@SFCHE\\Mj@WRIh@YZO`@UPKl@]LGHG^WnAw@"
+                                "points": "mvlmD{trvMGXEROd@IVI\\IV?FALAL?L?L@P?F?LBN@H@DHVBFFPHNDFPT@Bh@z@T`@@B@@JV@FBNBL"
                             },
                             "start_location": {
-                                "lat": 28.5756309,
-                                "lng": 77.2633881
+                                "lat": 28.5784742,
+                                "lng": 77.2694192
                             },
                             "travel_mode": "DRIVING"
                         },
                         {
                             "distance": {
-                                "text": "0.3 km",
-                                "value": 299
+                                "text": "1.6 km",
+                                "value": 1588
                             },
                             "duration": {
-                                "text": "1 min",
-                                "value": 58
+                                "text": "3 mins",
+                                "value": 154
                             },
                             "end_location": {
-                                "lat": 28.5674543,
-                                "lng": 77.2691711
+                                "lat": 28.5690474,
+                                "lng": 77.2541114
                             },
-                            "html_instructions": "At Gurudwara Gurunanak Satsang Sabha, continue onto <b>CV Raman Marg</b>",
+                            "html_instructions": "Merge onto <b>Mahatma Gandhi Rd</b>/<wbr/><b>Mahatma Gandhi Flyover</b>/<wbr/><b>Ring Rd</b><div style=\"font-size:0.9em\">Continue to follow Mahatma Gandhi Rd/<wbr/>Ring Rd</div>",
+                            "maneuver": "merge",
                             "polyline": {
-                                "points": "}_kmDiirvMPKp@c@dAm@|@i@dAq@JGj@]r@g@bAm@LI"
+                                "points": "oslmDkcrvMf@j@DFPTFFHJFFDH^j@DJDFb@x@DFNVDHFLFH?@DDh@`AHL?@FH`@p@HLDDPX@BRZT\\DFDFJPRZh@bA\\n@R`@T`@d@~@LPLTDJf@`ANX~@`B`@p@hCtET`@Xd@DHFHLTPXNXHLHLNVNVZf@BFPZRZRZDHFHt@nA\\d@@BBDDDX^RZJL@BBBVb@JNRZVh@JZPj@Rf@NZPVHP@B@@@BLNX\\d@d@`@^h@^FDZP|@XJD"
                             },
                             "start_location": {
-                                "lat": 28.5697457,
-                                "lng": 77.26757409999999
+                                "lat": 28.5779981,
+                                "lng": 77.2666153
                             },
                             "travel_mode": "DRIVING"
                         },
                         {
                             "distance": {
                                 "text": "0.6 km",
-                                "value": 599
+                                "value": 574
                             },
                             "duration": {
                                 "text": "2 mins",
-                                "value": 135
+                                "value": 101
                             },
                             "end_location": {
-                                "lat": 28.5639288,
-                                "lng": 77.2646929
+                                "lat": 28.5655529,
+                                "lng": 77.2504757
                             },
-                            "html_instructions": "Turn <b>right</b> onto <b>Mata Mandir Rd</b>",
-                            "maneuver": "turn-right",
+                            "html_instructions": "Take the exit toward <b>Captain Gaur Marg</b><div style=\"font-size:0.9em\">Pass by Cambridge School Srinivaspuri (on the left in 450m)</div>",
+                            "maneuver": "ramp-left",
                             "polyline": {
-                                "points": "qqjmDisrvMLKFPj@dAh@fAPTfAjBx@lAX\\PPZ^~@`Ap@v@RRr@x@l@l@j@p@PVDFJRPZVl@Td@"
+                                "points": "q{jmDeuovMHEBAF?b@N^N^NTJz@\\PHNFj@Tj@T^Nn@VPHRJRLVRZVRTRTX\\PZJRRf@Ph@R~@H\\@H@NBT@PH`B"
                             },
                             "start_location": {
-                                "lat": 28.5674543,
-                                "lng": 77.2691711
+                                "lat": 28.5690474,
+                                "lng": 77.2541114
                             },
                             "travel_mode": "DRIVING"
                         },
                         {
                             "distance": {
-                                "text": "1.0 km",
-                                "value": 988
+                                "text": "0.3 km",
+                                "value": 340
                             },
                             "duration": {
-                                "text": "3 mins",
-                                "value": 191
+                                "text": "1 min",
+                                "value": 56
                             },
                             "end_location": {
-                                "lat": 28.5564943,
-                                "lng": 77.2702219
+                                "lat": 28.5626951,
+                                "lng": 77.2506935
                             },
-                            "html_instructions": "Turn <b>left</b> onto <b>NH 148NA</b>/<wbr/><b>NH 44</b><div style=\"font-size:0.9em\">Pass by the gas station (on the left)</div>",
+                            "html_instructions": "Turn <b>left</b> onto <b>Captain Gaur Marg</b>",
                             "maneuver": "turn-left",
                             "polyline": {
-                                "points": "q{imDiwqvMjA_ArE_D^Yh@]dD}BLIf@Yx@a@\\Q~AiA^Wf@_@lA}@JIxCoB\\Up@e@lAw@b@YtCoB|@k@"
+                                "points": "uejmDo~nvMLRLNLHPJFBRF~CUxAIT?^A^Cb@G\\IPEHCFCFEHGLKJO"
                             },
                             "start_location": {
-                                "lat": 28.5639288,
-                                "lng": 77.2646929
+                                "lat": 28.5655529,
+                                "lng": 77.2504757
                             },
                             "travel_mode": "DRIVING"
                         },
                         {
                             "distance": {
-                                "text": "0.8 km",
-                                "value": 770
+                                "text": "0.5 km",
+                                "value": 540
                             },
                             "duration": {
-                                "text": "1 min",
-                                "value": 77
+                                "text": "2 mins",
+                                "value": 122
                             },
                             "end_location": {
-                                "lat": 28.5544278,
-                                "lng": 77.26544539999999
+                                "lat": 28.5602898,
+                                "lng": 77.2462243
                             },
-                            "html_instructions": "Exit onto <b>Modi Mill Flyover</b>/<wbr/><b>MP Rd</b><div style=\"font-size:0.9em\">Continue to follow MP Rd</div>",
-                            "maneuver": "ramp-left",
+                            "html_instructions": "Turn <b>right</b> onto <b>Kalka Devi Marg</b>",
+                            "maneuver": "turn-right",
                             "polyline": {
-                                "points": "amhmD{yrvMJSBS@I?G@KAIAKCIEGEIGGGGIEIEA?ECIAI?I?MBGBA?EBCBEBEFGJCFABCDAHCH?FAF?J@RBb@NXHXJPTl@HRHTJVFRHRL\\LZNZDJjAjCLXJXN\\^x@BHBFRb@bAdCZr@HJLRXTZTf@\\"
+                                "points": "{simDy_ovMHMXPXZTTx@~@lAnAf@f@^h@b@dABFN`@Jd@R`AJp@z@|F\\|A"
                             },
                             "start_location": {
-                                "lat": 28.5564943,
-                                "lng": 77.2702219
+                                "lat": 28.5626951,
+                                "lng": 77.2506935
                             },
                             "travel_mode": "DRIVING"
                         },
                         {
                             "distance": {
-                                "text": "0.2 km",
-                                "value": 248
+                                "text": "0.4 km",
+                                "value": 408
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 29
+                                "value": 76
                             },
                             "end_location": {
-                                "lat": 28.5523646,
-                                "lng": 77.2644964
+                                "lat": 28.5568954,
+                                "lng": 77.24592570000002
                             },
-                            "html_instructions": "Continue onto <b>Bhakti Vedant Swami Marg</b>",
+                            "html_instructions": "Turn <b>left</b> onto <b>Sapna Cinema Rd</b><div style=\"font-size:0.9em\">Pass by Friends Tuition Centre (on the left)</div>",
+                            "maneuver": "turn-left",
                             "polyline": {
-                                "points": "e`hmDa|qvMl@XXLr@\\~Bx@fBj@x@P"
+                                "points": "ydimD{cnvMbAMT@r@Yx@Yh@KpBa@D?d@CNBD@FBpAt@dDjB"
                             },
                             "start_location": {
-                                "lat": 28.5544278,
-                                "lng": 77.26544539999999
+                                "lat": 28.5602898,
+                                "lng": 77.2462243
                             },
                             "travel_mode": "DRIVING"
                         },
                         {
                             "distance": {
-                                "text": "61 m",
-                                "value": 61
+                                "text": "62 m",
+                                "value": 62
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 7
+                                "value": 10
                             },
                             "end_location": {
-                                "lat": 28.5518418,
-                                "lng": 77.2642912
+                                "lat": 28.5565995,
+                                "lng": 77.2464695
                             },
-                            "html_instructions": "Continue onto <b>Outer Ring Road</b>",
+                            "html_instructions": "Turn <b>left</b> toward <b>Raja Dhirsain Marg</b>",
+                            "maneuver": "turn-left",
                             "polyline": {
-                                "points": "gsgmDcvqvMj@Rz@T"
+                                "points": "sohmDabnvMZs@^w@"
                             },
                             "start_location": {
-                                "lat": 28.5523646,
-                                "lng": 77.2644964
-                            },
-                            "travel_mode": "DRIVING"
-                        },
-                        {
-                            "distance": {
-                                "text": "0.2 km",
-                                "value": 183
-                            },
-                            "duration": {
-                                "text": "1 min",
-                                "value": 22
-                            },
-                            "end_location": {
-                                "lat": 28.5502975,
-                                "lng": 77.26379349999999
-                            },
-                            "html_instructions": "Turn <b>left</b> onto the ramp to <b>Service Rd</b>",
-                            "maneuver": "ramp-left",
-                            "polyline": {
-                                "points": "_pgmDytqvMRIDAFAF@~@TdAXh@Pj@TVHTL"
-                            },
-                            "start_location": {
-                                "lat": 28.5518418,
-                                "lng": 77.2642912
+                                "lat": 28.5568954,
+                                "lng": 77.24592570000002
                             },
                             "travel_mode": "DRIVING"
                         },
                         {
                             "distance": {
                                 "text": "0.1 km",
-                                "value": 138
+                                "value": 144
                             },
                             "duration": {
                                 "text": "1 min",
-                                "value": 16
+                                "value": 25
                             },
                             "end_location": {
-                                "lat": 28.5493895,
-                                "lng": 77.26287409999999
+                                "lat": 28.5560284,
+                                "lng": 77.24778529999999
                             },
-                            "html_instructions": "Continue onto <b>Service Rd</b>",
+                            "html_instructions": "Continue onto <b>Raja Dhirsain Marg</b>",
                             "polyline": {
-                                "points": "kfgmDuqqvMZNTN@?JFRPRNRPNRR\\LZ@?DL"
+                                "points": "wmhmDmenvMbAcCDKJ]H[H[Fa@"
                             },
                             "start_location": {
-                                "lat": 28.5502975,
-                                "lng": 77.26379349999999
+                                "lat": 28.5565995,
+                                "lng": 77.2464695
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.5 km",
+                                "value": 475
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 93
+                            },
+                            "end_location": {
+                                "lat": 28.5521601,
+                                "lng": 77.24697789999999
+                            },
+                            "html_instructions": "Turn <b>right</b> onto <b>Hansraj Gupta Rd</b>/<wbr/><b>Raja Dhirsain Marg</b>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "ejhmDumnvM@QN@\\?x@E`FWl@E`AKJ?H?L?H@F@D@D@DBJFHDJHHFh@b@RPbBrAr@j@"
+                            },
+                            "start_location": {
+                                "lat": 28.5560284,
+                                "lng": 77.24778529999999
                             },
                             "travel_mode": "DRIVING"
                         },
                         {
                             "distance": {
                                 "text": "0.7 km",
-                                "value": 666
+                                "value": 748
                             },
                             "duration": {
                                 "text": "2 mins",
-                                "value": 91
+                                "value": 137
                             },
                             "end_location": {
-                                "lat": 28.5437468,
-                                "lng": 77.2646503
+                                "lat": 28.5461692,
+                                "lng": 77.25025509999999
                             },
-                            "html_instructions": "Turn <b>left</b> onto <b>Ma Anandmayee Marg</b><div style=\"font-size:0.9em\">Pass by the gas station (on the left in 450m)</div>",
+                            "html_instructions": "Turn <b>left</b> onto <b>Lala Lajpat Rai Rd</b>",
                             "maneuver": "turn-left",
                             "polyline": {
-                                "points": "u`gmD}kqvMlBn@j@C~Ac@|FcBpAa@bBg@jEyAzBu@vAc@JCLE"
+                                "points": "_rgmDshnvMR_@HQLWFKBCFGBETOJELIRIRI@?ZMVKTIhAa@rDyAv@[PGtAi@dA_@`EwArAe@bA]`Ac@dAe@"
                             },
                             "start_location": {
-                                "lat": 28.5493895,
-                                "lng": 77.26287409999999
+                                "lat": 28.5521601,
+                                "lng": 77.24697789999999
                             },
                             "travel_mode": "DRIVING"
                         },
                         {
                             "distance": {
-                                "text": "3.8 km",
-                                "value": 3793
+                                "text": "0.5 km",
+                                "value": 477
                             },
                             "duration": {
-                                "text": "12 mins",
-                                "value": 725
+                                "text": "1 min",
+                                "value": 78
+                            },
+                            "end_location": {
+                                "lat": 28.5443604,
+                                "lng": 77.246186
+                            },
+                            "html_instructions": "Turn <b>right</b> onto <b>Ho Chi Minh Marg</b>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "qlfmDc}nvM^ODAHEFTRp@\\rAx@nCRx@ZfAn@`CFTDP?FAFAL|@bCBHX`A"
+                            },
+                            "start_location": {
+                                "lat": 28.5461692,
+                                "lng": 77.25025509999999
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "1.8 km",
+                                "value": 1846
+                            },
+                            "duration": {
+                                "text": "5 mins",
+                                "value": 313
+                            },
+                            "end_location": {
+                                "lat": 28.5346759,
+                                "lng": 77.2601324
+                            },
+                            "html_instructions": "Keep <b>left</b> to continue on <b>CR Park Main Rd</b>/<wbr/><b>EPDP Rd</b>/<wbr/><b>Malik Ram Essar Marg</b>",
+                            "maneuver": "keep-left",
+                            "polyline": {
+                                "points": "gafmDucnvMJVHLBBB@B@J?B?PCJELCZObAa@RKFAVQXQ`@Y^Wr@k@Z[b@e@V]RYT]l@mAh@gAVq@d@iAVw@JYDO@CHWRi@Ng@Pk@`AgDj@eBf@wATq@JY\\}@j@}AVs@N]j@kBPo@h@{Ab@qAZu@\\}@Pa@R_@Xq@^o@f@e@RWRSXSbBoAZGhAk@PIz@W`@M\\MNSJYFUJg@Js@Ha@X{AVsA"
+                            },
+                            "start_location": {
+                                "lat": 28.5443604,
+                                "lng": 77.246186
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "2.7 km",
+                                "value": 2663
+                            },
+                            "duration": {
+                                "text": "8 mins",
+                                "value": 489
                             },
                             "end_location": {
                                 "lat": 28.5119149,
                                 "lng": 77.2519752
                             },
-                            "html_instructions": "Turn <b>right</b> after Metro Pillar Number 166 (on the right)<div style=\"font-size:0.9em\">Pass by Patanjali Mega Store and Wellness Centre (on the left in 2 km)</div>",
+                            "html_instructions": "Turn <b>right</b> onto <b>Guru Ravidas Marg</b><div style=\"font-size:0.9em\">Pass by Patanjali Mega Store and Wellness Centre (on the left in 900m)</div>",
                             "maneuver": "turn-right",
                             "polyline": {
-                                "points": "m}emDawqvMBHBJFRBJHVH^P~@BH@D@B@DDFFDB@FBHDHBJBzBn@hBj@dA\\LBt@Tb@N`Bd@fAVp@LXHVHPDl@P`@Hb@Nb@PNDj@R`AXj@Nl@Rv@TbAXl@RLBd@Lr@R^Jx@T~@Pz@TzA`@t@XJDjAZhAZv@Tj@N~@XJD|A^HDtDfAr@PNDJBjCx@RFz@T^LhFzAnD~@HBh@Pb@LnCt@^DRD^HzExAtBj@xDhAJ@HBjDx@bAVnBd@TFB@@@@?fCn@bEpAPDxLdDZHvKnCzCv@vA\\vBl@pA\\l@Ll@Ln@Bb@DvA@"
+                                "points": "wddmDyzpvMDMJDjAZhAZv@Tj@N~@XJD|A^HDtDfAr@PNDJBjCx@RFz@T^LhFzAnD~@HBh@Pb@LnCt@^DRD^HzExAtBj@xDhAJ@HBjDx@bAVnBd@TFB@@@@?fCn@bEpAPDxLdDZHvKnCzCv@vA\\vBl@pA\\l@Ll@Ln@Bb@DvA@"
                             },
                             "start_location": {
-                                "lat": 28.5437468,
-                                "lng": 77.2646503
+                                "lat": 28.5346759,
+                                "lng": 77.2601324
                             },
                             "travel_mode": "DRIVING"
                         },
@@ -643,7 +694,7 @@
                             "html_instructions": "Turn <b>right</b> toward <b>Shree ram marg</b>",
                             "maneuver": "turn-right",
                             "polyline": {
-                                "points": "ow_mDy}mvMc@C[?"
+                                "points": "ow_mDy}mvMa@C]?"
                             },
                             "start_location": {
                                 "lat": 28.5120797,
@@ -729,7 +780,7 @@
                 }
             ],
             "overview_polyline": {
-                "points": "ooymDgs~vMDHYx@g@bBc@hAEJLNt@v@v@l@jBjAhAf@fBd@nB^jAL\\F`A@~CKbAIv@KjASbB_@bM}EhBq@zFyBxD_BjBs@pAi@~@i@j@]|@Wt@SJd@d@lB`AxEtAzFl@fC^tBdA~EfBrHv@rD?~@XlAh@lDE^t@pDzDfPjAnF`CjK~A`Hx@bDtAbGp@bDjAfFbAnEfDhN~EnS~B~JpAlFtSv|@dArD`BjFVj@bAvBn@hAZj@d@v@bBdCzArBbBnB`AbAjBdBjDlCxHnGzGlGfC|BlCvClBfCb@n@xAfCbApBdAfCt@rBbAvCxC`J`BzE|@dCr@tB\\x@Tx@rAtDdAvCh@nAt@vAZl@v@fBx@dCjAlD^fAxAfE`CdHpAtDvAlD|AvEVr@\\fAb@vA\\`Bf@fBDT@\\Ed@IxAAtA|D{@fB]tGyAb@AHBv@WjCm@bFoA|@SbB[jJwBhCo@tIkBbGwAzAe@p@Wf@Wd@_@TWd@e@\\a@\\o@lAoC~C_GnA_CnBkDdAaB~AsBbBeC|@_Bt@eBNu@TkCT}BNcAJ[Ti@`@w@l@{@n@k@^Uf@Wj@Kd@?l@L^VLPRb@Lv@AZATFb@CTm@vC?h@Jl@Vn@xA`Cb@p@Nl@pB|CjB`DnDdG`@r@pAkAzBiBpCeCvCyBnAk@nD}AzAo@zBiAvAy@rD_CtEqCpD}BLKFPtAlCxA`CrAjB~CjD`DlDt@nAl@rAjA_ArE_DhAw@rDgC`B{@|B{A`D_CvHcFxDiC|@k@JSD]@SCUIQMQQM[KS?UFQJS^I`@BjAz@rBf@tAt@hBjBjEv@hBvAhDd@~@LRXTbAr@fAf@r@\\~Bx@fBj@x@PfBh@XKN?dCn@tAf@~Av@t@h@b@d@`@x@FLlBn@j@C|IgCtDiAjLwDLEBHJ^Lb@Z~AHXLLJDzC|@rFbBdCt@xBd@pBj@dAXr@VfEpAvDfArDbAzBf@zA`@t@XvA`@`Cp@jBh@hBd@~DlAbAVfFzAbMlDlA^nCt@^Dr@NpIdCdEjAtD|@lEfAB@fCn@bEpAjMjDrLxCrFtAhEjAzAZrAHrBFQtDKjE?`CBpCYrLEhECf@c@C[?GfByFa@QzBKfB"
+                "points": "ooymDgs~vMDHYx@g@bBc@hAEJLNt@v@v@l@jBjAhAf@fBd@nB^jAL\\F`A@~CKbAIv@KjASbB_@bM}EhBq@zFyBxD_BjBs@pAi@~@i@j@]|@Wt@SJd@d@lB`AxEtAzFl@fC^tBdA~EfBrHv@rD?~@XlAh@lDE^t@pDzDfPjAnF`CjK~A`Hx@bDtAbGp@bDjAfFbAnEfDhN~EnS~B~JpAlFtSv|@dArD`BjFVj@bAvBn@hAZj@d@v@bBdCzArBbBnB`AbAjBdBjDlCxHnGzGlGfC|BlCvClBfCb@n@xAfCbApBdAfCt@rBbAvCxC`J`BzE|@dCr@tB\\x@Tx@rAtDdAvCh@nAt@vAZl@v@fBx@dCjAlD^fAxAfE`CdHpAtDvAlD|AvEVr@\\fAb@vA\\`Bf@fBDT@\\Ed@IxAAtA|D{@fB]tGyAb@AHBv@WjCm@bFoA|@SbB[jJwBhCo@tIkBbGwAzAe@p@Wf@Wd@_@TWd@e@\\a@\\o@lAoC~C_GnA_CnBkDdAaB~AsBbBeC|@_Bt@eBNu@TkCT}BNcAJ[Ti@`@w@l@{@n@k@^Uf@Wj@Kd@?l@L^VLPRb@Lv@AZIn@i@nBI^CZ@t@Fl@L^P`@bA|Ad@~@DVBLf@j@V\\PRr@hA~@`BnAzBvBfDj@|@pBvDfArBv@zA~@`BzEnIl@bAtBpDnCjE|AzB^j@b@dAd@rA`@r@NZf@l@fAdAp@d@ZP|@XJDHEJAxBz@hCdAlCfAf@Xr@j@f@j@j@x@^z@d@hBPlAJrBZb@^TZJxF_@t@AbAKn@Ob@UX[HMXPn@p@fCnCf@f@^h@f@lAZfA^rBz@|F\\|AbAMT@lBs@zCm@j@CTDxAx@dDjBZs@bB{DPi@Rw@Hs@l@@zG]dCQd@D`@RrAfAvC~B\\q@`@o@r@e@|DyAjFuBfBq@~K{DlD{AHEFTp@dCxCrKLf@ANAL|@bC\\jATd@FDN@TCxB{@ZMp@c@`Aq@nAgAz@cAh@w@vAuC|@{Bj@eB~@uClBmG|@iClBiFvBuG~@gCn@_Bl@qA^o@f@e@f@k@|BcBZGhAk@lAa@~@[Zm@h@sCp@oDDMJDtCv@bBd@rDdAdGbBzFdBlMpDrDbAr@JjPxEdGvAjCp@hCn@tEvAtMnDrPfEnEjA~Bj@l@Ln@BzBFZDA^OtCKjEBbGIbFU`ICnC_ACGfByFa@UbDG~@"
             },
             "summary": "NE 3",
             "warnings": [],
